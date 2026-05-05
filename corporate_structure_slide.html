@@ -1,0 +1,179 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Corporate Structure — Slide 6</title>
+<style>
+  :root{
+    --maroon:#7C0A02;
+    --maroon-dark:#5C0701;
+    --ink:#1a1a1a;
+    --muted:#555;
+    --rule:#cfcfcf;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;padding:0;background:#e8e8e8;font-family:"EB Garamond","Garamond","Adobe Garamond Pro",Georgia,serif;color:var(--ink)}
+
+  /* 16:9 slide canvas — 1280x720 base */
+  .slide{
+    width:1280px;height:720px;background:#fff;margin:20px auto;position:relative;
+    box-shadow:0 4px 20px rgba(0,0,0,.15);
+    overflow:hidden;
+  }
+
+  /* Top maroon band */
+  .top-band{position:absolute;top:0;left:0;right:0;height:22px;background:var(--maroon)}
+
+  /* Title */
+  .title{position:absolute;top:42px;left:48px;font-size:40px;color:var(--maroon);font-weight:400;letter-spacing:-.5px}
+
+  /* Bottom rule + footer logos */
+  .footer-rule{position:absolute;left:48px;right:48px;bottom:74px;border-top:1px solid var(--rule)}
+  .booth{position:absolute;left:48px;bottom:24px;font-family:Arial,Helvetica,sans-serif;font-size:11px;color:#333;line-height:1.2}
+  .booth .big{font-size:22px;font-weight:900;letter-spacing:-.5px}
+  .booth .big .red{color:var(--maroon)}
+  .booth .small{font-size:8px;color:#555;margin-top:2px;letter-spacing:.5px}
+  .opi-logo{position:absolute;right:48px;bottom:30px;font-family:Arial,Helvetica,sans-serif;text-align:right}
+  .opi-logo .name{font-size:11px;font-weight:700;letter-spacing:1px;color:#222}
+  .opi-logo .sub{font-size:7px;letter-spacing:3px;color:#666;margin-top:1px}
+
+  /* Quadrant grid */
+  .grid{position:absolute;top:108px;left:48px;right:48px;bottom:96px;display:grid;
+        grid-template-columns:1fr 1fr;grid-template-rows:1fr 1fr;gap:16px 18px}
+
+  .quad{display:flex;flex-direction:column;min-height:0}
+  .quad-header{
+    background:var(--maroon);color:#fff;border-radius:14px;
+    padding:7px 18px;font-size:16px;letter-spacing:.2px;
+    box-shadow:0 1px 0 rgba(0,0,0,.1);
+    border:1px solid var(--maroon-dark);
+    flex:0 0 auto;
+  }
+  .quad-body{flex:1 1 auto;padding:8px 6px 0 6px;font-size:11.5px;line-height:1.32;color:var(--ink);overflow:hidden}
+
+  ul.tight{margin:4px 0 0 18px;padding:0}
+  ul.tight li{margin:2px 0}
+  .kv{display:grid;grid-template-columns:auto 1fr;gap:2px 10px;margin-top:2px;font-size:11.5px}
+  .kv .k{color:var(--maroon);font-weight:700}
+  .kv .v{color:var(--ink)}
+
+  /* Mini table for silos */
+  table.silos{width:100%;border-collapse:collapse;margin-top:4px;font-size:10.5px;font-family:Arial,Helvetica,sans-serif}
+  table.silos th, table.silos td{border-bottom:1px solid #e2e2e2;padding:3px 4px;text-align:left;vertical-align:top}
+  table.silos thead th{background:#f5ecec;color:var(--maroon);font-weight:700;font-size:10px;letter-spacing:.3px;text-transform:uppercase;border-bottom:1.5px solid var(--maroon)}
+  table.silos td.amt{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}
+  table.silos tr.total td{font-weight:700;background:#faf3f3;border-top:1.5px solid var(--maroon);border-bottom:none}
+  .pill{display:inline-block;background:#fff;border:1px solid var(--maroon);color:var(--maroon);
+        border-radius:999px;padding:0 6px;font-size:9.5px;font-family:Arial,Helvetica,sans-serif;font-weight:700;letter-spacing:.3px;margin-left:3px}
+  .pill.alt{background:var(--maroon);color:#fff}
+  .note{font-size:10px;color:var(--muted);font-style:italic;margin-top:6px;line-height:1.3}
+
+  .bignum{font-family:Arial,Helvetica,sans-serif;font-weight:800;color:var(--maroon);font-size:13px}
+  b{color:var(--ink)}
+</style>
+</head>
+<body>
+
+<div class="slide">
+
+  <div class="top-band"></div>
+  <div class="title">Corporate Structure</div>
+
+  <div class="grid">
+
+    <!-- ============ TOP-LEFT: Entity composition ============ -->
+    <div class="quad">
+      <div class="quad-header">Entity Composition &amp; Debtor Footprint</div>
+      <div class="quad-body">
+        <div class="kv">
+          <div class="k">Ultimate parent</div><div class="v">Office Properties Income Trust (OPI) — Maryland REIT, externally managed by RMR, no employees</div>
+          <div class="k">Total entities</div><div class="v"><span class="bignum">81</span></div>
+          <div class="k">Debtor entities</div><div class="v"><span class="bignum">73</span> &nbsp;(~<b>90%</b> of the group)</div>
+          <div class="k">Non-Debtor entities</div><div class="v"><span class="bignum">8</span> &nbsp;= 7 CMBS SPEs + 1 JV (First Potomac DC Holdings, 51% LLC interest)</div>
+          <div class="k">Properties</div><div class="v"><b>117</b> at Debtors &nbsp;+&nbsp; <b>7</b> at non-Debtor CMBS SPEs &nbsp;+&nbsp; <b>2</b> at JV &nbsp;=&nbsp; <b>126</b> total</div>
+          <div class="k">OPI direct debt</div><div class="v">Issuer of <b>$1,819mm</b> of notes across 5 tranches; parent guarantor of $425mm Credit Facility; limited recourse-carve-out guaranty on $177.3mm non-Debtor CMBS</div>
+          <div class="k">Governance</div><div class="v">Independent Trustee Tim Pohl (Special Committee at OPI); separate independent directors at S29 (Patrick Bartels) and M27 (Jill Frizzley) silos</div>
+        </div>
+        <div class="note">Alternative count from the &ldquo;Comprehensive Corporate Chart with Debt Overlay&rdquo; demonstrative shows 72 / 63 / 9 — the difference is whether intermediate non-Debtor holdcos are drawn as separate boxes. Both reconcile to the same 7 non-Debtor CMBS properties and the same $177.3mm of non-Debtor funded debt.</div>
+      </div>
+    </div>
+
+    <!-- ============ TOP-RIGHT: Six debt silos ============ -->
+    <div class="quad">
+      <div class="quad-header">Six Debt Silos at the Debtors ($2,244mm)</div>
+      <div class="quad-body">
+        <table class="silos">
+          <thead>
+            <tr><th>Silo</th><th class="amt">Amount</th><th>Coupon · Maturity</th><th class="amt">Props</th><th>Lien / Guarantee</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Credit Facility</td><td class="amt">$425mm</td><td>S+3.50% · Jan 2027</td><td class="amt">19</td><td>1L mtg + equity pledge; OPI parent gtee</td></tr>
+            <tr><td>March 2029 Notes</td><td class="amt">$300mm</td><td>9.000% · Mar 2029</td><td class="amt">17</td><td>1L mtg + equity pledge; 5 sub gtors</td></tr>
+            <tr><td>September 2029 Notes</td><td class="amt">$610mm</td><td>9.000% · Sep 2029</td><td class="amt">19</td><td>1L on 19 props + <b>2L over RC&rsquo;s 19</b>; 9 sub gtors</td></tr>
+            <tr><td>March 2027 Notes</td><td class="amt">$418mm</td><td>3.250% · Mar 2027</td><td class="amt">35</td><td>1L on 35 + <b>2L over S29&rsquo;s 19</b> + <b>unsec gtee from 31 subs</b></td></tr>
+            <tr><td>Priority Gtd Notes (PGN)</td><td class="amt">$14.4mm</td><td>8.000% · Jan 2030</td><td class="amt">25 unenc.</td><td>Unsec gtee from <b>same 31 subs</b> as M27</td></tr>
+            <tr><td>Senior Unsecured Notes</td><td class="amt">$476.6mm</td><td>2026 / 27 / 31 / 50</td><td class="amt">—</td><td><b>No sub guarantees</b> → structurally subordinated</td></tr>
+            <tr class="total"><td>Total Debtor funded debt</td><td class="amt">$2,244mm</td><td colspan="3"></td></tr>
+          </tbody>
+        </table>
+        <div class="note">Layered waterfall: Credit Facility &rarr; S29 &rarr; M27 each step junior on the same overlapping property pool. Senior Unsecured holders sit behind <b>all</b> 1L sub guarantors <b>and</b> the 31-sub unsecured package.</div>
+      </div>
+    </div>
+
+    <!-- ============ BOTTOM-LEFT: Non-debtor detail ============ -->
+    <div class="quad">
+      <div class="quad-header">Non-Debtor Subsidiaries — Ring-Fenced from Ch. 11</div>
+      <div class="quad-body">
+        <div class="kv">
+          <div class="k">Non-Debtor CMBS</div><div class="v"><span class="bignum">$177.3mm</span> · 7.79% · matures 2028&ndash;2033 · <b>7 properties</b><span class="pill alt">ONLY tranche entirely at non-Debtors</span></div>
+          <div class="k">As % of debt</div><div class="v"><b>~7.3%</b> of $2,421.3mm consolidated funded debt</div>
+        </div>
+        <ul class="tight">
+          <li><b>UBS Borrowers</b> — $54.3mm, 2 properties (Clay Ave Waco LLC; Primerica Pkwy GA LLC); Loan Agt 9/13/23</li>
+          <li><b>JPM Borrowers</b> — $123.0mm, 5 properties ($14.9 / $30.7 / $8.4 / $26.3 / $42.7mm); CMBS securitized; Loan Agts May&ndash;Aug 2023</li>
+          <li>Non-recourse SPEs · DACAs to special servicer · CMBS loans <b>performing</b>, outside Ch. 11</li>
+          <li>OPI provides only a <b>limited (recourse carve-out) guaranty</b> — Debtors negotiating waivers of bankruptcy-related defaults</li>
+          <li><b>Holdcos of 5 of the 7</b> non-Debtor mortgage properties <b>are themselves Debtors</b> and sit inside the 31-sub unsecured PGN/M27 guarantee package</li>
+        </ul>
+        <div class="kv" style="margin-top:6px">
+          <div class="k">Non-Debtor JV</div><div class="v">First Potomac DC Holdings, LLC — <b>51%</b> LLC interest, <b>2 properties</b> (legacy FPO acquisition); unconsolidated; cash to OPI only via distributions</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ============ BOTTOM-RIGHT: Guarantee architecture / takeaways ============ -->
+    <div class="quad">
+      <div class="quad-header">Guarantee Architecture &amp; Key Takeaways</div>
+      <div class="quad-body">
+        <ul class="tight">
+          <li><b>Silos do not cross-guarantee each other&rsquo;s 1L debt</b> — each silo has its own sub-guarantor set, own independent director, own restructuring advisors (Paul Weiss/Ducera at M29; White &amp; Case/Houlihan at S29; Milbank/Evercore at M27; Glenn Agre/Province at PGN/Unencumbered)</li>
+          <li><b>Layered 2L liens</b> create a clean waterfall on the overlapping pools: RC (1L) &rarr; S29 (2L on RC&rsquo;s 19 props, 1L on its own 19) &rarr; M27 (2L on S29&rsquo;s 19, 1L on its own 35)</li>
+          <li>The <b>31-sub unsecured package</b> is the bridge that makes M27 and PGN economically equivalent at those subs and pushes Senior Unsecured even further down the structural ladder</li>
+          <li><b>Cash management:</b> GPIT Concentration Account is the group hub; Credit Facility silo is self-contained (DACAs to RC agent — skipped from the OPI sweep); each post-petition silo runs its own operating account, generating new IC claims</li>
+          <li>Independent directors and silo-specific advisors signal <b>silo integrity</b> &mdash; the estates are intended to be administered separately rather than substantively consolidated</li>
+        </ul>
+        <div class="kv" style="margin-top:8px">
+          <div class="k">Debtors</div><div class="v"><b>$2,244mm</b> funded debt &nbsp;(~<b>92.7%</b>) &nbsp;·&nbsp; ~<b>90%</b> of entities &nbsp;·&nbsp; <b>117</b> properties</div>
+          <div class="k">Non-Debtors</div><div class="v"><b>$177.3mm</b> funded debt &nbsp;(~<b>7.3%</b>) &nbsp;·&nbsp; <b>8</b> entities &nbsp;·&nbsp; <b>9</b> properties (7 CMBS + 2 JV)</div>
+        </div>
+        <div class="note">Sources: First-Day Decl. of A. Aiello (Doc. 26) &para;&para;24, 31, 45&ndash;47, 49&ndash;72, 95&ndash;96, 101; 11/3/25 First-Day Hearing demonstratives pp. 3, 8&ndash;16; Exhibits B, B-1 to B-5.</div>
+      </div>
+    </div>
+
+  </div><!-- /grid -->
+
+  <!-- Footer -->
+  <div class="footer-rule"></div>
+  <div class="booth">
+    <div class="big">CHICAGO <span class="red">BOOTH</span></div>
+    <div class="small">THE UNIVERSITY OF CHICAGO BOOTH SCHOOL OF BUSINESS</div>
+  </div>
+  <div class="opi-logo">
+    <div class="name">OFFICE PROPERTIES</div>
+    <div class="sub">INCOME TRUST</div>
+  </div>
+
+</div>
+
+</body>
+</html>
