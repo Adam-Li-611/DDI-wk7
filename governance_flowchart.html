@@ -1,0 +1,194 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>OPI – Management Structure & Governance</title>
+<style>
+  :root{
+    --ink:#0f172a; --muted:#475569; --line:#94a3b8;
+    --opi:#1e3a8a; --opi-soft:#dbeafe;
+    --rmr:#9a3412; --rmr-soft:#ffedd5;
+    --board:#065f46; --board-soft:#d1fae5;
+    --indep:#7c2d12; --indep-soft:#fef3c7;
+    --sub:#4c1d95; --sub-soft:#ede9fe;
+    --rel:#9d174d; --rel-soft:#fce7f3;
+  }
+  *{box-sizing:border-box}
+  body{font-family:-apple-system,Segoe UI,Helvetica,Arial,sans-serif;color:var(--ink);background:#f8fafc;margin:0;padding:28px}
+  h1{font-size:22px;margin:0 0 4px}
+  .sub{color:var(--muted);font-size:13px;margin-bottom:18px}
+  .chart{display:grid;grid-template-columns:1fr;gap:18px;max-width:1200px;margin:auto}
+  .row{display:flex;justify-content:center;gap:22px;flex-wrap:wrap;align-items:stretch}
+  .box{border-radius:10px;padding:10px 14px;min-width:220px;max-width:320px;box-shadow:0 1px 2px rgba(0,0,0,.06);font-size:13px;line-height:1.35}
+  .box h3{margin:0 0 4px;font-size:13px;letter-spacing:.02em;text-transform:uppercase}
+  .box p{margin:2px 0}
+  .box .role{color:var(--muted);font-size:11.5px}
+  .opi{background:var(--opi-soft);border:1.5px solid var(--opi)}
+  .opi h3{color:var(--opi)}
+  .rmr{background:var(--rmr-soft);border:1.5px solid var(--rmr)}
+  .rmr h3{color:var(--rmr)}
+  .board{background:var(--board-soft);border:1.5px solid var(--board)}
+  .board h3{color:var(--board)}
+  .indep{background:var(--indep-soft);border:1.5px solid var(--indep)}
+  .indep h3{color:var(--indep)}
+  .sub{background:var(--sub-soft);border:1.5px solid var(--sub)}
+  .sub h3{color:var(--sub)}
+  .rel{background:var(--rel-soft);border:1.5px solid var(--rel)}
+  .rel h3{color:var(--rel)}
+  .arrow{height:18px;display:flex;justify-content:center;align-items:center;color:var(--line);font-size:18px}
+  .legend{display:flex;gap:16px;flex-wrap:wrap;font-size:12px;color:var(--muted);margin-top:10px}
+  .legend span{display:inline-flex;align-items:center;gap:6px}
+  .swatch{width:12px;height:12px;border-radius:3px;display:inline-block}
+  .label{font-size:11.5px;color:var(--muted);text-align:center;margin:-6px 0 -4px}
+  .grid3{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
+  .grid2{display:grid;grid-template-columns:repeat(2,1fr);gap:14px}
+  .note{font-size:11.5px;color:var(--muted)}
+  .footer{margin-top:18px;font-size:11.5px;color:var(--muted);max-width:1100px;margin-left:auto;margin-right:auto;line-height:1.5}
+  .pill{display:inline-block;background:#fff;border:1px solid var(--line);border-radius:999px;padding:1px 8px;font-size:11px;color:var(--muted);margin-left:6px}
+</style>
+</head>
+<body>
+
+<h1>Office Properties Income Trust (OPI) – Management Structure & Governance</h1>
+<div class="sub">Source: First Day Declaration (Doc 26, 10/31/25), §B Corporate Organization &amp; Governance and §4 Management and Operations</div>
+
+<div class="chart">
+
+  <!-- TIER 1: Shareholders / Manager parent -->
+  <div class="row">
+    <div class="box rmr">
+      <h3>The RMR Group Inc. (RMR Inc.)</h3>
+      <p class="role">Publicly traded alternative asset manager · CRE focus</p>
+      <p>Parent of the OPI external manager</p>
+    </div>
+  </div>
+  <div class="arrow">▼ majority owner</div>
+  <div class="row">
+    <div class="box rmr">
+      <h3>The RMR Group LLC (“RMR” / Manager)</h3>
+      <p class="role">External manager – OPI has NO employees</p>
+      <p>Provides all officers (ex-CRO), staff, and corporate services</p>
+    </div>
+  </div>
+
+  <div class="arrow">▼ two management agreements</div>
+
+  <div class="row">
+    <div class="box rmr" style="max-width:340px">
+      <h3>RMR Business Management Agreement</h3>
+      <p>Corporate-level services: real estate investment, M&amp;A, accounting, legal, compliance, risk, IR, personnel.</p>
+      <p class="note">All officers (other than CRO) are RMR employees.</p>
+    </div>
+    <div class="box rmr" style="max-width:340px">
+      <h3>RMR Property Management Agreement</h3>
+      <p>Property-level services: leasing, rent collection, repairs, vendors, insurance, taxes, evictions.</p>
+      <p class="note">Fee: <b>3% of gross collected rents</b> + <b>5% construction-supervision fee</b>; expenses reimbursed.</p>
+    </div>
+  </div>
+
+  <div class="arrow">▼ services delivered to</div>
+
+  <!-- TIER 2: OPI -->
+  <div class="row">
+    <div class="box opi" style="min-width:520px">
+      <h3>Office Properties Income Trust (OPI)</h3>
+      <p class="role">Maryland REIT · HQ Newton, MA · Ultimate parent of all Debtors and certain non-Debtor SPEs</p>
+      <p class="note">No employees; one operating segment (office real estate); 51% interest in unconsolidated JV (2 properties).</p>
+    </div>
+  </div>
+
+  <div class="arrow">▲ governs / oversees</div>
+
+  <!-- TIER 3: Board -->
+  <div class="row">
+    <div class="box board" style="min-width:560px">
+      <h3>OPI Board of Trustees — 9 Trustees</h3>
+      <p><b>2 Managing Trustees</b> (RMR-affiliated) &nbsp;|&nbsp; <b>7 Independent Trustees</b></p>
+      <p class="note">RMR is subject to Board oversight. Affiliate transactions with RMR require majority of Independent Trustees; RMR comp limited to Mgmt Agreements / Comp Committee approval.</p>
+    </div>
+  </div>
+
+  <div class="arrow">▼ committees (all 100% Independent Trustees)</div>
+
+  <div class="row">
+    <div class="box indep"><h3>Audit Committee</h3><p class="role">Independent Trustees only</p></div>
+    <div class="box indep"><h3>Compensation Committee</h3><p class="role">Independent Trustees only · approves any non-standard RMR comp</p></div>
+    <div class="box indep"><h3>Nominating &amp; Governance Committee</h3><p class="role">Independent Trustees only</p></div>
+  </div>
+
+  <div class="arrow">▼ pre-petition restructuring governance overlay</div>
+
+  <div class="row">
+    <div class="box indep" style="max-width:360px">
+      <h3>OPI Special Committee</h3>
+      <p><b>Sole member:</b> Timothy Pohl <span class="pill">elected 6/11/25 · committee 6/12/25</span></p>
+      <p class="note">Authority to review, negotiate &amp; recommend restructuring; control investigation of Potential Claims.</p>
+    </div>
+    <div class="box sub" style="max-width:360px">
+      <h3>2027 Notes – Pledged Subsidiaries</h3>
+      <p>Subsidiary Board added <b>Jill Frizzley</b> (independent) – 7/24/25</p>
+      <p class="note">Subsidiary Special Committee with same restructuring authority at the silo level.</p>
+    </div>
+    <div class="box sub" style="max-width:360px">
+      <h3>September 2029 Notes – Pledged Subsidiaries</h3>
+      <p>Subsidiary Board added <b>Patrick Bartels</b> (independent) – 7/24/25</p>
+      <p class="note">Subsidiary Special Committee for the 2029 notes silo.</p>
+    </div>
+  </div>
+
+  <div class="arrow">▼ executive officers (all RMR employees, except CRO)</div>
+
+  <!-- Officers -->
+  <div class="row">
+    <div class="box opi" style="max-width:260px">
+      <h3>Adam Portnoy</h3>
+      <p class="role">Chair of the Board · Managing Trustee</p>
+      <p class="note">RMR employee · also director &amp; controlling shareholder of Sonesta</p>
+    </div>
+    <div class="box opi" style="max-width:260px">
+      <h3>Jennifer Clark</h3>
+      <p class="role">Managing Trustee · Secretary</p>
+      <p class="note">RMR employee · director of Sonesta</p>
+    </div>
+    <div class="box opi" style="max-width:260px">
+      <h3>Yael Duffy</h3>
+      <p class="role">President &amp; COO</p>
+      <p class="note">RMR employee</p>
+    </div>
+    <div class="box opi" style="max-width:260px">
+      <h3>Brian Donley</h3>
+      <p class="role">CFO &amp; Treasurer</p>
+      <p class="note">RMR employee</p>
+    </div>
+    <div class="box indep" style="max-width:260px">
+      <h3>Chief Restructuring Officer</h3>
+      <p class="role">The only officer NOT employed by RMR</p>
+    </div>
+  </div>
+
+  <div class="arrow">▼ related-party operating arrangement (hotel only)</div>
+
+  <div class="row">
+    <div class="box rel" style="max-width:520px">
+      <h3>Sonesta Management Agreement (Hotel)</h3>
+      <p>GPIT owns 20 Mass Ave NW, DC (Royal Sonesta Capitol Hill, 247 rooms) → leases hotel to <b>20 Mass Ave TRS Inc.</b> (taxable REIT sub) → TRS contracts with <b>Sonesta DC Hotel LLC</b> to operate.</p>
+      <p class="note">Related party: Adam Portnoy is director &amp; controlling shareholder of Sonesta; Jennifer Clark is a Sonesta director. Fees: 1.5% / 3.0% base mgmt; 20% incentive over owner’s priority; 1.75% / 3.5% brand promotion; loyalty fee.</p>
+    </div>
+  </div>
+
+  <div class="legend">
+    <span><span class="swatch" style="background:var(--rmr)"></span> External Manager (RMR)</span>
+    <span><span class="swatch" style="background:var(--opi)"></span> OPI / Officers</span>
+    <span><span class="swatch" style="background:var(--board)"></span> Board</span>
+    <span><span class="swatch" style="background:var(--indep)"></span> Independent / Special Committee</span>
+    <span><span class="swatch" style="background:var(--sub)"></span> Subsidiary Board (silo)</span>
+    <span><span class="swatch" style="background:var(--rel)"></span> Related-party agreement</span>
+  </div>
+</div>
+
+<div class="footer">
+  <b>Key takeaways for the memo:</b> (1) OPI is a fully externally-managed REIT — every officer except the CRO is on RMR’s payroll, and conflicts run through the Independent Trustees / Compensation Committee. (2) Pre-petition, the Board layered in three independent fiduciaries (Pohl at OPI; Frizzley for the 2027 silo; Bartels for the 2029 silo) so each major creditor silo has a clean, conflicts-cleansed decision-maker on restructuring and on potential claims investigation. (3) The Sonesta hotel arrangement is a related-party fee stream sitting at the GPIT/TRS level and worth flagging in the governance discussion.
+</div>
+
+</body>
+</html>
