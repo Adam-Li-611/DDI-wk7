@@ -1,0 +1,452 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>OPI – Corporate Structure with Debt & Guarantee Overlay</title>
+<style>
+  :root{
+    --ink:#0f172a; --muted:#475569; --line:#94a3b8;
+    --opi:#1e3a8a; --opi-soft:#dbeafe;
+    --rc:#a16207; --rc-soft:#fef3c7;
+    --m29:#047857; --m29-soft:#d1fae5;
+    --s29:#065f46; --s29-soft:#a7f3d0;
+    --m27:#9d174d; --m27-soft:#fce7f3;
+    --pgn:#9a3412; --pgn-soft:#ffedd5;
+    --uns:#6b21a8; --uns-soft:#f3e8ff;
+    --nd:#991b1b;  --nd-soft:#fee2e2;
+    --jv:#9f1239;  --jv-soft:#ffe4e6;
+    --cash:#0369a1; --cash-soft:#e0f2fe;
+    --gtee:#312e81;
+  }
+  *{box-sizing:border-box}
+  body{font-family:-apple-system,Segoe UI,Helvetica,Arial,sans-serif;color:var(--ink);background:#f8fafc;margin:0;padding:24px}
+  h1{font-size:22px;margin:0 0 4px}
+  h2{font-size:15px;margin:18px 0 8px;color:var(--ink);border-left:4px solid var(--opi);padding-left:8px}
+  .sub{color:var(--muted);font-size:12px;margin-bottom:16px}
+  .legend{display:flex;gap:14px;flex-wrap:wrap;font-size:11.5px;color:var(--muted);margin:0 0 14px}
+  .legend span{display:inline-flex;align-items:center;gap:6px}
+  .swatch{width:12px;height:12px;border-radius:3px;display:inline-block;border:1px solid #00000014}
+
+  .chart{max-width:1500px;margin:auto}
+  .row{display:flex;justify-content:center;gap:14px;flex-wrap:wrap;align-items:stretch;margin:6px 0}
+  .arrow{height:18px;display:flex;justify-content:center;align-items:center;color:var(--line);font-size:16px;letter-spacing:1px}
+
+  /* Box */
+  .box{border-radius:10px;padding:9px 12px;min-width:220px;max-width:340px;box-shadow:0 1px 2px rgba(0,0,0,.05);font-size:12px;line-height:1.35;background:#fff;border:1.5px solid #cbd5e1}
+  .box h3{margin:0 0 4px;font-size:12.5px;letter-spacing:.02em}
+  .box p{margin:2px 0}
+  .box .role{color:var(--muted);font-size:11px}
+  .box .debt{display:inline-block;background:#0f172a;color:#fff;font-weight:700;padding:1px 7px;border-radius:999px;font-size:11px;margin-top:4px}
+  .box .gtee{display:inline-block;background:#fff;color:var(--gtee);border:1px dashed var(--gtee);padding:1px 7px;border-radius:999px;font-size:10.5px;margin:3px 3px 0 0}
+  .box .nondebtor-tag{display:inline-block;background:#991b1b;color:#fff;font-size:10px;padding:1px 6px;border-radius:4px;margin-left:4px;letter-spacing:.04em}
+  .box .debtor-tag{display:inline-block;background:#065f46;color:#fff;font-size:10px;padding:1px 6px;border-radius:4px;margin-left:4px;letter-spacing:.04em}
+  .pill{display:inline-block;background:#fff;border:1px solid var(--line);border-radius:999px;padding:1px 7px;font-size:10.5px;color:var(--muted);margin:2px 4px 0 0}
+
+  /* Silo color schemes */
+  .opi{background:var(--opi-soft);border:2px solid var(--opi)}
+  .opi h3{color:var(--opi)}
+  .rc{background:var(--rc-soft);border:1.5px solid var(--rc)}
+  .rc h3{color:var(--rc)}
+  .m29{background:var(--m29-soft);border:1.5px solid var(--m29)}
+  .m29 h3{color:var(--m29)}
+  .s29{background:var(--s29-soft);border:1.5px solid var(--s29)}
+  .s29 h3{color:var(--s29)}
+  .m27{background:var(--m27-soft);border:1.5px solid var(--m27)}
+  .m27 h3{color:var(--m27)}
+  .pgn{background:var(--pgn-soft);border:1.5px solid var(--pgn)}
+  .pgn h3{color:var(--pgn)}
+  .uns{background:var(--uns-soft);border:1.5px solid var(--uns)}
+  .uns h3{color:var(--uns)}
+  .nd{background:var(--nd-soft);border:1.5px solid var(--nd)}
+  .nd h3{color:var(--nd)}
+  .jv{background:var(--jv-soft);border:1.5px solid var(--jv)}
+  .jv h3{color:var(--jv)}
+  .cash{background:var(--cash-soft);border:1.5px solid var(--cash)}
+  .cash h3{color:var(--cash)}
+
+  /* Silo column wrapper */
+  .silo-col{display:flex;flex-direction:column;gap:8px;align-items:center;padding:10px;border-radius:12px;background:#ffffff80;border:1px dashed #cbd5e1;flex:1 1 240px;min-width:240px}
+  .silo-title{font-weight:700;font-size:12.5px;text-align:center;padding:6px 8px;border-radius:8px;width:100%;line-height:1.25}
+  .silo-stat{font-size:11px;color:var(--muted);text-align:center;margin-top:-4px}
+
+  table.matrix{border-collapse:collapse;width:100%;font-size:11.5px;margin-top:8px}
+  table.matrix th, table.matrix td{border:1px solid #cbd5e1;padding:6px 7px;vertical-align:top;text-align:left}
+  table.matrix thead th{background:#1e3a8a;color:#fff;font-weight:600}
+  table.matrix tbody th{background:#f1f5f9;color:var(--ink);font-weight:600;white-space:nowrap}
+  table.matrix td.x{background:#f8fafc;color:#94a3b8;text-align:center}
+  table.matrix td.lien1{background:#dcfce7}
+  table.matrix td.lien2{background:#fef9c3}
+  table.matrix td.unsec{background:#ffe4e6}
+  table.matrix td.iss{background:#dbeafe;font-weight:600}
+
+  .ic-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-top:8px}
+  .ic-card{border:1px solid #cbd5e1;border-left:4px solid var(--cash);background:#fff;border-radius:10px;padding:9px 12px;font-size:11.5px}
+  .ic-card b{color:var(--ink)}
+  .ic-card .arrow-text{display:block;color:var(--gtee);font-weight:600;margin-bottom:3px}
+
+  .footer{margin-top:18px;font-size:11px;color:var(--muted);line-height:1.55}
+  .source{font-style:italic}
+  .silo-summary{font-size:11px;color:var(--muted);text-align:center;margin-top:2px}
+</style>
+</head>
+<body>
+
+<h1>Office Properties Income Trust — Corporate Structure with Debt & Guarantee Overlay</h1>
+<div class="sub">Petition Date: 10/30/2025 · Case No. 25-90530 (SDTX, Judge Lopez) · Source: First-Day Declaration ¶¶24, 49–72, 95; 11/3/25 First-Day Hearing demonstrative slides pp. 3, 8–16; Exhibits B, B-1 to B-5</div>
+
+<div class="legend">
+  <span><span class="swatch" style="background:var(--opi-soft);border-color:var(--opi)"></span>Parent (Issuer)</span>
+  <span><span class="swatch" style="background:var(--rc-soft);border-color:var(--rc)"></span>Credit Facility</span>
+  <span><span class="swatch" style="background:var(--m29-soft);border-color:var(--m29)"></span>March 2029 Notes</span>
+  <span><span class="swatch" style="background:var(--s29-soft);border-color:var(--s29)"></span>September 2029 Notes</span>
+  <span><span class="swatch" style="background:var(--m27-soft);border-color:var(--m27)"></span>March 2027 Notes</span>
+  <span><span class="swatch" style="background:var(--pgn-soft);border-color:var(--pgn)"></span>PGN / Unencumbered</span>
+  <span><span class="swatch" style="background:var(--uns-soft);border-color:var(--uns)"></span>Senior Unsecured</span>
+  <span><span class="swatch" style="background:var(--nd-soft);border-color:var(--nd)"></span>Non-Debtor CMBS</span>
+  <span><span class="swatch" style="background:var(--jv-soft);border-color:var(--jv)"></span>Non-Debtor JV</span>
+  <span><span class="swatch" style="background:var(--cash-soft);border-color:var(--cash)"></span>Cash-Mgmt Hub</span>
+  <span><span class="debtor-tag">DBTR</span> = Debtor</span>
+  <span><span class="nondebtor-tag">NON-DBTR</span> = Non-Debtor</span>
+</div>
+
+<!-- ============================================================ -->
+<!-- TIER 1: OPI PARENT -->
+<!-- ============================================================ -->
+<div class="chart">
+
+<div class="row">
+  <div class="box opi" style="min-width:520px;max-width:780px">
+    <h3>Office Properties Income Trust (OPI)<span class="debtor-tag">DBTR</span></h3>
+    <p class="role">Maryland REIT · Ultimate parent of all Debtors and certain non-Debtor SPEs · Externally managed by RMR · No employees</p>
+    <p><b>Issuer of $1,819mm of Notes:</b> $300 March 2029 + $610 September 2029 + $418 March 2027 + $14.4 PGN + $476.6 Senior Unsecured</p>
+    <p><b>Parent guarantor:</b> $425mm Credit Facility (borrower is OPI WF Borrower) · <b>Limited (recourse-carve-out) guaranty:</b> $177.3mm Non-Debtor CMBS Mortgages</p>
+    <span class="debt">Direct debt at this box: $1,819mm</span>
+    <span class="pill">117 Debtor properties below</span>
+    <span class="pill">Indep. Trustee Tim Pohl (Special Committee)</span>
+  </div>
+</div>
+
+<div class="arrow">▼ owns directly or indirectly ▼</div>
+
+<!-- ============================================================ -->
+<!-- TIER 2: SILO COLUMNS — DEBTOR SIDE -->
+<!-- ============================================================ -->
+<h2>Debt silos (Debtor entities) · 117 properties</h2>
+
+<div class="row" style="align-items:flex-start">
+
+  <!-- CREDIT FACILITY -->
+  <div class="silo-col" style="border-color:var(--rc)">
+    <div class="silo-title" style="background:var(--rc-soft);color:var(--rc)">Credit Facility<br><span style="font-weight:400;font-size:11px">$425mm · S+3.50% · Jan 2027</span></div>
+    <div class="silo-summary">19 properties · 1L</div>
+
+    <div class="box rc">
+      <h3>OPI WF Holdings LLC<span class="debtor-tag">DBTR</span></h3>
+      <p class="role">Holdco · equity pledgor</p>
+      <span class="gtee">1L gtee + equity pledge: RC</span>
+      <span class="gtee">2L gtee + equity pledge: S29 Notes</span>
+    </div>
+    <div class="arrow">▼</div>
+    <div class="box rc">
+      <h3>OPI WF Borrower LLC<span class="debtor-tag">DBTR</span></h3>
+      <p class="role">Borrower under Credit Agreement</p>
+      <span class="debt">Direct debt: $425mm RC</span>
+      <span class="gtee">2L pledgor: S29 Notes</span>
+    </div>
+    <div class="arrow">▼</div>
+    <div class="box rc">
+      <h3>OPI WF Owner LLC<span class="debtor-tag">DBTR</span></h3>
+      <p class="role">Pledged Sub · also a "Reimbursing Entity"</p>
+      <span class="gtee">1L gtee + equity pledge: RC</span>
+      <span class="gtee">2L gtee + equity pledge: S29 Notes</span>
+    </div>
+    <div class="arrow">▼</div>
+    <div class="box rc">
+      <h3>440 First Street LLC + other Pledged Subs<span class="debtor-tag">DBTR</span></h3>
+      <p class="role">Own 19 properties · "Reimbursing Entity"</p>
+      <span class="gtee">1L mortgages + gtee: RC ($425mm)</span>
+      <span class="gtee">2L mortgages + gtee: S29 ($610mm)</span>
+      <p class="role" style="margin-top:4px">Self-contained cash mgmt; DACAs to RC agent</p>
+    </div>
+  </div>
+
+  <!-- MARCH 2029 -->
+  <div class="silo-col" style="border-color:var(--m29)">
+    <div class="silo-title" style="background:var(--m29-soft);color:var(--m29)">March 2029 Notes<br><span style="font-weight:400;font-size:11px">$300mm · 9.000% · Mar 2029</span></div>
+    <div class="silo-summary">17 properties · 1L</div>
+
+    <div class="box m29">
+      <h3>OPI (issuer)<span class="debtor-tag">DBTR</span></h3>
+      <p class="role">Issued at OPI — counted in Tier 1</p>
+    </div>
+    <div class="arrow">▼ pledges equity / 1L mortgages</div>
+    <div class="box m29">
+      <h3>5 March 2029 Notes Sub Guarantors<span class="debtor-tag">DBTR</span></h3>
+      <p class="role">Own 17 properties</p>
+      <span class="gtee">1L gtee + equity pledge + 1L mortgages</span>
+      <p class="role" style="margin-top:4px">Postpetition op acct in favor of M29</p>
+      <p class="role">Advisors: Paul Weiss, Ducera</p>
+    </div>
+  </div>
+
+  <!-- SEPTEMBER 2029 -->
+  <div class="silo-col" style="border-color:var(--s29)">
+    <div class="silo-title" style="background:var(--s29-soft);color:var(--s29)">September 2029 Notes<br><span style="font-weight:400;font-size:11px">$610mm · 9.000% · Sep 2029</span></div>
+    <div class="silo-summary">19 properties · 1L (+ 2L over RC's 19)</div>
+
+    <div class="box s29">
+      <h3>OPI (issuer)<span class="debtor-tag">DBTR</span></h3>
+      <p class="role">Issued at OPI — counted in Tier 1</p>
+    </div>
+    <div class="arrow">▼ pledges equity / 1L mortgages</div>
+    <div class="box s29">
+      <h3>9 September 2029 Notes Sub Guarantors<span class="debtor-tag">DBTR</span></h3>
+      <p class="role">Own 19 properties</p>
+      <span class="gtee">1L gtee + equity pledge + 1L mortgages</span>
+      <span class="gtee">2L pledged + 2L mortgages: M27 Notes</span>
+      <p class="role" style="margin-top:4px">Indep. director: Patrick Bartels</p>
+      <p class="role">Advisors: White & Case, Houlihan Lokey</p>
+    </div>
+  </div>
+
+  <!-- MARCH 2027 -->
+  <div class="silo-col" style="border-color:var(--m27)">
+    <div class="silo-title" style="background:var(--m27-soft);color:var(--m27)">March 2027 Notes<br><span style="font-weight:400;font-size:11px">$418mm · 3.250% · Mar 2027</span></div>
+    <div class="silo-summary">35 props · 1L (+ 2L over S29's 19 + unsec gtee from 31 subs)</div>
+
+    <div class="box m27">
+      <h3>OPI (issuer)<span class="debtor-tag">DBTR</span></h3>
+      <p class="role">Issued at OPI — counted in Tier 1</p>
+    </div>
+    <div class="arrow">▼ pledges equity / 1L mortgages</div>
+    <div class="box m27">
+      <h3>19 March 2027 Notes Sub Guarantors (1L)<span class="debtor-tag">DBTR</span></h3>
+      <p class="role">Own 35 properties · GPIT is one of these</p>
+      <span class="gtee">1L gtee + equity pledge + 1L mortgages</span>
+      <p class="role" style="margin-top:4px">Indep. director: Jill Frizzley</p>
+      <p class="role">Advisors: Milbank, Evercore</p>
+    </div>
+    <div class="arrow">+ unsecured guarantee from 31 other Debtor subs ▼</div>
+    <div class="box m27" style="border-style:dashed">
+      <h3>31 unsec guarantor Debtor subs<span class="debtor-tag">DBTR</span></h3>
+      <p class="role">Includes holdcos of 5 of 7 Non-Debtor mortgage props</p>
+      <span class="gtee">Unsec gtee: M27 ($418mm)</span>
+      <span class="gtee">Unsec gtee: PGN ($14.4mm)</span>
+      <p class="role" style="margin-top:4px">Same set guarantees PGN — see next column</p>
+    </div>
+  </div>
+
+  <!-- PGN / UNENCUMBERED -->
+  <div class="silo-col" style="border-color:var(--pgn)">
+    <div class="silo-title" style="background:var(--pgn-soft);color:var(--pgn)">PGN / Unencumbered<br><span style="font-weight:400;font-size:11px">$14.4mm PGN · 8.000% · Jan 2030</span></div>
+    <div class="silo-summary">25 unencumbered properties</div>
+
+    <div class="box pgn">
+      <h3>OPI (issuer)<span class="debtor-tag">DBTR</span></h3>
+      <p class="role">Issued at OPI — counted in Tier 1</p>
+    </div>
+    <div class="arrow">▼ unsecured guarantee</div>
+    <div class="box pgn">
+      <h3>25 Unencumbered Property-Owning Subs<span class="debtor-tag">DBTR</span></h3>
+      <p class="role">No 1L silo — sit within the 31-sub PGN/M27 unsecured guarantee package</p>
+      <span class="gtee">Unsec gtee: PGN + M27</span>
+      <p class="role" style="margin-top:4px">Postpetition op acct in favor of Unencumbered Properties</p>
+      <p class="role">Advisors: Glenn Agre, Province</p>
+    </div>
+  </div>
+
+  <!-- SENIOR UNSECURED -->
+  <div class="silo-col" style="border-color:var(--uns)">
+    <div class="silo-title" style="background:var(--uns-soft);color:var(--uns)">Senior Unsecured Notes<br><span style="font-weight:400;font-size:11px">$476.6mm · 2026/2027/2031/2050</span></div>
+    <div class="silo-summary">No subsidiary guarantee · structurally subordinated</div>
+
+    <div class="box uns">
+      <h3>OPI — issuer ONLY<span class="debtor-tag">DBTR</span></h3>
+      <p class="role">$133.9 / $78.3 / $102.4 / $162.0mm of 2026 / 2027 / 2031 / 2050 notes</p>
+      <span class="gtee" style="border-color:#991b1b;color:#991b1b">No subsidiary guarantee</span>
+      <p class="role" style="margin-top:4px">Holders structurally subordinated to ALL 1L sub guarantors AND the 31 unsecured PGN/M27 sub guarantors</p>
+    </div>
+  </div>
+
+</div><!-- /row of silos -->
+
+<!-- ============================================================ -->
+<!-- TIER 3: NON-DEBTORS -->
+<!-- ============================================================ -->
+<h2>Non-Debtor Subsidiaries · 7 wholly-owned properties + 2 JV</h2>
+
+<div class="row" style="align-items:flex-start">
+
+  <div class="silo-col" style="border-color:var(--nd);flex:2 1 600px">
+    <div class="silo-title" style="background:var(--nd-soft);color:var(--nd)">Non-Debtor CMBS Mortgages<br><span style="font-weight:400;font-size:11px">$177.3mm · 7.79% · 2028–2033 · 7 properties</span></div>
+
+    <div class="row" style="width:100%">
+      <div class="box nd">
+        <h3>UBS Borrowers (Loan Agt 9/13/23)<span class="nondebtor-tag">NON-DBTR</span></h3>
+        <p>Clay Ave Waco LLC · Primerica Pkwy GA LLC</p>
+        <span class="debt">Direct debt: $54.3mm</span>
+        <span class="pill">2 properties</span>
+        <p class="role" style="margin-top:4px">Non-recourse SPEs · DACAs to special servicer</p>
+      </div>
+      <div class="box nd">
+        <h3>JPM Borrowers (May–Aug 2023)<span class="nondebtor-tag">NON-DBTR</span></h3>
+        <p>3300 75th Ave LLC · Echelon Pkwy MS LLC · Rio Robles CA LLC · Sterling Park LLC · Ewing Boulevard LLC</p>
+        <span class="debt">Direct debt: $123.0mm</span>
+        <span class="pill">5 properties</span>
+        <p class="role" style="margin-top:4px">$14.9 / $30.7 / $8.4 / $26.3 / $42.7mm respectively · CMBS securitized</p>
+      </div>
+      <div class="box nd" style="border-style:dashed">
+        <h3>Non-Debtor Holdcos<span class="nondebtor-tag">NON-DBTR</span></h3>
+        <p>Clay Holdco LLC · Ewing Holdco LLC · Primerica Holdco LLC</p>
+        <p class="role" style="margin-top:4px">Intermediate holdcos for Non-Debtor SPEs (Exhibit B-1)</p>
+      </div>
+    </div>
+    <p class="role" style="text-align:center;margin-top:6px"><b>OPI provides limited (recourse carve-out) guaranty</b> · Debtors negotiating waivers of bankruptcy-related defaults (¶55, ¶101)</p>
+    <p class="role" style="text-align:center"><b>Note:</b> the holdcos of <b>5 of 7</b> mortgage properties (which ARE Debtors) sit in the 31-sub unsecured guarantee package for M27 and PGN</p>
+  </div>
+
+  <div class="silo-col" style="border-color:var(--jv);flex:1 1 240px">
+    <div class="silo-title" style="background:var(--jv-soft);color:var(--jv)">Non-Debtor Joint Venture<br><span style="font-weight:400;font-size:11px">51% LLC interest · Unconsolidated</span></div>
+    <div class="box jv">
+      <h3>First Potomac DC Holdings, LLC<span class="nondebtor-tag">NON-DBTR</span></h3>
+      <p>Owns 2 properties (legacy FPO acquisition)</p>
+      <span class="pill">51% LLC interest</span>
+      <p class="role" style="margin-top:4px">Sits outside bankruptcy; cash flow only via distributions</p>
+    </div>
+  </div>
+
+</div>
+
+<!-- ============================================================ -->
+<!-- TIER 4: CASH MGMT / INTERCOMPANY HUBS -->
+<!-- ============================================================ -->
+<h2>Cash-Management & Intercompany Hubs (within Debtors)</h2>
+
+<div class="row" style="align-items:flex-start">
+  <div class="box cash">
+    <h3>GPIT — Government Properties Income Trust LLC<span class="debtor-tag">DBTR</span></h3>
+    <p class="role">Among the 19 March 2027 1L Sub Guarantors AND the 31-sub unsec PGN/M27 guarantee package · Owns 20 Mass Ave (Royal Sonesta Capitol Hill, 1 mixed-use property)</p>
+    <span class="pill">GPIT Concentration Account = group cash hub</span>
+    <span class="pill">Reimbursing Entity (with OPI / WF Owner / 440 First Street)</span>
+  </div>
+  <div class="box cash">
+    <h3>20 Mass Ave TRS Inc.<span class="debtor-tag">DBTR</span></h3>
+    <p class="role">Taxable REIT subsidiary · lessee from GPIT under hotel lease · Sonesta DC Hotel LLC manages hotel</p>
+    <span class="pill">No funded debt</span>
+  </div>
+  <div class="box cash">
+    <h3>Postpetition operating-account holders<span class="debtor-tag">DBTR</span></h3>
+    <p class="role">GPIT · OPI Notex Properties LLC · OPI BND Properties LLC · OPI 25 Exchange LLC · SIR Colorado Springs LLC</p>
+    <span class="pill">Generates new postpetition IC claims</span>
+    <p class="role" style="margin-top:4px">RC silo skipped (self-contained DACA cash mgmt)</p>
+  </div>
+</div>
+
+<!-- ============================================================ -->
+<!-- GUARANTOR CROSS-MATRIX -->
+<!-- ============================================================ -->
+<h2>Guarantor cross-matrix — which boxes guarantee which debt</h2>
+<table class="matrix">
+  <thead>
+    <tr>
+      <th>Debt tranche (issued at →)</th>
+      <th>OPI</th>
+      <th>RC Pledged Subs</th>
+      <th>M29 Sub Gtors (5)</th>
+      <th>S29 Sub Gtors (9)</th>
+      <th>M27 Sub Gtors (19)</th>
+      <th>PGN/M27 unsec subs (31)</th>
+      <th>Non-Debtor SPEs (7)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><th>Credit Facility ($425mm)</th>
+      <td class="iss">Parent gtee</td>
+      <td class="lien1">1L gtee + equity pledge + 1L mortgages on 19 props</td>
+      <td class="x">—</td><td class="x">—</td><td class="x">—</td><td class="x">—</td><td class="x">—</td>
+    </tr>
+    <tr><th>March 2029 Notes ($300mm)</th>
+      <td class="iss">Issuer</td>
+      <td class="x">—</td>
+      <td class="lien1">1L gtee + equity pledge + 1L mortgages on 17 props</td>
+      <td class="x">—</td><td class="x">—</td><td class="x">—</td><td class="x">—</td>
+    </tr>
+    <tr><th>September 2029 Notes ($610mm)</th>
+      <td class="iss">Issuer</td>
+      <td class="lien2">2L gtee + 2L equity pledge + 2L mortgages on RC's 19 props</td>
+      <td class="x">—</td>
+      <td class="lien1">1L gtee + equity pledge + 1L mortgages on 19 props</td>
+      <td class="x">—</td><td class="x">—</td><td class="x">—</td>
+    </tr>
+    <tr><th>March 2027 Notes ($418mm)</th>
+      <td class="iss">Issuer</td>
+      <td class="x">—</td><td class="x">—</td>
+      <td class="lien2">2L gtee + 2L pledge + 2L mortgages on S29's 19 props</td>
+      <td class="lien1">1L gtee + equity pledge + 1L mortgages on 35 props</td>
+      <td class="unsec">Unsec gtee (joint &amp; several)</td>
+      <td class="x">—</td>
+    </tr>
+    <tr><th>Priority Guaranteed Notes ($14.4mm)</th>
+      <td class="iss">Issuer</td>
+      <td class="x">—</td><td class="x">—</td><td class="x">—</td><td class="x">—</td>
+      <td class="unsec">Unsec gtee (joint &amp; several)</td>
+      <td class="x">—</td>
+    </tr>
+    <tr><th>Senior Unsecured Notes ($476.6mm)</th>
+      <td class="iss">Issuer</td>
+      <td class="x">—</td><td class="x">—</td><td class="x">—</td><td class="x">—</td><td class="x">—</td><td class="x">—</td>
+    </tr>
+    <tr><th>Non-Debtor CMBS ($177.3mm)</th>
+      <td class="unsec">Limited (recourse carve-out) gtee</td>
+      <td class="x">—</td><td class="x">—</td><td class="x">—</td><td class="x">—</td><td class="x">—</td>
+      <td class="iss">Non-recourse SPE borrowers</td>
+    </tr>
+  </tbody>
+</table>
+<div class="legend" style="margin-top:6px">
+  <span><span class="swatch" style="background:#dbeafe"></span>Issuer / Parent guarantor</span>
+  <span><span class="swatch" style="background:#dcfce7"></span>1L (mortgage + equity pledge)</span>
+  <span><span class="swatch" style="background:#fef9c3"></span>2L (junior lien)</span>
+  <span><span class="swatch" style="background:#ffe4e6"></span>Unsecured guarantee</span>
+</div>
+
+<!-- ============================================================ -->
+<!-- INTERCOMPANY CLAIMS -->
+<!-- ============================================================ -->
+<h2>Intercompany claims across the group</h2>
+<div class="ic-grid">
+  <div class="ic-card"><span class="arrow-text">GPIT  →  Property-owning Debtor subs</span>
+    Tenant Receipts collected via the GPIT Concentration Account on behalf of the property subs (¶95).
+    <p class="role" style="margin-top:4px"><b>Pre & Post-petition</b> · Daily course-of-business sweep</p></div>
+  <div class="ic-card"><span class="arrow-text">Property-owning Debtor subs  →  GPIT / OPI</span>
+    Third-party + RMR fees and expenses paid by GPIT/OPI on the property subs' behalf.
+    <p class="role" style="margin-top:4px"><b>Pre & Post-petition</b></p></div>
+  <div class="ic-card"><span class="arrow-text">OPI  →  GPIT</span>
+    Amounts transferred to GPIT to fund accounts payable.
+    <p class="role" style="margin-top:4px"><b>Pre & Post-petition</b></p></div>
+  <div class="ic-card"><span class="arrow-text">Property subs ↔ RMR (via Reimbursing Entities GPIT / OPI / WF Owner / 440 First Street)</span>
+    Vendor invoices historically paid by RMR; reimbursed by Reimbursing Entities. As of July 2025, OPI entities pay vendors directly — generates new IC claims between OPI and property-level entities (¶47).
+    <p class="role" style="margin-top:4px"><b>Pre-petition (process changed July 2025)</b></p></div>
+  <div class="ic-card"><span class="arrow-text">Reimbursing Entities  →  RMR</span>
+    Receivables historically grew on a consolidating basis; nets to zero on consolidated basis. Books updated to reflect economic reality (¶45-46).
+    <p class="role" style="margin-top:4px"><b>Pre-petition</b></p></div>
+  <div class="ic-card"><span class="arrow-text">Among GPIT / OPI / OPI Notex / OPI BND / OPI 25 Exchange / SIR Colorado Springs</span>
+    Postpetition cash consolidation pools tenant receipts in each silo's new operating account; generates new IC claims by silo (¶96).
+    <p class="role" style="margin-top:4px"><b>Post-petition</b></p></div>
+  <div class="ic-card"><span class="arrow-text">OPI  →  First Potomac DC Holdings JV</span>
+    51% LLC interest in unconsolidated JV (2 properties). Equity / distributions only — JV is non-Debtor and not consolidated.
+    <p class="role" style="margin-top:4px"><b>Pre & Post-petition</b></p></div>
+</div>
+
+<!-- ============================================================ -->
+<!-- RECONCILIATION FOOTER -->
+<!-- ============================================================ -->
+<div class="footer">
+  <p><b>Direct-debt reconciliation:</b> $1,819mm (OPI) + $425mm (OPI WF Borrower) + $54.3mm (UBS Borrowers) + $123.0mm (JPM Borrowers) = <b>$2,421.3mm</b> total Company funded debt. Of which Debtors: $1,819 + $425 = <b>$2,244mm</b> (~92.7%); Non-Debtors: <b>$177.3mm (~7.3%)</b>.</p>
+  <p><b>Q3 takeaways:</b> ~90% of entities are Debtors (73 of 81 — 73 Debtors + 7 Non-Debtor CMBS SPEs + 1 Non-Debtor JV). Only 7 wholly-owned properties (plus 2 JV properties) sit at non-Debtors, holding ~7.3% of consolidated funded debt — non-recourse to Debtors except OPI's limited carve-out guaranty.</p>
+  <p class="source">Sources: First-Day Declaration of A. Aiello (Doc. 26, Case 25-90530, SDTX, 10/31/25), ¶¶24, 31, 45-47, 49-72, 95-96, 101; 11/3/25 First Day Hearing demonstrative slides p. 3 (entity counts) and pp. 8-16 (silo charts); Exhibits B, B-1 (JPM/UBS Borrowers), B-2 (Credit Agreement Obligors), B-3 (March 2029), B-4 (September 2029), B-5 (March 2027) to the First-Day Declaration.</p>
+</div>
+
+</div><!-- /chart -->
+</body>
+</html>
