@@ -1,0 +1,1123 @@
+         Case 25-90530 Document 835 Filed in TXSB on 02/19/26 Page 1 of 2
+
+
+
+
+                       IN THE UNITED STATES BANKRUPTCY COURT
+                         FOR THE SOUTHERN DISTRICT OF TEXAS
+                                  HOUSTON DIVISION
+
+------------------------------------------------------------ x
+                                                             :
+In re:                                                       : Chapter 11
+                                                             :
+OFFICE PROPERTIES INCOME TRUST, et al., : Case No. 25-90530 (CML)
+                                                             :
+                    Debtors.1                                : (Jointly Administered)
+                                                             :
+------------------------------------------------------------ x
+
+                 NOTICE OF FILING OF (I) LIQUIDATION ANALYSIS,
+          (II) FINANCIAL PROJECTIONS, AND (III) VALUATION ANALYSIS
+              WITH RESPECT TO DISCLOSURE STATEMENT FOR JOINT
+         CHAPTER 11 PLAN OF REORGANIZATION OF OFFICE PROPERTIES
+                   INCOME TRUST AND ITS DEBTOR AFFILIATES
+
+       PLEASE TAKE NOTICE that, on January 9, 2026, the above-captioned debtors and
+debtors-in-possession (collectively, the “Debtors”) filed the Disclosure Statement for Joint
+Chapter 11 Plan of Reorganization of Office Properties Income Trust and Its Debtor Affiliates
+[Docket No. 576] (as the same may be amended, supplemented, or modified, the
+“Disclosure Statement”).
+
+        PLEASE TAKE FURTHER NOTICE that the Debtors hereby file (a) the liquidation
+analysis attached hereto as Exhibit A (the “Liquidation Analysis”), which will be attached as
+Exhibit C to the Disclosure Statement; (b) the financial projections attached hereto as Exhibit B
+(the “Financial Projections”), which will be attached as Exhibit D to the Disclosure Statement;
+and (c) the valuation analysis attached hereto as Exhibit C (the “Valuation Analysis”), which will
+be attached as Exhibit E to the Disclosure Statement.
+
+         PLEASE TAKE FURTHER NOTICE that all documents filed in these chapter 11 cases,
+including the Disclosure Statement, the Liquidation Analysis, the Financial Projections, the
+Valuation Analysis, and other relevant case information are available free of charge on the
+following website maintained by the Debtors’ claims, balloting, and noticing agent, Kroll
+Restructuring Administration LLC, in connection with the chapter 11 cases:
+https://restructuring.ra.kroll.com/OPI/. Copies of any pleadings or papers filed with the Court may
+also be obtained by visiting the Court’s website at https://ecf.txsb.uscourts.gov in accordance with
+the procedures and fees set forth therein.
+
+
+
+1
+    A complete list of the Debtors in the Chapter 11 Cases may be obtained on the website of the Debtors’ claims and
+    noticing agent at https://restructuring.ra.kroll.com/OPI. The Debtors’ mailing address is Two Newton Place, 255
+    Washington Street, Suite 300, Newton, Massachusetts 02458-1634.
+       Case 25-90530 Document 835 Filed in TXSB on 02/19/26 Page 2 of 2
+
+
+
+
+Dated: February 19, 2026           Respectfully submitted,
+       Houston, Texas
+                                   /s/ Timothy A. (“Tad”) Davidson II
+                                   HUNTON ANDREWS KURTH LLP
+                                   Timothy A. (“Tad”) Davidson II (Texas Bar No. 24012503)
+                                   Ashley L. Harper (Texas Bar No. 24065272)
+                                   Philip M. Guffy (Texas Bar No. 24113705)
+                                   600 Travis Street, Suite 4200
+                                   Houston, TX 77002
+                                   Telephone: (713) 220-4200
+                                   Email: taddavidson@hunton.com
+                                          ashleyharper@hunton.com
+                                          pguffy@hunton.com
+
+                                   - and -
+
+                                   LATHAM & WATKINS LLP
+                                   Ray C. Schrock (NY Bar No. 4860631)
+                                   Anupama Yerramalli (NY Bar No. 4645859)
+                                   Keith A. Simon (NY Bar No. 4636007)
+                                   Ashley Gherlone Pezzi (NY Bar No. 5754213)
+                                   Anthony R. Joseph (IL Bar No. 6329886)
+
+                                   1271 Avenue of the Americas
+                                   New York, New York 10020
+                                   Telephone: (212) 906-1200
+                                   Email: ray.schrock@lw.com
+                                           anu.yerramalli@lw.com
+                                           keith.simon@lw.com
+                                           ashley.pezzi@lw.com
+                                           anthony.joseph@lw.com
+                                   Attorneys for the Debtors and Debtors in Possession
+
+
+
+
+                               CERTIFICATE OF SERVICE
+
+       I certify that on February 19, 2026, a true and correct copy of the foregoing document was
+served by the Electronic Case Filing System for the United States Bankruptcy Court for the
+Southern District of Texas on those parties registered to receive electronic notices.
+
+
+                                             /s/ Timothy A. (“Tad”) Davidson II
+                                             Timothy A. (“Tad”) Davidson II
+
+
+
+                                               2
+Case 25-90530 Document 835-1 Filed in TXSB on 02/19/26 Page 1 of 9
+
+
+
+
+                             Exhibit A
+
+                        Liquidation Analysis
+        Case 25-90530 Document 835-1 Filed in TXSB on 02/19/26 Page 2 of 9
+
+
+
+                                                                            1
+                                            LIQUIDATION ANALYSIS
+
+Introduction
+
+Under the “best interests” of creditors test (the “Best Interests Test”) set forth in section 1129(a)(7) of the Bankruptcy
+Code, the Bankruptcy Court may not confirm a plan of reorganization unless the plan provides each holder of an
+Allowed Claim or Interest who does not otherwise vote in favor of the plan with property of a value, as of the effective
+date of the plan, that is not less than the amount that such holder would receive or retain on account of such Allowed
+Claim or Interest if the debtor was liquidated under chapter 7 of the Bankruptcy Code. See 11 U.S.C. § 1129(a)(7).
+
+Accordingly, to demonstrate that the Plan satisfies the Best Interests Test, the Debtors, with the assistance of their
+restructuring advisors, AP Services, LLC, have prepared this hypothetical liquidation analysis (the “Liquidation
+Analysis”), which is based upon certain assumptions discussed in the Disclosure Statement and the accompanying
+notes to this Liquidation Analysis.
+
+This Liquidation Analysis sets forth an estimated range of recovery values for each Class of Claims and Interests upon
+disposition of assets pursuant to a hypothetical chapter 7 liquidation. As illustrated by this Liquidation Analysis,
+(a) Holders of Claims in certain Unimpaired Classes that would otherwise receive a full recovery under the Plan would
+receive an equal or lower recovery in a hypothetical liquidation and (b) Holders of Claims or Interests in Impaired
+Classes would receive a lower recovery in a hypothetical liquidation than they would under the Plan. Further, no
+Holder of a Claim or Interest would receive or retain property under the Plan of a value that is less than such Holder
+would receive in a chapter 7 liquidation. Accordingly, and as set forth in greater detail below, the Debtors believe
+that the Plan satisfies the Best Interests Test. The Debtors believe that this Liquidation Analysis and the conclusions
+set forth herein are fair and represent the Debtors’ best judgment regarding the results of a liquidation of the Debtors
+under chapter 7 of the Bankruptcy Code.
+
+Statement of Limitations
+
+The preparation of a liquidation analysis is an uncertain process involving the use of estimates and assumptions that,
+although considered reasonable by the Debtors based upon their business judgment and input from their advisors, are
+inherently subject to significant business, economic, and competitive risks, uncertainties and contingencies, most of
+which are difficult to predict and many of which are beyond the control of the Debtors, their management, and their
+advisors. Inevitably, some assumptions in the Liquidation Analysis would not materialize in an actual chapter 7
+liquidation, and unanticipated events and circumstances could materially affect the ultimate results in an actual
+chapter 7 liquidation. The Liquidation Analysis was prepared for the sole purpose of generating a reasonable, good
+faith estimate of the proceeds that would be generated, and the recoveries that would result, if the Debtors’ assets were
+liquidated in accordance with chapter 7 of the Bankruptcy Code after conversion of the Chapter 11 Cases. The
+Liquidation Analysis is not intended and should not be used for any other purpose. The underlying financial
+information in the Liquidation Analysis and values stated herein have not been subject to any review, compilation, or
+audit by any independent accounting firm. Other than for the properties in the 2027 Senior Secured Notes Claims silo
+(as discussed below), independent appraisals were not obtained in preparing the Liquidation Analysis. In addition,
+various liquidation decisions upon which certain assumptions are based are subject to change. As a result, the actual
+amount of Claims that would ultimately be allowed against the Estates could vary significantly from the estimates
+
+
+1   Capitalized terms used but not otherwise defined herein shall have the meanings ascribed to them in (a) the Joint
+    Chapter 11 Plan of Reorganization of Office Properties Income Trust and its Debtor Affiliates (the “Plan”) or
+    (b) the Disclosure Statement for Joint Chapter 11 Plan of Reorganization of Office Properties Income Trust and
+    its Debtor Affiliates (the “Disclosure Statement”).
+        Case 25-90530 Document 835-1 Filed in TXSB on 02/19/26 Page 3 of 9
+
+
+
+stated herein, depending on the nature and amount of Claims asserted during the pendency of the hypothetical chapter
+7 case. Similarly, the value of the Debtors’ assets in a liquidation scenario is uncertain and could vary significantly
+from the values set forth in the Liquidation Analysis.
+
+The Debtors’ estimates of Allowed Claims and Interests contained in the Liquidation Analysis reference specific
+Claims estimates, even though the Debtors’ estimates of ranges of projected recoveries under the Plan to Holders of
+Allowed Claims and Interests are based on ranges of Allowed Claims and Interests. In addition, the cessation of
+business in a chapter 7 liquidation is likely to trigger certain Claims that otherwise would not exist under a Plan absent
+a liquidation. These additional Claims could be significant, and some may be administrative expenses, while others
+may be entitled to priority in payment over General Unsecured Claims.
+
+The Liquidation Analysis does not include estimates for: (i) the tax consequences, either foreign or domestic, that may
+be triggered upon the liquidation and sale of assets, (ii) potential employee Claims that may arise for such items as
+severance and potential WARN Act liabilities, (iii) recoveries resulting from any potential preference, fraudulent
+transfer, or other litigation or Avoidance Actions, (iv) certain Claims that may be entitled to priority under the
+Bankruptcy Code, including administrative priority Claims under sections 503(b) and 507(b) of the Bankruptcy Code,
+(v) environmental or other governmental Claims arising from the shut-down or sale of the Debtors’ assets,
+(vi) additional unsecured and contract and lease breakage Claims arising from a chapter 7 liquidation, (vii) uncertain
+immaterial tax claims, (viii) incremental severance claims that could arise from RMR related to the termination of
+RMR employees who perform work fully or partially for the Debtors, or (ix) the negative consequences of potential
+tenant or operational disruptions that may occur as a result of the liquidation process. More specific assumptions are
+detailed in the notes below. ACCORDINGLY, NEITHER THE DEBTORS NOR THEIR ADVISORS MAKE ANY
+REPRESENTATION OR WARRANTY THAT THE ACTUAL RESULTS OF A LIQUIDATION OF THE
+DEBTORS WOULD OR WOULD NOT, IN WHOLE OR IN PART, APPROXIMATE THE ESTIMATES AND
+ASSUMPTIONS REPRESENTED HEREIN. THE ACTUAL LIQUIDATION VALUE OF THE DEBTORS IS
+SPECULATIVE AND RESULTS COULD VARY MATERIALLY FROM ESTIMATES PROVIDED HEREIN.
+
+In preparing the Liquidation Analysis, the Debtors estimated Allowed Claims based upon a review of the Debtors’
+financial statements to account for other known liabilities, as necessary. In addition, the Liquidation Analysis includes
+estimates for Claims not currently asserted in the Chapter 11 Cases, but which could be asserted and allowed in a
+chapter 7 liquidation, including unpaid chapter 11 Administrative Claims, and administrative Claims for costs and
+expenses in a chapter 7 liquidation such as wind down costs and the Trustee Fees (as defined below) (together, the
+“Wind-Down Expenses”). To date, the Bankruptcy Court has not estimated or otherwise fixed the total amount of
+Allowed Claims used for purposes of preparing this Liquidation Analysis. Therefore, the Debtors’ estimate of
+Allowed Claims set forth in this Liquidation Analysis should not be relied on for any other purpose, including
+determining the value of any distribution to be made on account of Allowed Claims and Interests under the Plan.
+NOTHING CONTAINED IN THE LIQUIDATION ANALYSIS IS INTENDED TO BE OR CONSTITUTES A
+CONCESSION OR ADMISSION OF THE DEBTORS. THE ACTUAL AMOUNT OF ALLOWED CLAIMS IN
+THE CHAPTER 11 CASES COULD MATERIALLY DIFFER FROM THE ESTIMATED AMOUNTS SET FORTH
+IN THE LIQUIDATION ANALYSIS.
+
+Basis of Presentation
+
+         This Liquidation Analysis has been prepared assuming that the Debtors converted their current Chapter 11
+Cases to cases under chapter 7 of the Bankruptcy Code on or about April 30, 2026 (the “Liquidation Date”). Except
+as otherwise noted herein, this Liquidation Analysis is based upon the estimated assets and liabilities as of the
+Liquidation Date. It is assumed that on the Liquidation Date, the Bankruptcy Court would appoint a chapter 7 trustee
+(the “Trustee”) to oversee the liquidation of the Debtors’ estates, during which time all of the assets of the Debtors
+would be sold as operating properties such that no additional general unsecured claims are generated. Thus, the cash
+        Case 25-90530 Document 835-1 Filed in TXSB on 02/19/26 Page 4 of 9
+
+
+
+proceeds, net of liquidation-related costs, would then be distributed to creditors in accordance with applicable law:
+(i) first, for payment of post-conversion expenses and other chapter 7 administrative claims; (ii) second, to pay pre-
+conversion superpriority administrative claims, including postpetition intercompany payables, (iii) third, to pay the
+secured portions of all Allowed Secured Claims (including the Mortgage Debt Guarantee Claims, Secured Credit
+Facility Claims, March 2029 Senior Secured Notes Claims, September 2029 Senior Secured Notes Claims, 2027
+Senior Secured Notes Claims, and the DIP Claims) from the respective first and second lien collateral. Any remaining
+net cash would be distributed to creditors holding unsecured claims including Priority Guaranteed Unsecured Notes
+Claims, Unsecured Notes Claims, Parent General Unsecured Claims, Subsidiary General Unsecured Claims and any
+applicable deficiency Claims that arise to the extent of the unsecured portion of the Allowed Secured Claims. Certain
+factors, such as an inability by the Debtors or the Trustee to maintain the Debtors’ operations during the Liquidation
+Process (as defined below), a seizure of collateral by secured creditors, and/or delays in the Liquidation Process, may
+limit the amount of the proceeds generated by the liquidation of the Debtors’ assets. These factors could materially
+reduce the value, on a “present value” basis, of the liquidation proceeds and yield significantly lower recoveries than
+those estimated in this Liquidation Analysis.
+
+The Liquidation Analysis has been prepared assuming that the Debtors’ current Chapter 11 Cases convert to chapter 7
+on the Liquidation Date. This Liquidation Analysis assumes operations of the Debtors and Non-Debtor Affiliates will
+continue and the related individual assets will be sold in a sale under a nine-month liquidation process
+(the “Liquidation Process”) under the direction of the Trustee, utilizing the Debtors’ resources, third-party
+management firm and other third-party advisors, to allow for the orderly wind down of the Debtors’ estates, including
+the assumption that all properties would be liquidated in a six-month time-frame but the ultimate wind-down of the
+operations would require an additional three-months. There can be no assurance that the liquidation would be
+completed in this limited time frame, nor is there any assurance that the recoveries assigned to the assets would in fact
+be realized. Under Section 704 of the Bankruptcy Code, a trustee must, among other duties, collect and convert the
+property of the estate as expeditiously (generally in a distressed process) as is compatible with the best interests of
+parties-in-interest. This Liquidation Analysis is also based on the assumptions that: (i) the Debtors have continued
+access to cash collateral during the course of the Liquidation Process to fund Wind-Down Expenses and (ii) RMR
+continues to manage the properties during the Liquidation Process and the operations, accounting, treasury, IT, and
+other management services needed to wind down the estates continue. This Liquidation Analysis was prepared on a
+by-entity basis and is displayed below according to the various collateral packages, consolidated by creditor silo for
+convenience. Asset recoveries accrue first to satisfy creditor Claims at the creditor silo in which liabilities have been
+incurred. To the extent any remaining value exists, it flows to each individual creditor silo’s parent
+silo/entity/organization or appropriate shareholder.
+
+The Liquidation Analysis assumes that net proceeds from the sale of the assets will be distributed in accordance with
+section 726 of the Bankruptcy Code, and no distributions will be made to holders of equity interests until all creditors
+            Case 25-90530 Document 835-1 Filed in TXSB on 02/19/26 Page 5 of 9
+
+
+
+are satisfied in full. Certain assets are not part of every creditor’s collateral, and the estimated recoveries for assets
+have been segregated and made available to the applicable holders of Claims.
+
+                                                                     LIQUIDATION ANALYSIS
+
+This Liquidation Analysis for the Debtors was analyzed on an entity-by-entity basis. The following table provides a
+summary of the Liquidation Analysis for the Debtors, which should be reviewed in conjunction with the associated
+notes.
+
+Low Recovery Scenario:
+First Lien Collateral Pool:                         Mortgage Debt Secured Credit March 2029 September 2029 2027 Senior Unencumbered                  Office
+                                                     Guarantees      Facility    Senior Secured Senior Secured Secured Notes Assets                Properties
+(in $ thousands)                                                                     Notes          Notes                                         Income Trust
+Building Count                                            7               19              17            19              35              25            na
+ Gross Property Value                         [A] $       198,628 $        540,700 $       349,441 $     363,659 $       530,240 $       197,572 $           –
+ Liquidated Property Value                    [B]         148,971          378,490         244,609       218,195         318,144         108,665             –
+ Real Estate Broker Fees                      [C]           (4,469)         (11,355)         (7,338)       (6,546)         (9,544)         (3,260)           –
+Net Property Value                                $       144,502 $        367,135 $       237,270 $     211,650 $       308,600 $       105,405 $           –
+ Chapter 7 Trustee Fees                       [D]           (2,890)          (7,343)        (4,745)       (4,233)         (6,172)         (2,108)             -
+ Professional Fees                            [D]           (3,613)          (9,178)        (5,932)       (5,291)         (7,715)         (2,635)             -
+ Cash                                         [E]                -              970              -             -           2,589         10,754         35,112
+Distributable Value Before Admin Interco.           $     138,000 $        351,584 $      226,593 $     202,125 $       297,302 $       111,416 $       35,112
+ Administrative Intercompany Claim            [F]                -                -          (903)       (41,324)        (23,284)         (2,196)       67,707
+ (Excess Value) / Equity in Subsidiaries                     (242)                -             -                                            242
+Distributable Value                                 $     137,758 $        351,584    $   225,690 $     160,801     $   274,018     $   109,461 $      102,819
+1L Claims
+ Mortgage Debt Guarantee Claims               [G] $       181,802
+ Secured Credit Facility Claims               [H]                    $     425,000
+ March 2029 Senior Secured Notes Claims       [I]                                     $   321,647
+ September 2029 Senior Secured Notes Claims   [J]                                                   $   672,105
+ 2027 Senior Secured Notes Claims             [K]                                                                   $   442,556
+ DIP Claims                                   [L]                                                                                   $   146,064   $    146,064
+Total 1L Claims                                   $       181,802    $     425,000    $   321,647   $   672,105     $   442,556     $   146,064   $    146,064
+ 1L Claim Recovery                                        137,758          351,584        225,690       160,801         274,018          75,317         70,747
+2L Claims
+ September 2029 Senior Secured Notes Claims                          $     672,105
+ 2027 Senior Secured Notes Claims                                                                   $   442,556
+Total 2L Claims                                     $           –    $     672,105    $         –   $   442,556     $         –     $        –    $          –
+ 2L Claim Recovery                                               -               -                             -
+Unsecured Claims                              [M]
+ Priority Guaranteed Unsecured Notes Claims                                                                                         $    14,728   $     14,728
+ Unsecured Notes Claims                                                                                                                                482,039
+ Parent General Unsecured Claims                                                                                                                           697
+ Subsidiary General Unsecured Claims                                           551            243           296             510             515
+ Deficiency Claims                                                                        442,556                                       442,556       2,034,497
+Total Unsecured Claims                              $           –    $         551    $   442,799   $       296     $       510     $   457,799   $   2,531,960
+ Unsecured Claim Recovery                                                                                                                34,144          32,072
+Total Recovery by Claim                                 Claim          Recovery $     Recovery %
+ Mortgage Debt Guarantee                            $      181,802   $      139,951         77.0%
+ Secured Credit Facility                                   425,000          356,968         84.0%
+ March 2029 Senior Secured Notes                           321,647          229,765         71.4%
+ September 2029 Senior Secured Notes                       672,105          169,315         25.2%
+ 2027 Senior Secured Notes                                 442,556          312,665         70.6%
+ DIP                                                       146,064          146,064        100.0%
+ Priority Guaranteed Unsecured Notes                        14,728            1,286          8.7%
+ Unsecured Notes                                           482,039            6,106          1.3%
+ Parent General Unsecured Claims                               697                9          1.3%
+ Subsidiary General Unsecured Claims                         2,115                3          0.2%
+Total Recovery                                      $    2,688,752   $    1,362,132         50.7%
+            Case 25-90530 Document 835-1 Filed in TXSB on 02/19/26 Page 6 of 9
+
+
+
+High Recovery Scenario:
+First Lien Collateral Pool:                         Mortgage Debt Secured Credit March 2029 September 2029 2027 Senior Unencumbered                  Office
+                                                     Guarantees      Facility    Senior Secured Senior Secured Secured Notes Assets                Properties
+(in $ thousands)                                                                     Notes          Notes                                         Income Trust
+Building Count                                            7               19              17            19              35              25            na
+ Gross Property Value                         [A] $       223,528 $        608,481 $       393,246 $     407,617 $       530,240 $       217,128 $           –
+ Liquidated Property Value                    [B]         178,822          456,360         294,934       264,951         344,656         130,277             –
+ Real Estate Broker Fees                      [C]           (5,365)         (13,691)         (8,848)       (7,949)        (10,340)         (3,908)           –
+Net Property Value                                $       173,458 $        442,670 $       286,086 $     257,003 $       334,316 $       126,369 $           –
+ Chapter 7 Trustee Fees                       [D]           (3,469)          (8,853)        (5,722)       (5,140)         (6,686)         (2,527)             -
+ Professional Fees                            [D]           (4,336)         (11,067)        (7,152)       (6,425)         (8,358)         (3,159)             -
+ Cash                                         [E]                -              970              -             -           2,589         10,754         35,112
+Distributable Value Before Admin Interco.           $     165,652 $        423,720 $      273,212 $     245,437 $       321,861 $       131,436 $       35,112
+ Administrative Intercompany Claim            [F]               -                -           (903)       (41,324)        (23,284)         (2,196)       67,707
+ (Excess Value) / Equity in Subsidiaries                   (2,016)               -              -                                          2,016
+Distributable Value                                 $     163,636 $        423,720    $   272,309 $     204,113     $   298,577     $   131,257 $      102,819
+1L Claims
+ Mortgage Debt Guarantee Claims               [G] $       181,802
+ Secured Credit Facility Claims               [H]                    $     425,000
+ March 2029 Senior Secured Notes Claims       [I]                                     $   321,647
+ September 2029 Senior Secured Notes Claims   [J]                                                   $   672,105
+ 2027 Senior Secured Notes Claims             [K]                                                                   $   366,201
+ DIP Claims                                   [L]                                                                                   $   146,064   $    146,064
+Total 1L Claims                                   $       181,802    $     425,000    $   321,647   $   672,105     $   366,201     $   146,064   $    146,064
+ 1L Claim Recovery                                        163,636          423,720        272,309       204,113         298,577          81,904         64,160
+2L Claims
+ September 2029 Senior Secured Notes Claims                          $     672,105
+ 2027 Senior Secured Notes Claims                                                                   $   366,201
+Total 2L Claims                                     $           –    $     672,105    $         –   $   366,201     $         –     $        –    $          –
+ 2L Claim Recovery                                               -               -                            -
+Unsecured Claims                              [M]
+ Priority Guaranteed Unsecured Notes Claims                                                                                         $    14,728   $     14,728
+ Unsecured Notes Claims                                                                                                                                482,039
+ Parent General Unsecured Claims                                                                                                                           697
+ Subsidiary General Unsecured Claims                                           551            243           296             510             515
+ Deficiency Claims                                                                        366,201                                       366,201       1,602,702
+Total Unsecured Claims                              $           –    $         551    $   366,444   $       296     $       510     $   381,444   $   2,100,166
+ Unsecured Claim Recovery                                                                                                                49,352          38,660
+Total Recovery by Claim                                 Claim          Recovery $     Recovery %
+ Mortgage Debt Guarantee                            $      181,802   $      166,824         91.8%
+ Secured Credit Facility                                   425,000          425,000        100.0%
+ March 2029 Senior Secured Notes                           321,647          278,230         86.5%
+ September 2029 Senior Secured Notes                       672,105          216,486         32.2%
+ 2027 Senior Secured Notes                                 366,201          352,756         96.3%
+ DIP                                                       146,064          146,064        100.0%
+ Priority Guaranteed Unsecured Notes                        14,728            2,179         14.8%
+ Unsecured Notes                                           482,039            8,873          1.8%
+ Parent General Unsecured Claims                               697               13          1.8%
+ Subsidiary General Unsecured Claims                         2,115                7          0.3%
+Total Recovery                                      $    2,612,397   $    1,596,431         61.1%
+        Case 25-90530 Document 835-1 Filed in TXSB on 02/19/26 Page 7 of 9
+
+
+
+
+Notes to the Liquidation Analysis
+
+Asset Recovery Estimates
+
+[A] Gross Property Value: Gross property value was informed by various sources of information depending on, among
+other things, the specific collateral pool and property, as well as the Debtors’ current intended use, transfer, or other
+disposition of the applicable collateral pool and property. The Debtors’ advisors arrived at a valuation of $1.65 billion
+to $1.85 billion for the collateral maintained in all silos including the non-Debtor Mortgage Debt properties but
+excluding the 2027 Senior Secured Notes First Lien Collateral; this value was allocated among the properties. Further,
+within the $1.65 billion to $1.85 billion range, the Debtors provided specific estimates for certain properties that are
+current disposition targets and those estimates were then removed from the $1.65 billion to $1.85 billion range so the
+remaining value could be allocated to the remaining properties based upon normalized earnings. Normalized earnings
+were represented by either 2026 or 2027 projected net operating income. Lastly, third-party appraisals were utilized
+for the value of the 2027 Senior Secured Notes collateral. 2
+
+[B] Liquidated Property Value: Liquidated property values reflect the value expected to be received assuming a forced
+sale and were informed by discussions with the Debtors who indicated various levels of discounts based on each
+collateral silo. These discounts ranged from 20% to 25% for the properties secured by the Mortgage Debt; 25% to
+30% for the Secured Credit Facility first lien collateral; 25% to 30% for the March 2029 Senior Secured Notes first
+lien collateral; 35% to 40% for the September 2029 Senior Secured Notes first lien collateral; 35% to 40% for the
+2027 Senior Secured Notes Claims first lien collateral; and 40% to 45% for the prepetition unencumbered assets.
+
+These discounts consider the significant disruption a chapter 7 process would have on the portfolio (e.g., a chapter 7
+trustee managing over 120 individual properties and sales processes, including likely tenant related issues), ongoing
+lease negotiation risk, the implications of an expedited sale timeline, and market saturation attributable to the full
+portfolio of investment properties entering a liquidation sales process concurrently. Many other market conditions
+could severely impact the amount of proceeds obtainable within the liquidation sales process that are unable to be
+quantified and could serve to severely degrade the value of the properties in an open market process. These conditions
+include, but are not limited to, limited marketing, lack of traditional financing, and uncertainty of the liquidation sales
+process.
+
+[C] Real Estate Fees: In addition to the chapter 7 Trustee Fees and Chapter 7 Professional Fees (each as defined below)
+related to a hypothetical chapter 7 case, as the Debtors monetize real estate assets, additional fees will occur due to,
+among others, various real estate brokers, lawyers, and asset managers, responsible for finalizing the sale/liquidation
+of each property. Based on discussion with the Debtors, the estimated cost of such additional fees per real estate asset
+sale is 3% of the sales proceeds inclusive of broker fees, and additional fees associated with these transactions.
+
+
+
+
+2   All such third-party appraisals and the values from such appraisals incorporated in this Liquidation Analysis are
+    preliminary drafts prepared in anticipation of litigation. Such values are subject to definitions, assumptions, and
+    limiting conditions specified in the actual appraisal reports, which values and reports are subject to material
+    revision. Such values are indicative and for purposes of this hypothetical Liquidation Analysis only and in no
+    event should such values be separately used or considered. No party may use or rely on such values or conclusions
+    expressed herein for any other purpose. The Debtors reserve all rights with respect to such values and the draft
+    third-party appraisals from which they originate.
+        Case 25-90530 Document 835-1 Filed in TXSB on 02/19/26 Page 8 of 9
+
+
+
+Chapter 7 Liquidation / Wind-Down Expenses
+
+[D] Chapter 7 Trustee Fees and Professional Fees: Pursuant to sections 326 and 330 of the Bankruptcy Code, the
+Bankruptcy Court may allow reasonable compensation for the Trustee’s services (the “Trustee Fees”). For purposes
+of this Liquidation Analysis, the Trustee Fees are estimated to be 2% of liquidation proceeds realized from the net
+property values illustrated above.
+
+Pursuant to section 726 of the Bankruptcy Code, the allowed administrative expenses incurred by the Trustee,
+including expenses affiliated with selling/liquidating the Debtors’ assets and winding down operations (the “Chapter
+7 Professional Fees”), will be entitled to payment in full prior to any distribution to Administrative Claims and Other
+Priority Claims. These fees are based on expected fees and expenses of legal, financial, and other professionals as
+well as the complexity of the Debtors’ liquidation and wind-down that the Debtors’ estates may need to defend and
+pursue for purposes of settling Claim amounts and monetizing assets.
+
+[E] Cash: The cash balance represents the estimated balance as of the Liquidation Date. A 100% recovery on cash
+and equivalents has been estimated for the low and high cases but has been offset for (a) restricted cash associated
+with security deposits as the properties are assumed to be operating through the relative sales and (b) accrued but
+unpaid professional fees.
+
+Claims 3
+
+[F] Administrative Intercompany Claims: Administrative Intercompany Claims represent projected net claims held by
+Office Properties Income Trust against other Debtors through the Liquidation Date related to intercompany loans of
+the proceeds of the DIP Facility during the Chapter 11 Cases. Pursuant to the Final DIP Order and the Cash
+Management Order, 4 these claims are entitled to superpriority administrative expense status. These claims are
+estimated to recover at 100%.
+
+[G] Mortgage Debt Guarantee Claims: Mortgage Debt Guarantee Claims include estimated principal and accrued
+default interest as of the Liquidation Date and are secured through a first lien on the respective collateral (as defined
+in the UBS Loan Agreement and various JPM Loan Agreements). Holders of the Mortgage Debt Guarantee Claims
+are estimated to receive a 77.0%-91.8% recovery.
+
+[H] Secured Credit Facility Claims: Secured Credit Facility Claims include estimated principal and accrued default
+interest as of the Liquidation Date and are secured through a first lien on the respective collateral (as defined in the
+
+
+
+
+3   It is assumed solely for the purposes of the Liquidation Analysis that the default interest rates set forth in the
+    applicable debt documents for the Mortgage Debt Guarantee Claims, the Secured Credit Facility Claims, the
+    March 2029 Senior Secured Notes Claims, and the September 2029 Senior Secured Notes Claims apply. It is
+    assumed solely for purposes of the Liquidation Analysis that the Holders of the 2027 Senior Secured Notes Claims
+    will receive interest at a rate of 7.5%. The Debtors reserve all rights as to whether the default interest rates are
+    allowed under any of the applicable debt facilities.
+
+4   The “Cash Management Order” means the Final Order (I) Authorizing Debtors to (A) Continue Existing Cash
+    Management System, (B) Maintain Existing Business Forms and Intercompany Arrangements, and (C) Continue
+    Intercompany Transactions; and (II) Granting Related Relief [Docket No. 438].
+        Case 25-90530 Document 835-1 Filed in TXSB on 02/19/26 Page 9 of 9
+
+
+
+Secured Credit Facility Agreement). Holders of the Secured Credit Facility Claims are estimated to receive an 84.0%-
+100.0% recovery.
+
+[I] March 2029 Senior Secured Notes Claims: March 2029 Senior Secured Notes Claims include estimated principal,
+accrued default interest and make-whole premiums as of the Liquidation Date and are secured through a first lien on
+the respective collateral (as defined in the March 2029 Senior Secured Notes Indenture). Holders of the March 2029
+Senior Secured Notes Claims are estimated to receive a 71.4%-86.5% recovery. 5
+
+[J] September 2029 Senior Secured Notes Claims: September 2029 Senior Secured Notes Claims include estimated
+principal, accrued default interest and make-whole premiums as of the Liquidation Date and are secured through a
+first lien on the respective collateral (as defined in the September 2029 Senior Secured Notes Indentures). The
+September 2029 Senior Secured Notes Claims also hold a second lien claim against the Secured Credit Facility
+collateral. Holders of the September 2029 Senior Secured Notes Claims are estimated to receive a 25.2%-32.2%
+recovery.
+
+[K] 2027 Senior Secured Notes Claims: 2027 Senior Secured Notes Claims include estimated principal and accrued
+default interest and accrued professional fees as of the Liquidation Date and are secured through a first lien on the
+respective collateral (as defined in the 2027 Senior Secured Notes Indenture). The 2027 Senior Secured Notes Claims
+also maintain a second lien claim against the September 2029 Senior Secured Notes collateral. Holders of the 2027
+Senior Secured Notes Claims are estimated to receive a 70.6%-96.3% recovery. 6
+
+[L] DIP Claims: DIP Claims include estimated principal and accrued interest as of the Liquidation Date and are
+secured through a first lien on the respective collateral (as defined in the DIP Credit Agreement). Holders of the DIP
+Claims are estimated to receive a 100% recovery.
+
+[M] Unsecured Claims: Unsecured Claims are grouped into different categories consistent with the Plan and include
+the following: (i) Priority Guaranteed Unsecured Notes Claims; (ii) Unsecured Notes Claims; (iii) Parent General
+Unsecured Claims; (iv) Subsidiary General Unsecured Claims; and (v) any secured debt deficiency claims. 7 See the
+tables above for the respective recoveries; the secured debt deficiency claim recoveries are factored into Notes H-L
+above.
+
+
+
+
+5   It is assumed solely for the purposes of the Liquidation Analysis that the original issue discount and make-whole
+    premiums (if any) under each of the March 2029 Senior Secured Notes and the September 2029 Senior Secured
+    Notes is allowed. The Debtors reserve all rights as to whether all or any portion of such original issue discount
+    or make-whole premium is allowed and, if allowed, how any such original issue discount or make-whole premium
+    should be calculated.
+
+6   There is a pending adversary proceeding regarding the amount of the 2027 Senior Secured Notes Claims and an
+    appellate dispute regarding default interest and current payment of professional fees on the 2027 Senior Secured
+    Notes. Accordingly, the estimation for the high scenario assumes a high likelihood of success in the 2027 Senior
+    Secured Notes Claims Challenge while the low scenario assumes the 2027 Senior Secured Notes Claims
+    Challenge is unsuccessful. This Liquidation Analysis assumes that approximately $76.4 million of the 2027
+    Senior Secured Notes Claims related to original issue discount would be disallowed under the high scenario. The
+    Debtors reserve all rights as to whether any such original issue discount is allowed and, if allowed, how any such
+    original issue discount should be calculated.
+
+7   Secured claims with deficiencies are expressed at their full claim value until the respective claim reaches a 100%
+    recovery, if applicable.
+Case 25-90530 Document 835-2 Filed in TXSB on 02/19/26 Page 1 of 7
+
+
+
+
+                             Exhibit B
+
+                        Financial Projections
+       Case 25-90530 Document 835-2 Filed in TXSB on 02/19/26 Page 2 of 7
+
+
+
+
+                                     FINANCIAL PROJECTIONS
+In connection with the Disclosure Statement, 1 the Debtors, with the assistance of their advisors,
+prepared financial projections (the “Financial Projections”) for Office Properties Income Trust
+and its debtor affiliates (each, a “Debtor” and, collectively, the “Debtors”) for the period from May
+1, 2026 through December 31, 2030 (the “Projection Period”) for the purpose of demonstrating
+the feasibility of the Plan. The Financial Projections are based upon a number of assumptions
+made by the Debtors and their advisors with respect to the future performance of the Debtors’
+operations. Although the Debtors have prepared the Financial Projections in good faith and
+believe the assumptions to be reasonable, there can be no assurance that such assumptions
+and results will be realized. As described in detail in the Disclosure Statement, a variety of
+risk factors could affect the Debtors’ financial results and must be considered. Accordingly,
+the Financial Projections should be reviewed in conjunction with the risk factors set forth in
+the Disclosure Statement and the assumptions described herein, including all relevant
+qualifications and footnotes.
+The Financial Projections are based upon the internal view of the Debtors’ management of the
+projected financial performance conducted before the filing of these Financial Projections and may
+differ methodologically from historical public reporting by the Debtors (e.g., the Financial
+Projections herein are not in accordance with GAAP accounting). The Debtors believe that the
+Plan meets the feasibility requirements set forth in section 1129(a)(11) of the Bankruptcy Code, as
+confirmation is not likely to be followed by liquidation or the need for further financial
+reorganization of the Debtors or any successor under the Plan. In connection with the planning
+and development of the Plan and for the purposes of determining whether the Plan would satisfy
+this feasibility standard, the Debtors analyzed their ability to satisfy their financial obligations
+while maintaining sufficient liquidity and capital resources.
+These Financial Projections were not prepared with a view toward compliance with
+published guidelines of the United States Securities and Exchange Commission or guidelines
+established by the American Institute of Certified Public Accountants for preparation and
+presentation of prospective financial information. An independent auditor has not
+examined, compiled, or performed any procedures with respect to the prospective financial
+information contained in this exhibit and, accordingly, it does not express an opinion or any
+other form of assurance on such information or its achievability. The Debtors’ independent
+auditor assumes no responsibility for, and denies any association with, the prospective
+financial information.
+Principal Assumptions for the Financial Projections
+The Financial Projections reflect numerous assumptions with respect to the anticipated future
+performance of the Debtors, industry performance, general business and economic conditions, and
+other matters, many of which are beyond the control of the Debtors or their advisors. In addition,
+
+
+1
+    Capitalized terms used but not otherwise defined herein shall have the meaning ascribed to such terms in the
+    Disclosure Statement to which this is an exhibit or the Plan, as applicable.
+       Case 25-90530 Document 835-2 Filed in TXSB on 02/19/26 Page 3 of 7
+
+
+
+
+the assumptions do not take into account the uncertainty and disruption of business that may
+accompany a restructuring pursuant to the Bankruptcy Code.
+Although the Financial Projections are presented with numerical specificity, the actual results
+achieved during the Projection Period may materially vary from the projected results. Accordingly,
+no definitive representation can be or is being made with respect to the accuracy of the Financial
+Projections or the ability of the Debtors to achieve the projected results of operations. See “Risk
+Factors” in Article IX of the Disclosure Statement. For holders of Claims that are entitled to vote
+to accept or reject the Plan, such holders must make their own determinations as to the
+reasonableness of such assumptions and the reliability of the Financial Projections. Moreover, the
+Financial Projections were prepared solely in connection with the restructuring pursuant to the
+Plan (the “Restructuring”).
+In connection with the planning and development of the Plan, and for the purposes of determining
+whether such Plan would satisfy this feasibility standard, the Debtors analyzed their ability to
+satisfy their financial obligations while maintaining sufficient liquidity and capital resources.
+Under Accounting Standards Codification “ASC” 852, “Reorganizations,” the Debtors note that
+the Financial Projections reflect the Debtors’ operations at emergence from these Chapter 11 Cases
+but do not reflect the full impact of “fresh start accounting” that will likely be required upon
+emergence. Fresh start accounting requires all assets, liabilities, and equity instruments to be
+determined at “fair value.” In addition to valuing assets, liabilities, and equity instruments at fair
+value, the Debtors will have tax professionals analyze any go forward tax implications as a result
+of the transactions contemplated by the Restructuring. The Financial Projections account for the
+Restructuring and related transactions pursuant to the Plan, including the minimum REIT
+distributions, but they do not account for the final analysis that will be done upon emergence.
+While the Debtors expect that they will be required to implement fresh start accounting upon
+emergence, they have not yet completed the work required to quantify the impact to the Financial
+Projections. When the Debtors fully implement fresh start accounting, material differences may
+exist in the Financial Projections.
+Safe Harbor under the Private Securities Litigation Reform Act of 1995
+The Financial Projections contain statements which constitute “forward-looking statements”
+within the meaning of the Securities Act and the Securities Exchange Act. Forward-looking
+statements in the Financial Projections include the intent, belief, or current expectations of the
+Debtors with respect to the timing of, completion of, and scope of the current restructuring, Plan,
+debt and equity market conditions, and the Debtors’ future liquidity, as well as the assumptions
+upon which such statements are based.
+While the Debtors believe that the expectations are based upon reasonable assumptions within the
+bounds of their knowledge of their business and operations, parties in interest are cautioned that
+any such forward-looking statements are not guarantees of future performance, and involve risks
+and uncertainties, and that actual results may differ materially from those contemplated by such
+forward-looking statements.
+
+
+
+                                                  2
+       Case 25-90530 Document 835-2 Filed in TXSB on 02/19/26 Page 4 of 7
+
+
+
+
+Select Risk Factors Related to the Financial Projections
+The Financial Projections are subject to inherent risks and uncertainties, most of which are difficult
+to predict and many of which are beyond the Debtors’ control. Many factors could cause actual
+results, performance, or achievements to differ materially from any future results, performance, or
+achievements expressed or implied by these forward-looking statements. A description of the risk
+factors associated with the Plan, the Disclosure Statement, and the Financial Projections is
+included in Article IX of the Disclosure Statement.
+Financial Projections General Assumptions
+   1. The Financial Projections were prepared based on the Debtors’ ownership shares in the
+      investment properties and other assets. The Financial Projections also include revenue and
+      expenses that flow to the Debtors from their non-Debtor subsidiaries that are either wholly
+      owned by the Debtors or owned in a joint venture with third parties. Further, these
+      Financial Projections did not include the revenues and expenses from Debtors whose equity
+      interests constitute 2027 Senior Secured Notes First Lien Pledged Collateral. Certain
+      additional planned asset dispositions are included as described in the Financial Projections
+      Line-Item Assumptions.
+   2. Plan Terms and Consummation. The Financial Projections assume the Restructuring
+      will be consummated as of the Effective Date, which is assumed to occur on May 1, 2026.
+   3. Reorganized Capital Structure. Pursuant to the Plan, the Financial Projections assume
+      the following changes to the Debtors’ funded indebtedness:
+           a. The September 2029 Senior Secured Notes (including a principal balance of $610
+              million) will be exchanged for, among other things, $420 million of Secured Exit
+              Notes due 2031 and Reorganized Common Equity pursuant to the Plan;
+           b. The secured portion of the 2027 Senior Secured Notes (including a principal
+              balance of $419 million) will be exchanged for certain or all Interests held by the
+              Parent, OPI 25 Exchange LLC, and/or SIR Operating Partnership LP that constitute
+              2027 Senior Secured Notes First Lien Pledged Collateral. The unsecured portion
+              (if any) of such notes will receive, among other things, Reorganized Common
+              Equity pursuant to the Plan;
+           c. The DIP Facility (including a principal balance of $125 million plus DIP Fee
+              Claims) will be exchanged for Reorganized Common Equity and up to $25 million
+              in Cash;
+           d. The Unsecured Notes (including a principal balance of $491 million) will be
+              exchanged for Reorganized Common Equity pursuant to the Plan;
+           e. The March 2029 Senior Secured Notes, the Secured Credit Facility, and the
+              Mortgage Debt will be reinstated or otherwise rendered unimpaired upon
+              emergence.
+
+
+
+
+                                                  3
+      Case 25-90530 Document 835-2 Filed in TXSB on 02/19/26 Page 5 of 7
+
+
+
+
+Financial Projections Line-Item Assumptions
+   1. Cash Basis Net Operating Income (“Cash NOI”): Cash NOI is a non-GAAP metric
+      defined as property operating revenues less property operating expenses. Property
+      operating revenues include rental revenue from tenants and other income. Property
+      operating expenses include property operations, real estate taxes, maintenance and repairs,
+      and other property-related expenses. Cash NOI excludes certain non-cash adjustments to
+      property operating revenues and property operating costs. The following reflects the
+      Debtors’ forecast for Cash NOI: $125 million for the period from May 2026 through
+      December 2026; $176 million for the year 2027; $191 million for the year 2028; $193
+      million for the year 2029; and $194 million for the year 2030.
+   2. Capital Expenditures (“Capex”): Projections for Capex were prepared with
+      considerations of the Debtors’ revenue and expected requirements to maintain asset values
+      going forward. Capex is used for maintaining the Debtors’ properties, developing and
+      improving current properties, and tenant improvement allowances per various current and
+      future leases.
+          a. Building Capex: Building improvements generally include expenditures to replace
+             obsolete building components and expenditures that extend the useful life of
+             existing assets.
+          b. Leasing Capex: Lease related costs generally include Capex used to improve
+             tenants’ space or amounts paid directly to tenants to improve their space and leasing
+             related costs, such as brokerage commissions and other tenant inducements.
+          c. Redevelopment Capex: Development, redevelopment, and other activities
+             generally include Capex projects that reposition a property or result in new sources
+             of revenue.
+   3. General and Administrative Expenses (“G&A”): G&A are the costs required to maintain
+      the Company’s daily operations. These costs include, but are not limited to, monthly
+      business management fees paid to RMR pursuant to the applicable RMR Management
+      Agreement and other costs such as third-party legal and accounting fees. It is assumed that
+      the Company emerges from bankruptcy as a private company. If the Company emerges as
+      a publicly traded Company instead, there will likely be additional costs relative to those
+      included in this analysis. The Debtors have excluded depreciation and amortization from
+      the Financial Projections, as they have not yet completed the final analysis of fresh start
+      accounting.
+   4. Dispositions: Includes estimated net proceeds from the disposition of approximately
+      seventeen (17) properties. While it is assumed that the Debtors will generate $137 million
+      in proceeds from the sale of these properties in the fourth quarter of 2026, the amount and
+      timing of such proceeds is uncertain and may be affected by a variety of factors. See “Risk
+      Factors” in Article IX of the Disclosure Statement.
+
+
+
+
+                                               4
+   Case 25-90530 Document 835-2 Filed in TXSB on 02/19/26 Page 6 of 7
+
+
+
+
+   There could be material adverse tax consequences on asset dispositions. These tax
+   consequences could have a material impact on the amount of net proceeds received and, as
+   discussed in further detail below, the level of required REIT distributions.
+5. Principal Payments: Includes payments of principal in accordance with the Debtors’ post
+   emergence capital structure. The Financial Projections assume that $137 million in
+   disposition proceeds in the fourth quarter of 2026 will be used to paydown the Secured
+   Exit Notes due 2031.
+6. Interest Payments: Includes payments of interest in accordance with the Debtors’ post-
+   emergence capital structure. The Financial Projections assume that all debt is refinanced
+   with the same terms at maturity.
+7. Dividends / Distributions: To qualify as a REIT under the IRC, OPI must, among other
+   things, make distributions to its shareholders aggregating annually to at least 90% of OPI’s
+   REIT taxable income, as determined under the IRC. Further, OPI must distribute 100% of
+   OPI’s REIT taxable income to avoid paying corporate income tax on undistributed income.
+   The Financial Projections assume that any ownership change attributable to the
+   consummation of the Plan meets the requirements of, and the Debtors apply, Section
+   382(l)(5) of the IRC, in which case the Debtors do not project taxable income in any year
+   during the Projection Period. Accordingly, no REIT distributions are included in the
+   Financial Projections. If the consummation of the Plan does not meet the requirements of
+   Section 382(l)(5) of the IRC, OPI would be required to make additional REIT distributions
+   to maintain its status as a REIT and avoid paying corporate income tax on undistributed
+   income.
+   The foregoing is subject to material change pending final tax analysis of the restructuring
+   transaction and any potential impacts from asset dispositions.
+8. Beginning Cash Balance: Includes projected unrestricted cash as of May 1, 2026 based
+   on the Approved Budget (as defined in the Final DIP Order) dated January 29, 2026. The
+   Financial Projections assume that ERO A is sized such that the Debtors emerge with $30
+   million in unrestricted cash.
+
+
+                          [Remainder of Page Intentionally Left Blank]
+
+
+
+
+                                            5
+       Case 25-90530 Document 835-2 Filed in TXSB on 02/19/26 Page 7 of 7
+
+
+
+
+Statements of Operations:
+                                       F'cst        F'cst        F'cst        F'cst        F'cst
+                                     May-Dec '26    2027         2028         2029         2030
+ Property Revenue                       215,319      296,260      315,886      320,905      325,053
+ (-) Property Operating Expenses        (89,901)    (120,461)    (124,542)    (127,677)    (131,201)
+Cash Basis Net Operating Income         125,418      175,798      191,344      193,228      193,852
+
+ (-) Building Capex                      (6,089)      (9,956)     (13,626)     (12,822)     (18,514)
+ (-) Leasing Capex                      (23,608)     (55,547)     (34,544)     (30,222)     (37,687)
+ (-) Redevelopment Capex                   (210)           -            -            -         (368)
+Total Capex                             (29,908)     (65,503)     (48,170)     (43,044)     (56,568)
+
+ (-) G&A                                (11,333)     (17,000)    (17,000)     (17,000)     (17,000)
+ (+) Dispositions                       137,175            -           -            -            -
+Unlevered Free Cash Flows               221,352       93,295     126,174      133,184      120,284
+
+  (-) Principal Payments               (137,175)          -          (122)       (277)        (298)
+  (-) Interest Payments                 (64,298)   (101,206)      (99,786)   (100,365)    (101,023)
+Levered Free Cash Flows                  19,879      (7,911)       26,266      32,542       18,963
+
+ (-) Dividends / Distributions                -            -           -            -            -
+Net Cash Flow                            19,879       (7,911)     26,266       32,542       18,963
+
+Beginning Cash Balance                   30,000      49,879       41,968       68,234      100,776
+ (+) Net Cash Flow                       19,879      (7,911)      26,266       32,542       18,963
+Ending Cash Balance                      49,879      41,968       68,234      100,776      119,739
+
+Memo: Indebtedness (End of Period)
+ Mortgage Debt                          177,320      177,320      177,198      176,921      176,623
+ Corporate Debt                       1,007,825    1,007,825    1,007,825    1,007,825    1,007,825
+Total Debt                            1,185,145    1,185,145    1,185,023    1,184,746    1,184,448
+ (-) Cash                               (49,879)     (41,968)     (68,234)    (100,776)    (119,739)
+Net Debt                              1,135,266    1,143,177    1,116,789    1,083,970    1,064,709
+
+  EBITDA (Cash NOI less G&A)               n/m      158,798      174,344      176,228      176,852
+Leverage (Net Debt / EBITDA)               n/m          7.2x         6.4x         6.2x         6.0x
+
+ EBITDA (Cash NOI less G&A)                n/m      158,798      174,344      176,228      176,852
+ Debt Service                              n/m      101,206       99,908      100,642      101,321
+Debt Service Coverage Ratio                n/m          1.6x         1.7x         1.8x         1.7x
+
+
+
+
+                                              6
+Case 25-90530 Document 835-3 Filed in TXSB on 02/19/26 Page 1 of 7
+
+
+
+
+                             Exhibit C
+
+                         Valuation Analysis
+       Case 25-90530 Document 835-3 Filed in TXSB on 02/19/26 Page 2 of 7
+
+
+
+
+                              Reorganized Debtors’ Valuation Analysis 1
+
+THE VALUATION INFORMATION CONTAINED HEREIN IS NOT A PREDICTION OR
+GUARANTEE OF THE ACTUAL MARKET VALUE THAT MAY BE REALIZED THROUGH
+THE SALE OF ANY SECURITIES TO BE ISSUED PURSUANT TO THE PLAN. THIS
+VALUATION IS PRESENTED SOLELY FOR THE PURPOSE OF PROVIDING ADEQUATE
+INFORMATION AS REQUIRED BY SECTION 1125 OF THE BANKRUPTCY CODE TO
+ENABLE THE HOLDERS OF CLAIMS ENTITLED TO VOTE TO ACCEPT OR REJECT THE
+PLAN TO MAKE AN INFORMED JUDGMENT ABOUT THE PLAN AND SHOULD NOT BE
+USED OR RELIED UPON FOR ANY OTHER PURPOSE, INCLUDING THE PURCHASE OR
+SALE OF CLAIMS AGAINST OR INTERESTS IN THE DEBTORS.
+
+At the Debtors’ request, Moelis & Company LLC (“Moelis”) performed a valuation analysis to
+estimate the enterprise value of the Reorganized Debtors on a going concern basis as of May 1,
+2026 (the “Enterprise Value”).
+
+As set forth in the assumptions below, the Enterprise Value assumes that Allowed Class 6 2027
+Senior Secured Notes Claims will receive, in full satisfaction of the Allowed 2027 Senior Secured
+Notes Claim Amount, certain or all Interests held by the Parent, OPI 25 Exchange LLC, and/or
+SIR Operating Partnership LP that constitute 2027 Senior Secured Notes First Lien Pledged
+Collateral, in accordance with the treatment for such claim under the Plan (the “Proposed 2027
+Senior Secured Notes Treatment”). Accordingly, the Enterprise Value and the valuation analysis
+conducted by Moelis do not include or ascribe any value to the equity or assets that constitute 2027
+Senior Secured Notes First Lien Pledged Collateral or 2027 Senior Secured Notes First Lien
+Collateral. For purposes of this Valuation Analysis, the term “Reorganized Debtors” does not
+include any Debtor entities whose equity or assets constitute 2027 Senior Secured Notes First Lien
+Pledged Collateral or 2027 Senior Secured Notes First Lien Collateral (such entities, the “2027
+Notes First Lien Collateral Entities”).
+
+The valuation analysis set forth herein (this “Valuation Analysis”) is based on the business plan
+prepared by the Debtors’ management.
+
+Based upon and subject to the review and analysis described herein, and subject to the assumptions,
+limitations and qualifications described herein, Moelis’ view, as of February 11, 2026, was that
+the Enterprise Value of the Reorganized Debtors, as of an assumed valuation date, for purposes of
+Moelis’ valuation analysis, of May 1, 2026 (the “Assumed Valuation Date”), would be in a range
+between $1,650 million and $1,850 million. After adjusting for expected net debt, the implied
+equity value (the “Equity Value”) would be in a range between $328 million and $528 million.
+
+Moelis’ views are necessarily based on economic, monetary, market, and other conditions as in
+effect on, and the information made available to Moelis as of the date of its analysis (February 11,
+2026). It should be understood that, although subsequent developments may affect Moelis’ views,
+Moelis does not have any obligation to update, revise, or reaffirm its analysis or its estimate.
+
+Moelis’ analysis is based, at the Debtors’ direction, on a number of assumptions, including, among
+
+1
+    Capitalized terms used but not otherwise defined herein shall have the meanings ascribed to them in Plan.
+       Case 25-90530 Document 835-3 Filed in TXSB on 02/19/26 Page 3 of 7
+
+
+
+
+other assumptions, that: (a) the Debtors will be reorganized in accordance with the Plan, which
+will be effective on the Assumed Valuation Date; (b) holders of Allowed 2027 Senior Secured
+Notes Claims will receive the Proposed 2027 Senior Secured Notes Treatment and the 2027 Notes
+First Lien Collateral Entities will not be part of the Reorganized Debtors’ go-forward enterprise
+(c) the Reorganized Debtors will achieve the results set forth in the Debtors’ management’s
+financial projections attached as Exhibit [●] to this Disclosure Statement (the “Financial
+Projections”) for 2026 through 2030 (the “Projection Period”) provided to Moelis by the Debtors;
+(d) the Reorganized Debtors’ capitalization and available cash will be as set forth in the Plan and
+this Disclosure Statement; (e) the Reorganized Debtors will sell assets in line with the dispositions
+schedule provided to Moelis by the Debtors; and (f) the Reorganized Debtors will be able to obtain
+all future financings, on the terms and at the times, necessary to achieve the results set forth in the
+Financial Projections. Moelis makes no representation as to the achievability or reasonableness of
+such assumptions. In addition, Moelis assumed that there will be no material change in economic,
+monetary, market, and other conditions as in effect on, and the information made available to
+Moelis, as of the Assumed Valuation Date.
+
+Moelis assumed, at the Debtors’ direction, that the Financial Projections prepared by the Debtors’
+management were reasonably prepared on a basis reflecting the Debtors’ management’s best
+currently available estimates and judgments of the Debtors’ management as to the future financial
+and operating performance of the Reorganized Debtors. The future results of the Reorganized
+Debtors are dependent upon various factors, many of which are beyond the control or knowledge
+of the Debtors, and consequently are inherently difficult to project. The Reorganized Debtors’
+actual future results may differ materially (positively or negatively) from the Financial Projections
+and, as a result, the actual enterprise value and/or equity value of the Reorganized Debtors may be
+materially higher or lower than the estimated range herein. Among other things, failure to
+consummate the Plan in a timely manner may have a materially negative impact on the enterprise
+value and/or equity value of the Reorganized Debtors.
+
+The estimated Enterprise Value and Equity Value set forth above represent hypothetical enterprise
+value and equity value of the Reorganized Debtors as the continuing operators of the business and
+assets of the Debtors, after giving effect to the Plan, based on consideration of certain valuation
+methodologies as described below. The estimated Enterprise Value and Equity Value in this
+section do not purport to constitute an appraisal or necessarily reflect the actual market values that
+might be realized through a sale or liquidation of the Reorganized Debtors, their securities or their
+assets, which may be materially higher or lower than the estimated value ranges herein. The actual
+value of an operating business such as the Reorganized Debtors’ business is subject to uncertainties
+and contingencies that are difficult to predict and will fluctuate with changes in various factors
+affecting the financial condition and prospects of such a business.
+
+In conducting its analysis, Moelis, among other things: (a) reviewed certain publicly available
+business and financial information relating to the Reorganized Debtors that Moelis deemed
+relevant (i.e., historical filings, court filings, information as part of the current Chapter 11 process,
+etc.); (b) reviewed Financial Projections, furnished to Moelis by the Debtors; (c) reviewed the
+projected capitalization of the Reorganized Debtors; (d) conducted discussions with members of
+senior management and representatives of the Debtors concerning the matters described in clauses
+(a) through (c) of this paragraph, as well as their views concerning the Debtors’ business and
+
+
+                                                   2
+       Case 25-90530 Document 835-3 Filed in TXSB on 02/19/26 Page 4 of 7
+
+
+
+
+prospects before giving effect to the Plan, and the Reorganized Debtors’ business and prospects
+after giving effect to the Plan; (e) reviewed publicly available financial and stock market data for
+certain other companies in lines of business that Moelis deemed relevant; (f) reviewed publicly
+available financial data for certain transactions that Moelis deemed relevant; and (g) conducted
+such other financial studies and analyses and took into account such other information as Moelis
+deemed appropriate. In connection with its review, Moelis did not assume any responsibility for
+independent verification of any of the information supplied to, discussed with, or reviewed by
+Moelis and, with the consent of the Debtors, relied on such information being complete and
+accurate in all material respects. In addition, at the direction of the Debtors, Moelis did not make
+any independent evaluation or appraisal of any of the assets or liabilities (contingent, derivative,
+off-balance- sheet, tax-related or otherwise) of the Reorganized Debtors. Moelis also assumed,
+with the Debtors’ consent, that the final form of the Plan does not differ in any respect material to
+its analysis from the final draft of the Plan that Moelis reviewed.
+
+The estimated Enterprise Value and Equity Value in this section do not constitute a
+recommendation to any Holder of a Claim or Interest as to how such Holder of a Claim or Interest
+should vote or otherwise act with respect to the Plan. Moelis has not been asked to and does not
+express any view as to what the trading value of the Reorganized Debtors’ securities would be
+when issued pursuant to the Plan or the prices at which they may trade in the future. The estimated
+Enterprise Value and Equity Value set forth herein do not constitute an opinion as to fairness from
+a financial point of view to any Holder of a Claim or Interest of the consideration to be received
+by such Holder of a Claim or Interest under the Plan, if any, or of the terms and provisions of the
+Plan.
+
+                           [Remainder of page intentionally left blank]
+
+
+
+
+                                                 3
+      Case 25-90530 Document 835-3 Filed in TXSB on 02/19/26 Page 5 of 7
+
+
+
+
+Valuation Methodologies
+
+In preparing its valuation, Moelis performed a variety of financial analyses and considered a
+variety of factors. The following is a brief summary of the material financial analyses performed
+by Moelis, which consisted of: (a) a discounted cash flow analysis; (b) a selected publicly traded
+companies analysis; and (c) a selected transactions analysis. This summary does not purport to be
+a complete description of the analyses performed and factors considered by Moelis. The
+preparation of a valuation analysis is a complex analytical process involving various judgmental
+determinations as to the most appropriate and relevant methods of financial analysis and the
+application of those methods to particular facts and circumstances, and such analyses and
+judgments are not readily susceptible to summary description. As such, Moelis’ valuation analysis
+must be considered as a whole. Reliance on only one of the methodologies used, or portions of the
+analysis performed, could create a misleading or incomplete conclusion as to enterprise value.
+
+A. Discounted Cash Flow Analysis. The discounted cash flow (“DCF”) analysis is a valuation
+   methodology that estimates the value of an asset or business by calculating the present value
+   of expected future cash flows to be generated by that asset or business plus a present value
+   of the estimated terminal value of that asset or business. Moelis’ DCF analysis used the
+   Financial Projections’ estimated debt-free, after-tax free cash flows through December 31,
+   2030. These cash flows were then discounted at a range of estimated weighted average costs
+   of capital (“Discount Rate”) for the Reorganized Debtors. The Discount Rate reflects the
+   estimated blended rate of return that would be expected by debt and equity investors in the
+   Reorganized Debtors’ business based on a target capital structure. In determining the
+   estimated terminal value of the Reorganized Debtors, Moelis utilized the implied cap rate
+   method which estimates a range of values for the Reorganized Debtors at the end of the
+   Projection Period based on applying a range of cap rates to final year net operating income.
+   In estimating a range of cap rates for its DCF analysis, Moelis took into account (a) the
+   Debtors’ growth, profitability and free cash flow profile in the terminal period; and
+   (b) market cap rates (calculated as net operating income divided by market value of real
+   estate) of selected publicly traded real estate investment trusts (“REITs”) deemed generally
+   relevant by Moelis that own predominately office real estate in the United States, with a
+   focus on REITs with exposure to low-barrier-to-entry markets that have operating and
+   financial characteristics comparable in certain respects to the Reorganized Debtors. For
+   example, such characteristics may include similar size, financial leverage, business model,
+   geographic footprint, tenant characteristics, and asset profile.
+
+   To determine the Discount Rate, Moelis used the estimated cost of equity and the estimated
+   after-tax cost of debt for the Reorganized Debtors, assuming a targeted, long-term, debt-to-
+   total capitalization ratio (based on debt-to-capitalization ratios of the selected publicly traded
+   companies and the proposed capital structure contemplated by the Plan). Moelis calculated the
+   cost of equity based on (a) the capital asset pricing model, which assumes that the expected
+   equity return is a function of the risk-free rate, equity risk premium, and the correlation of the
+   stock performance of the selected publicly traded companies to the return on the broader
+   market, and (b) an adjustment related to the estimated equity market capitalization of the
+   Reorganized Debtors, which reflects the historical equity risk premium of small, medium, and
+   large equity market capitalization companies. To estimate the cost of debt, Moelis held
+
+
+                                                 4
+       Case 25-90530 Document 835-3 Filed in TXSB on 02/19/26 Page 6 of 7
+
+
+
+
+   discussions with its capital markets team and determined a cost of debt rate based on the
+   Reorganized Debtors’ size, industry, geographic footprint, cash flow profile as well as the
+   current market environment, long-term corporate credit spreads for secured debt and an
+   understanding of certain existing OPI debt instruments. Moelis utilized the Debtors’
+   management’s assumptions in determining a go-forward tax rate.
+
+B. Selected Publicly Traded Companies Analysis The selected publicly traded companies
+   analysis is based on the market cap rates (calculated as net operating income divided by
+   market value of real estate) of selected publicly traded real estate investment trusts (“REITs”)
+   deemed generally relevant by Moelis that own predominately office real estate in the United
+   States, with a focus on REITs with exposure to low-barrier-to-entry markets that have
+   operating and financial characteristics comparable in certain respects to the Reorganized
+   Debtors. For example, such characteristics may include similar size, financial leverage,
+   business model, geographic footprint, tenant characteristics, and asset profile. Under this
+   methodology, Moelis applied a relevant cap rate range to the Reorganized Debtors’ pro rata
+   net operating income to derive a range of potential values of the business of the Reorganized
+   Debtors.
+
+   Although the selected companies were used for comparison purposes, no selected publicly
+   traded company is either identical or directly comparable to the business of the Reorganized
+   Debtors. Accordingly, Moelis’ comparison of selected publicly traded companies to the
+   business of the Reorganized Debtors and analysis of the results of such comparisons was not
+   purely mathematical, but instead involved considerations and judgments concerning
+   differences in operating and financial characteristics and other factors that could affect the
+   relative values of the selected publicly traded companies and the Reorganized Debtors. The
+   selection of appropriate companies for this analysis is a matter of judgment and subject to
+   limitations due to sample size and the public availability of meaningful market-based
+   information.
+
+C. Selected Transactions Analysis. The selected transactions analysis is based on the implied
+   cap rates for selected publicly disclosed merger-and-acquisition transactions for REITs
+   deemed generally relevant by Moelis in certain aspects to this transaction for which the
+   targets had operating, portfolio, and financial characteristics comparable in certain respects
+   to the Reorganized Debtors. Under this methodology, Moelis applied a relevant cap rate
+   range to the Reorganized Debtors’ pro rata net operating income to derive a range of potential
+   values of the business of the Reorganized Debtors. Moelis analyzed various merger and
+   acquisition transactions that have occurred in the office REIT sector since 2020.
+
+   Although the selected precedent transactions were used for comparison purposes, no company
+   included in the selected precedent transaction analysis is either identical or directly comparable
+   to the business of the Reorganized Debtors. Accordingly, Moelis’ comparison of selected
+   precedent transactions to the business of the Reorganized Debtors and analysis of the results
+   of such comparisons was not purely mathematical, but instead involved considerations and
+   judgments concerning differences in operating and financial characteristics and other factors
+   that could affect the relative values implied by the selected precedent transactions analysis and
+   the Reorganized Debtors. The selection of appropriate transactions for this analysis is a matter
+
+
+                                                 5
+      Case 25-90530 Document 835-3 Filed in TXSB on 02/19/26 Page 7 of 7
+
+
+
+
+   of judgment and subject to limitations due to sample size and the public availability of
+   meaningful market-based information.
+
+   Other factors not directly related to a company’s business operations can affect a valuation in
+   a transaction, including, among others factors, the following: (a) circumstances surrounding a
+   merger transaction may introduce “diffusive quantitative results” into the analysis (e.g., a buyer
+   may pay an additional premium for reasons that are not solely related to competitive bidding);
+   (b) the market environment is not identical for transactions occurring at different periods of
+   time; (c) circumstances pertaining to the financial position of the company may have an impact
+   on the resulting purchase price (e.g., a company in financial distress may receive a lower price
+   due to perceived weakness in its bargaining leverage); and (d) the ongoing tax environment at
+   the time of the transaction.
+
+Reorganized Debtors—Valuation Considerations
+
+The estimated Enterprise Value and Equity Value in this section is not necessarily indicative of
+actual value, which may be significantly higher or lower than the ranges set forth herein.
+Accordingly, none of the Debtors, Moelis or any other person assumes responsibility for the
+accuracy of such estimated Enterprise Value. Depending on the actual financial results of the
+Debtors or changes in the economy and the financial markets, the equity value of the Reorganized
+Debtors as of the Assumed Valuation Date may differ from the estimated Equity Value set forth
+herein. In addition, the market prices, to the extent there is a market, of Reorganized Debtors’
+securities will depend upon, among other things, prevailing interest rates, conditions in the
+economy and the financial markets, the investment decisions of prepetition creditors receiving
+such securities under the Plan (some of whom may prefer to liquidate their investment rather than
+hold it on a long-term basis), changes in federal and state regulations, and other factors that
+generally influence the prices of securities.
+
+
+
+
+                                                 6
+

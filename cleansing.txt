@@ -1,0 +1,1438 @@
+                                                                                                                            UNITED STATES
+                                                                                                                SECURITIES AND EXCHANGE COMMISSION
+                                                                                                                                       Washington, D.C. 20549
+
+
+                                                                                                                                            FORM 8-K
+                                                                                                                                    CURRENT REPORT
+                                                                                                                           PURSUANT TO SECTION 13 OR 15(d) OF THE
+                                                                                                                             SECURITIES EXCHANGE ACT OF 1934
+
+                                                                                                                 Date of Report (Date of Earliest Event Reported): October 30, 2025
+
+
+                                                                                                                     OFFICE PROPERTIES INCOME TRUST
+                                                                                                                         (Exact Name of Registrant as Specified in Its Charter)
+
+                                          Maryland                                                                                            001-34364                                                                                   26-4273474
+                                (State or Other Jurisdiction of                                                                            (Commission File                                                                            (I.R.S. Employer
+                                        Incorporation)                                                                                         Number)                                                                              Identification Number)
+
+                                                              Two Newton Place, 255 Washington Street, Suite 300
+                                                                          Newton, Massachusetts                                                                                                                              02458-1634
+                                                                    (Address of Principal Executive Offices)                                                                                                                  (Zip Code)
+
+                                                                                                                                            (617) 219-1440
+                                                                                                                        (Registrant's Telephone Number, Including Area Code)
+
+                                                                                                                                               N/A
+                                                                                                                    (Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+¨       Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+¨       Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+¨       Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+¨       Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+                                           Title of Each Class                                                                            Trading Symbol(s)*                                                  Name of Each Exchange on Which Registered
+                                    Common Shares of Beneficial Interest                                                                         OPI                                                                 The Nasdaq Stock Market LLC
+                                      6.375% Senior Notes due 2050                                                                              OPINL                                                                The Nasdaq Stock Market LLC
+
+* On October 7, 2025, the registrant's securities were suspended from trading on The Nasdaq Global Select Market and trades in the registrant's common shares of beneficial interest began being quoted on the OTC Pink Market under the symbol "OPITS" and the registrant's 6.375%
+Senior Notes due 2050 began being quoted on the OTC Pink Market under the Symbol "OPILR." The Nasdaq Stock Market LLC has not yet filed a Form 25-NSE to delist the registrant's securities and to remove them from registration under Section 12(b) of the U.S. Securities Exchange
+Act of 1934, as amended, which deregistration will be effective 10 days, or such shorter period as the U.S. Securities and Exchange Commission may determine, after filing of the Form 25-NSE.
+
+        Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (17 CFR §230.405) or Rule 12b-2 of the Securities Exchange Act of 1934 (17 CFR §240.12b-2).
+
+        Emerging growth company        ¨
+
+        If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨
+In this Current Report on Form 8-K (this "Current Report"), the terms "we," "us," and "our" refer to Office Properties Income Trust.
+
+Item 2.02 Results of Operations and Financial Condition.
+
+To the extent required, the information set forth below under the heading "Cleansing Materials" in Item 7.01 of this Current Report is hereby incorporated by reference in this Item 2.02.
+
+Item 7.01. Regulation FD Disclosure
+
+Cleansing Material
+
+In connection with confidential discussions with (i) an ad hoc group (the "September 2029 Ad Hoc Group") of holders of our 9.000% Senior Secured Notes due September 2029 (the "September 2029 Senior Secured Notes"); (ii) an ad hoc group (the "2027 Ad Hoc Group") of holders of
+our 3.25% Senior Secured Notes due 2027 (the "2027 Senior Secured Notes"); (iii) an ad hoc group (the "March 2029 Ad Hoc Group") of holders of our 9.000% Senior Secured Notes due March 2029 (the "March 2029 Senior Secured Notes"); (iv) an ad hoc group (the "Secured Credit
+Facility Ad Hoc Group") of lenders under our secured credit facility (the "Secured Credit Facility"); and (v) an hoc group (the "Unsecured Ad Hoc Group" and, collectively, the "Ad Hoc Groups") of holders of certain of our unsecured notes (the "Unsecured Notes" and, collectively,
+the "Funded Debt Obligations"), we entered into confidentiality agreements (the "Confidentiality Agreements") that facilitated our ability to engage in discussions with the Ad Hoc Groups regarding one or more potential transactions involving the Funded Debt Obligations (a "Potential
+Transaction").
+
+Pursuant to the Confidentiality Agreements, we agreed to publicly disclose certain confidential information previously disclosed to the Ad Hoc Groups (collectively, the "Cleansing Material") upon the occurrence of certain events set forth in the Confidentiality Agreements. The Cleansing
+Material attached as Exhibit 99.1 hereto is being furnished pursuant to discussions with the Ad Hoc Groups and in satisfaction of our public disclosure obligations under the Confidentiality Agreements. Each Potential Transaction described in the Cleansing Material reflects the most
+recent proposals from us and the applicable Ad Hoc Group. An agreement has not yet been reached with each of the 2027 Ad Hoc Group, March 2029 Ad Hoc Group, Secured Credit Facility Ad Hoc Group, or the Unsecured Ad Hoc Group, but we expect negotiations to continue. We
+cannot provide any assurance that we will agree to terms on a Potential Transaction with the 2027 Ad Hoc Group, the March 2029 Ad Hoc Group, the Secured Credit Facility Ad Hoc Group, and/or the Unsecured Ad Hoc Group and what the ultimate terms of any such transaction would
+be.
+
+The Cleansing Material was prepared solely to facilitate discussions with the Ad Hoc Groups, was not prepared with a view toward public disclosure, and should not be relied upon to make an investment decision with respect to us or our securities. The Cleansing Material should not be
+regarded as an indication that we or any third party considers the Cleansing Material to be material non-public information or a reliable prediction of future events, and the Cleansing Material should not be relied upon as such. Neither we nor any third party makes any representation to
+any person regarding the accuracy or completeness of any of the information contained in the Cleansing Material or undertakes any obligation to update the Cleansing Material to reflect circumstances existing after the date when the Cleansing Material was prepared or conveyed or to
+reflect the occurrence of future events, even if any or all of the assumptions underlying the Cleansing Material becomes or is shown to be incorrect.
+
+The information set forth in this Current Report and the exhibit attached hereto are not an offer to sell or exchange, or solicitation of an offer to buy or exchange, any securities, or a solicitation of consents with respect to any of our securities.
+
+The information included in this Current Report under Item 7.01 and Exhibit 99.1 attached hereto is being furnished and shall not be deemed "filed" for purposes of Section 18 of the U.S. Securities Exchange Act of 1934, as amended (the "Exchange Act"), or otherwise subject to the
+liabilities of that Section, nor shall it be deemed incorporated by reference into any filing under the Exchange Act or the U.S. Securities Act of 1933, as amended, regardless of any general incorporation language in such filings.
+Warning Concerning Forward-Looking Statements
+
+This Current Report contains statements that constitute forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995 and other securities laws. Whenever we use words such as "believe", "expect", "anticipate", "intend", "plan", "estimate", "will",
+"may" and negatives or derivatives of these or similar expressions, we are making forward-looking statements. These forward-looking statements are based upon our present intent, beliefs or expectations, but forward-looking statements are not guaranteed to occur and may not occur.
+Actual results may differ materially from those contained in or implied by our forward-looking statements as a result of various factors. For example, we expect negotiations on a Potential Transaction with the 2027 Ad Hoc Group, the March 2029 Ad Hoc Group, the Secured Credit
+Facility Ad Hoc Group, and the Unsecured Ad Hoc Group to continue; however, we cannot provide any assurance that we will agree to terms on a Potential Transaction with any Ad Hoc Group or what the ultimate terms of any such transaction or transactions would be. Further, our
+actual results may differ from the financial projections, prospective financial information and forecasts included in the Cleansing Material.
+
+The information contained in our periodic and current reports filed with the U.S. Securities and Exchange Commission (the "SEC"), including under the heading "Risk Factors" therein or incorporated therein, also identifies important factors that could cause our actual results to differ
+materially from those stated in or implied by our forward-looking statements. Our filings with the SEC are available on the SEC's website at www.sec.gov.
+
+You should not place undue reliance upon any forward-looking statements.
+
+Except as required by law, we do not intend to update or change any forward-looking statements as a result of new information, future events, or otherwise.
+
+Item 9.01. Financial Statements and Exhibits
+
+(d) Exhibits
+
+Exhibit No.         Description of Exhibit
+99.1                Cleansing Material (furnished herewith)
+104                 Cover Page Interactive Data File (embedded within the Inline XBRL document)
+                                                                                                                                       SIGNATURE
+
+       Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+                                                                                                                                             OFFICE PROPERTIES INCOME TRUST
+
+                                                                                                                                             By:            /s/ Brian E. Donley
+                                                                                                                                             Name:          Brian E. Donley
+                                                                                                                                             Title:         Chief Financial Officer and Treasurer
+
+Dated: October 31, 2025
+
+
+
+
+                                                                                                                                                                                                                                                                                      Exhibit 99.1
+
+
+
+
+                                                                                                                                                                                                    NOT FINANCIAL GUIDANCE. PROVIDED TO LENDERS FOR DUE DILIGENCE PURPOSES. PRELIMINARY DRAFT. SUBJECT TO SIGNIFICANT CHANGE 1 OFFICE PROPERTIES INCOME TRUST BUSINESS PLAN PRESENTATION August 2025
+
+                                                                                                                                                                                                    Chicago, IL NOT FINANCIAL GUIDANCE. PROVIDED TO LENDERS FOR DUE DILIGENCE PURPOSES. PRELIMINARY DRAFT. SUBJECT TO SIGNIFICANT CHANGE
+NOT FINANCIAL GUIDANCE. PROVIDED TO LENDERS FOR DUE DILIGENCE PURPOSES. PRELIMINARY DRAFT. SUBJECT TO SIGNIFICANT CHANGE 2 OFFICE PROPERTIES INCOME TRUST This presentation (together with any related oral
+
+commentary and any oral or written supplemental materials or updates, this "Presentation") has been prepared by or on behalf of Office Property Income Trust ("OPI") solely to provide each recipient hereof (each a "Recipient") with certain information, in
+
+summary form only, relating to OPI. The summary set forth herein does not purport to be a complete description of the matters described herein. This Presentation is subject to the terms of the applicable non-disclosure agreement between the Recipient and
+
+OPI entered into in connection herewith. This Presentation does not constitute an offer to sell or a solicitation of an offer to purchase any securities, nor shall there be any such offer or solicitation in any jurisdiction in which such an offer or solicitation is not
+
+authorized or would be unlawful. This Presentation (including the information contained herein) is not, and under no circumstances is to be construed as, a prospectus, a public offering or an offering memorandum as defined under applicable securities
+
+legislation. Each Recipient must comply with all legal requirements in each jurisdiction in which it purchases, offers or sells any securities or possesses this Presentation. Neither OPI nor any of its respective subsidiaries, affiliates, sponsors, equityholders,
+
+directors, officers, employees, representatives, consultants, legal counsel and/or agents, makes any representation or warranty regarding, nor shall any of the foregoing persons or entities have any responsibility, obligation or liability with respect to, the legality
+
+of an investment or other participation in any transactions under any investment, securities or similar laws. Any statement herein regarding tax matters was written in connection with the promotion or marketing of the matters described herein and was not
+
+intended or written to be used, and cannot be used by any person, for the purposes of avoiding tax related penalties under federal, state or local tax law or foreign tax law or treaty. Receipt of this Presentation does not create, nor is it intended to create a
+
+contract or commitment between OPI and the Recipient or any other party. This Presentation may not be relied upon by any party as the basis for any such contract or commitment. Forward-Looking Statements The Presentation contains forward-looking
+
+statements within the meaning of the Private Securities Litigation Reform Act of 1995 and other securities laws that are subject to risks and uncertainties. These statements may include words such as "believe", "expect", "anticipate", "intend", "plan", "estimate",
+
+"will", "may" and negatives or derivatives of these or similar expressions. These forward-looking statements include, among others, statements about: OPI's future leasing activity and pipeline and options to address upcoming debt maturities. Forward-looking
+
+statements reflect OPI's current expectations, are based on judgments and assumptions, are inherently uncertain and are subject to risks, uncertainties and other factors, which could cause OPI's actual results, performance or achievements to differ materially
+
+from expected future results, performance or achievements expressed or implied in those forward-looking statements. Some of the risks, uncertainties and other factors that may cause OPI's actual results, performance or achievements to differ materially from
+
+those expressed or implied by forward-looking statements include, but are not limited to, the following: OPI's ability to make required payments on debt or refinance debts as they mature or otherwise become due; OPI's ability to maintain sufficient liquidity,
+
+including the availability of borrowings under its revolving credit facility and its ability to obtain new debt financing, and otherwise manage leverage; OPI's ability to comply with the terms of its debt agreements and meet financial covenants; OPI's ability to
+
+effectively raise and balance its use of debt and equity capital; the extent to which changes and trends in office space utilization and needs, including due to remote work arrangements, continue to impact demand for office space at OPI's properties; whether
+
+
+OPI's tenants will renew or extend their leases and not exercise early termination options pursuant to their leases or that OPI will obtain replacement tenants on terms as favorable to OPI as its prior leases; OPI's ability to increase or maintain occupancy at its
+
+properties on terms desirable to OPI, and OPI's ability to increase rents when its leases expire or renew; competition within the commercial real estate industry, particularly in the markets in which OPI's properties are located; the impact of unfavorable market
+
+and commercial real estate industry conditions due to high interest rates, prolonged high inflation, labor market challenges, supply chain disruptions, volatility in the public equity and debt markets and in commercial real estate markets, generally and in the
+
+sectors OPI operates, geopolitical instability and tensions, economic downturns or a possible recession or changes in real estate utilization, among other things, on OPI and its tenants; the likelihood that OPI's tenants will pay rent or be negatively impacted by
+
+continuing unfavorable market and commercial real estate industry conditions or government budget constraints; OPI's ability to manage its capital expenditures and other operating costs effectively and to maintain and enhance its properties and their appeal
+
+to tenants; the financial strength of OPI's tenants; OPI's ability to sell properties at prices it targets; OPI's tenant and geographic concentration; risks and uncertainties regarding the costs and timing of development, redevelopment and repositioning activities,
+
+including as a result of prolonged high inflation, cost overruns, supply chain challenges, labor shortages, construction delays or inability to obtain necessary permits or volatility in the commercial real estate markets; OPI's ability to acquire properties that realize
+
+its targeted returns; OPI's credit ratings; OPI's ability to pay distributions to its shareholders and to maintain or increase the amount of such distributions; the ability of OPI's manager, The RMR Group LLC ("RMR"), to successfully manage OPI; compliance with,
+
+and changes to, federal, state and local laws and regulations, accounting rules, tax laws and similar matters; the impact of any U.S. government shutdown or failure to increase the government debt ceiling on OPI's ability to collect rents and pay its operating
+
+expenses, debt obligations and distributions to shareholders on a timely basis; actual and potential conflicts of interest with OPI's related parties, including its Managing Trustees, RMR, Sonesta International Hotels Corporation, and others affiliated with them;
+
+limitations imposed by and OPI's ability to satisfy complex rules to maintain OPI's qualification for taxation as a REIT for U.S. federal income tax purposes; acts of terrorism, outbreaks of pandemics or other public health safety events or conditions, war or other
+
+hostilities, global climate change or other manmade or natural disasters beyond OPI's control; and other matters. Risk Factors These risks, uncertainties and other factors are not exhaustive and should be read in conjunction with other cautionary statements
+
+that are included in OPI's periodic filings. The information contained in OPI's filings with the SEC, including under the caption "Risk Factors" in its periodic reports, or incorporated therein, identifies other important factors that could cause differences from the
+
+forward-looking statements in this Presentation. OPI's filings with the SEC are available on the SEC's website at www.sec.gov. You should not place undue reliance upon OPI's forward-looking statements. Except as required by law, OPI does not intend to
+
+update or change any forward-looking statements as a result of new information, future events or otherwise. There is no certainty that these properties will be sold or sold at the prices currently projected. Office dispositions are challenging in this economic
+
+environment where property valuations have been negatively impacted within the office sector and financing may not be readily available to buyers. OPI faces additional challenges because almost all the properties identified for sale are vacant or soon to be
+
+vacant, which further reduces the pool of potential buyers. Notes Regarding Certain Information in this Presentation This Presentation contains industry and statistical data that OPI obtained from various third party sources. Nothing in the data used or derived
+
+from third party sources should be construed as investment advice. Some data and other information presented are also based on our good faith estimates and beliefs, derived from our review of internal surveys and independent sources and our experience.
+
+OPI believes that these external sources, estimates and beliefs are reliable and reasonable, but OPI has not independently verified them. Although OPI is not aware of any misstatements regarding the data presented herein, these estimates and beliefs involve
+
+inherent risks and uncertainties and are based on assumptions that are subject to change. Each Recipient should take such steps as it deems necessary to assure that it has the information it considers material and should perform its own independent
+
+investigation and analysis in connection therewith. By accepting this Presentation, each Recipient represents that it is sophisticated and capable of evaluating investment risks independently. By accepting delivery of this Presentation, each Recipient
+
+acknowledges and agrees to undertake and rely on its own independent investigation and analysis and consult with its own attorneys, accountants and other professional advisors regarding OPI, including all related legal, investment, accounting, tax and other
+
+
+matters. Further, by accepting delivery of this Presentation, each Recipient will be deemed to acknowledge and agree to the matters set forth in this Disclaimer including, without limitation, the matters set forth in the sections titled "Forward Looking
+
+Statements." Non-GAAP Financial Measures Please refer to Non-GAAP Financial Measures and Certain Definitions in the Appendix for terms used throughout this Presentation. WARNING REGARDING FORWARD LOOKING STATEMENTS, DISCLAIMERS
+
+AND NON-GAAP FINANCIAL MEASURES
+NOT FINANCIAL GUIDANCE. PROVIDED TO LENDERS FOR DUE DILIGENCE PURPOSES. PRELIMINARY DRAFT. SUBJECT TO SIGNIFICANT CHANGE 3 OFFICE PROPERTIES INCOME TRUST Kansas City, MO Cleansing Materials
+NOT FINANCIAL GUIDANCE. PROVIDED TO LENDERS FOR DUE DILIGENCE PURPOSES. PRELIMINARY DRAFT. SUBJECT TO SIGNIFICANT CHANGE 4 OFFICE PROPERTIES INCOME TRUST BUSINESS PLAN SUMMARY Commentary
+
+Financial Projections Lease Expirations by Year(1) 1,210 698 1,566 740 980 813 8,041 7% 6% 10% 9% 7% 5% 56% - 10% 20% 30% 40% 50% 60% - 1,000 2,000 3,000 4,000 5,000 6,000 7,000 8,000 9,000 2025 2026 2027 2028 2029 2030 2031+ Lease
+
+Expirations sq. ft. (000's) Annualized Rental Income • NOI levels are expected to stabilize as large single tenant known vacates are largely behind OPI. • Experiencing improved leasing velocity at multi-tenant/urban assets with amenities. • Current leasing
+
+pipeline totals nearly 2 million sq. ft., of which, one-third could result in positive net absorption. • Continued focus on leasing; since Q1 2024, OPI has successfully renewed 60% of the leases (by Annualized Rental Income) expiring in 2026. • OPI has identified
+
+additional property disposition candidates to increase liquidity and/or reduce the negative carry costs of vacant properties, with a focus on challenged properties and/or markets. • Capital expenditures are primarily tied to leasing activity. Modest, but prudent,
+
+building maintenance capital spend ("Building Capex") is planned. Note: Information excludes active dispositions (11411 E. Jefferson Avenue and 1920/1930 W University Drive). (1) Based on OPI's current expectations regarding leasing expirations, potential
+
+
+termination options and leasing activity. (2) As of March 31, 2025. (dollars in millions) 2025 2026 2027 2028 2029 2030 Number of Properties 122 122 122 122 122 122 Rentable Sq. Ft. 17,117 17,117 17,117 17,117 17,117 17,117 Occupancy (at period end)
+
+77.3% 76.2% 75.0% 77.3% 78.3% 79.8% Cash Basis NOI $216 $211 $213 $231 $241 $246 % Change (2.3%) 0.9% 8.2% 4.3% 2.3% Margin 51.3% 50.8% 50.4% 51.7% 52.1% 52.0% Leasing Capex ($57) ($57) ($85) ($63) ($64) ($63) Building Capex (15) (9)
+
+(14) (18) (22) (22) Redevelopment Capex (2) (2) - - - - Total Capex ($73) ($68) ($99) ($82) ($86) ($85) Cash Flow Before G&A and Debt Service $143 $143 $114 $149 $155 $161 (2)
+NOT FINANCIAL GUIDANCE. PROVIDED TO LENDERS FOR DUE DILIGENCE PURPOSES. PRELIMINARY DRAFT. SUBJECT TO SIGNIFICANT CHANGE 5 OFFICE PROPERTIES INCOME TRUST LEASING ASSUMPTIONS Seattle, WA • Business
+
+Plan assumptions include a 50-75% renewal probability rate with 18-24 months of down time to re-lease vacating space during projection period. • Average deal concessions assume one month of free rent per lease year, $5 per sq. ft. per lease year in tenant
+
+improvement allowances and a 6% lease commission. • For the remainder of 2025, we expect (816) sq. ft. of net absorption. • Retention/absorption of 2026 expirations is projected to be 95%. • OPI is closely monitoring the Department of Government
+
+Efficiency's measures to reduce the government's office square footage, as part of its efforts to optimize its real estate. While the ultimate impact on OPI's portfolio remains uncertain, no lease termination notices related to these efficiency measures have been
+
+received. Leasing Assumptions Forecast (1) Commentary Year Lease Expirations sq. ft. % of Total Leased sq. ft. Expiring Annualized Rental Income Expiring Vacating sq. ft. % sq. ft. Vacating(2) Annualized Rental Income Vacating New Lease / Renewal sq. ft.
+
+Net Absorption sq. ft. 2025 1,210 9% $28,445 992 82% $24,796 394 (816) 2026 698 5% 23,241 97 14% 2,946 506 (192) 2027 1,566 11% 39,675 725 46% 17,433 1,369 (197) 2028 740 5% 36,706 12 2% 1,432 1,136 396 2029 980 7% 28,143 23 2% - 1,152
+
+172 2030 813 6% 23,672 102 13% 4,015 1,059 246 Total / Average 6,007 43% $179,882 1,951 32% $50,622 5,616 (391) As of March 31, 2025 (dollars and sq. ft. in thousands) (1) Based on OPI's current expectations regarding leasing expirations, potential
+
+termination options and leasing activity. (2) Represents sq. ft. vacating as a percentage of Lease Expirations sq. ft. for each respective year.
+NOT FINANCIAL GUIDANCE. PROVIDED TO LENDERS FOR DUE DILIGENCE PURPOSES. PRELIMINARY DRAFT. SUBJECT TO SIGNIFICANT CHANGE 6 OFFICE PROPERTIES INCOME TRUST $56,645 $56,937 $84,899 $63,376 $64,237 $63,081
+
+$14,895 $9,152 $13,997 $18,180 $21,939 $21,933 $1,917 $1,905 - $20,000 $40,000 $60,000 $80,000 $100,000 $120,000 2025 2026 2027 2028 2029 2030 Leasing Capex Building Capex Redevelopment Capex CAPEX ASSUMPTIONS Commentary Annual
+
+Capex by Type ($000's) Seattle, WA (dollars in thousands) 2025 2026 2027 2028 2029 2030 Contract Leasing Capex $45,248 $15,769 $10,381 $5,647 $1,624 $311 Speculative Leasing Capex 11,397 41,168 74,518 57,729 62,613 62,770 Leasing Capex
+
+$56,645 $56,937 $84,899 $63,376 $64,237 $63,081 Building Capex $14,895 $9,152 $13,997 $18,180 $21,939 $21,933 Building Capex per sq. ft. $0.87 $0.53 $0.82 $1.06 $1.28 $1.28 Redevelopment Capex $1,917 $1,905 - - - - Total Capex $73,457 $67,994
+
+$98,896 $81,556 $86,176 $85,014 • Capital expenditures are primarily tied to leasing activity. Modest, but prudent, Building Capex spend is planned. • $78 million in committed but unfunded Contract Leasing Capex for leasing that has already been executed,
+
+comprised predominately of outstanding tenant improvement allowances. • $53 million in anticipated spend on Speculative Leasing Capex in 2025-26 that will drive NOI growth. • $24 million in essential Building Capex in 2025-26 (mechanical systems, roofs,
+
+etc.). • $4 million in Redevelopment Capex is focused on planning and entitlement costs related to potential redevelopment projects. Note: Information excludes active dispositions (11411 E. Jefferson Avenue and 1920/1930 W University Drive).
+NOT FINANCIAL GUIDANCE. PROVIDED TO LENDERS FOR DUE DILIGENCE PURPOSES. PRELIMINARY DRAFT. SUBJECT TO SIGNIFICANT CHANGE 7 OFFICE PROPERTIES INCOME TRUST San Jose, CA Consolidated Business Plan
+
+Projections
+NOT FINANCIAL GUIDANCE. PROVIDED TO LENDERS FOR DUE DILIGENCE PURPOSES. PRELIMINARY DRAFT. SUBJECT TO SIGNIFICANT CHANGE 8 OFFICE PROPERTIES INCOME TRUST CONSOLIDATED BUSINESS PLAN
+
+PROJECTIONS Note: Information excludes active dispositions (11411 E. Jefferson Avenue and 1920/1930 W University Drive). Operating Cash Flows (dollars and sq. ft. in thousands) CAGR 2025 2026 2027 2028 2029 2030 ('25-'30) Number of Properties
+
+122 122 122 122 122 122 Rentable sq. ft. 17,117 17,117 17,117 17,117 17,117 17,117 Property Revenue per Average Leased sq. ft. $30.92 $31.68 $32.67 $34.21 $34.67 $35.00 2.5% Beginning Leased sq. ft. 14,048 13,232 13,040 12,843 13,239 13,411
+
+Lease Expirations sq. ft. (1,210) (698) (1,566) (740) (980) (813) Lease Activity sq. ft. 394 506 1,369 1,136 1,152 1,059 Ending Leased sq. ft. 13,232 13,040 12,843 13,239 13,411 13,657 Net Absorption sq. ft. (816) (192) (197) 396 172 246 Occupancy (at
+
+period end) 77.3% 76.2% 75.0% 77.3% 78.3% 79.8% Property Revenue $421,713 $416,140 $422,797 $446,097 $462,003 $473,636 2.3% Property Operating Expenses (205,321) (204,798) (209,606) (215,329) (221,255) (227,323) Cash Basis NOI $216,392
+
+$211,342 $213,191 $230,768 $240,748 $246,313 2.6% Leasing Capex ($56,645) ($56,937) ($84,899) ($63,376) ($64,237) ($63,081) Building Capex (14,895) (9,152) (13,997) (18,180) (21,939) (21,933) Redevelopment Capex (1,917) (1,905) - - - - Total
+
+Capex ($73,457) ($67,994) ($98,896) ($81,556) ($86,176) ($85,014) Cash Flow Before G&A and Debt Service $142,935 $143,348 $114,295 $149,212 $154,572 $161,299 2.4% % Change Property Revenue NM (1.3%) 1.6% 5.5% 3.6% 2.5% % Change Cash
+
+Basis NOI NM (2.3%) 0.9% 8.2% 4.3% 2.3% Cash Basis NOI Margin 51.3% 50.8% 50.4% 51.7% 52.1% 52.0% Capex as % of Cash Basis NOI 33.9% 32.2% 46.4% 35.3% 35.8% 34.5%
+NOT FINANCIAL GUIDANCE. PROVIDED TO LENDERS FOR DUE DILIGENCE PURPOSES. PRELIMINARY DRAFT. SUBJECT TO SIGNIFICANT CHANGE 9 OFFICE PROPERTIES INCOME TRUST Note: All information is as of or for the trailing twelve
+
+months ended March 31, 2025. Information excludes active dispositions (11411 E. Jefferson Avenue and 1920/1930 W University Drive). 11411 E. Jefferson Avenue is part of $445 million senior notes due 2027 collateral portfolio, and any disposition proceeds
+
+
+will be used to reduce the principal balance. (1) The $610 million senior notes due 2029 are also secured by second mortgage liens on the 19 properties securing the Credit Agreement. (2) The $445 million senior notes due 2027 are also secured by second
+
+mortgage liens on the 19 properties securing the $610 million senior notes due 2029. OPERATING & FINANCIAL METRICS BY COLLATERAL POOL As of March 31, 2025 (dollars and sq. ft. in thousands) Number of Properties Rentable sq. ft. Occupancy
+
+
+(%) WALT by Revenue (Years) Annualized Rental Income Trailing Twelve Months Cash Basis NOI Contract Leasing Capex Gross Book Value (GBV) Current CMBS 7 1,334 100% 11.0 $32,189 $23,279 $8,304 $305,456 Credit Agreement 19 3,603 93% 7.0
+
+110,284 65,478 12,149 1,031,523 $300M Senior Notes due 2029 17 2,126 98% 8.9 68,019 39,528 4,583 624,915 $610M Senior Notes due 2029 (1) 19 3,218 83% 7.5 66,327 29,292 31,933 721,336 $445M Senior Notes due 2027 (2) 35 4,125 70% 4.7 80,476
+
+
+47,411 12,213 1,240,680 Unencumbered Properties 25 2,712 64% 3.4 47,742 25,745 9,317 650,606 Total / Average 122 17,117 82% 6.8 $405,037 $230,733 $78,499 $4,574,516
+NOT FINANCIAL GUIDANCE. PROVIDED TO LENDERS FOR DUE DILIGENCE PURPOSES. PRELIMINARY DRAFT. SUBJECT TO SIGNIFICANT CHANGE 10 OFFICE PROPERTIES INCOME TRUST State Number of Properties Sq. Ft. Occupancy (%)
+
+WALT by Revenue (Years) Trailing Twelve Months Cash Basis NOI Est. Cash Flow(1) (2026-2030) MD 5 275 88% 5.5 $2,851 $7,556 MA 3 204 17% 1.5 (108) (12,513) DC 2 393 49% 3.5 3,252 (8,328) VA 3 461 28% 3.1 1,575 (8,070) AL 2 107 100% 3.2
+
+
+2,077 (6,245) IN 2 275 100% 2.2 4,188 323 Other (2) 9 1,585 52% 1.7 16,610 (15,700) Total/Average 26 3,300 55% 2.9 $30,445 ($42,977) POTENTIAL DISPOSITIONS OVERVIEW Potential Dispositions Statistics Note: All information is as of or for the
+
+
+trailing twelve months ended March 31, 2025. (1) Represents total Cash Basis NOI less total building capex and leasing capex. (2) Other includes assets located in the following states PA, TX, NJ, CO, MO, IA and MI. As of March 31, 2025 (dollars and sq. ft. in
+
+thousands, unless otherwise noted) • OPI continues to evaluate its portfolio and may sell additional properties in the future. • OPI has identified 26 additional property disposition candidates to increase liquidity and/or reduce the negative carry costs of vacant
+
+
+properties, with a focus on challenged properties and/or markets. • Some of these disposition properties are potential redevelopment projects.
+NOT FINANCIAL GUIDANCE. PROVIDED TO LENDERS FOR DUE DILIGENCE PURPOSES. PRELIMINARY DRAFT. SUBJECT TO SIGNIFICANT CHANGE 11 OFFICE PROPERTIES INCOME TRUST CONSOLIDATED BUSINESS PLAN
+
+PROJECTIONS (PRO FORMA FOR THE SALE OF 26 PROPERTIES) Note: Information excludes active dispositions (11411 E. Jefferson Avenue and 1920/1930 W University Drive), and the 26 properties identified for potential dispositions on page 10. 11411
+
+
+E. Jefferson Avenue is part of $445 million senior notes due 2027 collateral portfolio, and any disposition proceeds will be used to reduce the principal balance. Operating Cash Flows (dollars and sq. ft. in thousands) CAGR 2025 2026 2027 2028 2029 2030
+
+('25-'30) Number of Properties 96 96 96 96 96 96 Rentable sq. ft. 13,817 13,817 13,817 13,817 13,817 13,817 Property Revenue per Average Leased sq. ft. $28.30 $28.20 $28.95 $30.90 $31.75 $32.56 2.8% Beginning Leased sq. ft. 12,238 11,993 11,997
+
+
+12,170 12,510 12,635 Lease Expirations sq. ft. (496) (464) (916) (667) (955) (702) Lease Activity sq. ft. 251 468 1,089 1,007 1,080 966 Ending Leased sq. ft. 11,993 11,997 12,170 12,510 12,635 12,899 Net Absorption sq. ft. (245) 4 173 340 125 264
+
+
+Occupancy (at period end) 86.8% 86.8% 88.1% 90.5% 91.4% 93.4% Property Revenue $390,976 $389,660 $399,985 $426,963 $438,750 $449,875 2.8% Property Operating Expenses (185,453) (181,160) (185,687) (191,225) (196,396) (201,733) Cash Basis
+
+NOI $205,523 $208,500 $214,298 $235,738 $242,354 $248,142 3.8% Leasing Capex ($54,075) ($52,498) ($80,657) ($55,168) ($60,470) ($59,304) Building Capex (14,589) (8,620) (13,113) (17,222) (20,014) (20,589) Redevelopment Capex (122) (525) - - - -
+
+
+Total Capex ($68,542) ($61,643) ($93,770) ($72,390) ($80,484) ($79,893) Cash Flow Before G&A and Debt Service $136,981 $146,857 $120,528 $163,348 $161,870 $168,249 4.2% % Change Property Revenue NM (0.3%) 2.6% 6.7% 2.8% 2.5% % Change
+
+Cash Basis NOI NM 1.4% 2.8% 10.0% 2.8% 2.4% Cash Basis NOI Margin 52.6% 53.5% 53.6% 55.2% 55.2% 55.2% Capex as % of Cash Basis NOI 33.4% 29.6% 43.8% 30.7% 33.2% 32.2%
+NOT FINANCIAL GUIDANCE. PROVIDED TO LENDERS FOR DUE DILIGENCE PURPOSES. PRELIMINARY DRAFT. SUBJECT TO SIGNIFICANT CHANGE 12 OFFICE PROPERTIES INCOME TRUST Washington, D.C. OPERATING & FINANCIAL
+
+METRICS BY COLLATERAL POOL 12
+NOT FINANCIAL GUIDANCE. PROVIDED TO LENDERS FOR DUE DILIGENCE PURPOSES. PRELIMINARY DRAFT. SUBJECT TO SIGNIFICANT CHANGE 13 OFFICE PROPERTIES INCOME TRUST . . . .0 . . Washington D.C. Central Atlanta ackson
+
+Waco Silicon alley CURRENT CMBS COLLATERAL PROPERTIES PORTFOLIO Portfolio Statistics Portfolio Locations - Geographic Breakdown Number of Properties 7 Rentable sq. ft. (Millions) 1.3 Average Property Size (sq. ft.) 190,562 Average Property
+
+
+Age (Years) 13.3 Occupancy % 100% WALT by Revenue (Years) 11.0 Trailing Twelve Months Cash Basis NOI $23.3M Gross Book Value (GBV) $305.5M Contract Leasing Capex $8.3M Top MSAs (1) Portfolio Highlights(2) Tenancy Profile Urban / Suburban
+
+Mix Tenant Credit Profile Tenant Industry 00 Single Tenant 00 Suburban 00 Investment Grade .S. Government Real Estate Financial Manuf. Transportation Note: All information is as of or for the trailing twelve months ended March 31, 2025. (1) Includes the
+
+
+District of Columbia, Northern Virginia and Maryland. (2) Represents percentage of annualized rental income.
+NOT FINANCIAL GUIDANCE. PROVIDED TO LENDERS FOR DUE DILIGENCE PURPOSES. PRELIMINARY DRAFT. SUBJECT TO SIGNIFICANT CHANGE 14 OFFICE PROPERTIES INCOME TRUST CURRENT CMBS COLLATERAL OPERATING
+
+
+CASH FLOWS Operating Cash Flows (dollars and sq. ft. in thousands) CAGR 2025 2026 2027 2028 2029 2030 ('25-'30) Number of Properties 7 7 7 7 7 7 Rentable sq. ft. 1,334 1,334 1,334 1,334 1,334 1,334 Property Revenue per Average Leased sq. ft.
+
+$23.75 $24.68 $24.83 $25.21 $25.53 $26.05 1.9% Beginning Leased sq. ft. 1,334 1,334 1,334 1,334 1,334 1,334 Lease Expirations sq. ft. - - - - - - Lease Activity sq. ft. - - - - - - Ending Leased sq. ft. 1,334 1,334 1,334 1,334 1,334 1,334 Net Absorption sq. ft. - -
+
+
+- - - - Occupancy (at period end) 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% Property Revenue $31,677 $32,926 $33,129 $33,636 $34,055 $34,754 1.9% Property Operating Expenses (8,607) (8,478) (8,775) (9,146) (9,209) (9,489) Cash Basis NOI
+
+$23,070 $24,448 $24,354 $24,490 $24,846 $25,265 1.8% Leasing Capex ($1,859) ($0) ($0) ($2,842) ($3,031) ($0) Building Capex (374) (946) (190) (648) (1,035) (234) Redevelopment Capex - - - - - - Total Capex ($2,233) ($946) ($190) ($3,490) ($4,066)
+
+
+($234) Cash Flow Before G&A and Debt Service $20,837 $23,502 $24,164 $21,000 $20,780 $25,031 3.7% % Change Property Revenue NM 3.9% 0.6% 1.5% 1.2% 2.1% % Change Cash Basis NOI NM 6.0% (0.4%) 0.6% 1.5% 1.7% Cash Basis NOI Margin
+
+
+72.8% 74.3% 73.5% 72.8% 73.0% 72.7% Capex as % of Cash Basis NOI 9.7% 3.9% 0.8% 14.3% 16.4% 0.9%
+NOT FINANCIAL GUIDANCE. PROVIDED TO LENDERS FOR DUE DILIGENCE PURPOSES. PRELIMINARY DRAFT. SUBJECT TO SIGNIFICANT CHANGE 15 OFFICE PROPERTIES INCOME TRUST CREDIT AGREEMENT COLLATERAL
+
+PROPERTIES PORTFOLIO Note: All information is as of or for the trailing twelve months ended March 31, 2025. (1) Includes the District of Columbia, Northern Virginia and Maryland. (2) Represents percentage of annualized rental income. Portfolio Statistics
+
+
+Portfolio Locations - Geographic Breakdown Number of Properties 19 Rentable sq. ft. (Millions) 3.6 Average Property Size (sq. ft.) 189,608 Average Property Age (Years) 18.8 Occupancy % 93% WALT by Revenue (Years) 7.0 Trailing Twelve Months Cash
+
+Basis NOI $65.5M Gross Book Value (GBV) $1,031.5M Contract Leasing Capex $12.1M Portfolio Highlights(2) Tenancy Profile Urban / Suburban Mix Tenant Credit Profile Tenant Industry Multitenant Single Tenant rban Suburban Investment Grade on
+
+
+Investment Grade ot Rated .S. Government Real Estate Financial Legal Professional Services Technology Comms. Manuf. Transportation Gov. Contractors Other Government Life Sciences Medical Top MSAs (1) . . . . . . . . . .0 Chicago Washington D.C.
+
+ansas City Atlanta Charlotte Tri Cities WA San Diego Sacramento Cheyenne Roanoke
+NOT FINANCIAL GUIDANCE. PROVIDED TO LENDERS FOR DUE DILIGENCE PURPOSES. PRELIMINARY DRAFT. SUBJECT TO SIGNIFICANT CHANGE 16 OFFICE PROPERTIES INCOME TRUST CREDIT AGREEMENT COLLATERAL
+
+
+OPERATING CASH FLOWS Operating Cash Flows (dollars and sq. ft. in thousands) CAGR 2025 2026 2027 2028 2029 2030 ('25-'30) Number of Properties 19 19 19 19 19 19 Rentable sq. ft. 3,603 3,603 3,603 3,603 3,603 3,603 Property Revenue per
+
+Average Leased sq. ft. $33.84 $33.81 $34.02 $37.12 $37.53 $37.84 2.3% Beginning Leased sq. ft. 3,358 3,361 3,333 3,424 3,503 3,429 Lease Expirations sq. ft. (15) (53) (223) (411) (444) (25) Lease Activity sq. ft. 18 28 311 490 370 148 Ending Leased sq. ft.
+
+
+3,361 3,336 3,424 3,503 3,429 3,552 Net Absorption sq. ft. 3 (25) 88 79 (74) 123 Occupancy (at period end) 93.3% 92.6% 95.0% 97.2% 95.2% 98.6% Property Revenue $113,630 $113,104 $114,873 $128,440 $129,957 $131,971 3.0% Property Operating
+
+Expenses (49,207) (49,312) (50,779) (52,729) (54,185) (55,722) Cash Basis NOI $64,423 $63,792 $64,094 $75,711 $75,772 $76,249 3.4% Leasing Capex ($6,328) ($5,296) ($30,527) ($8,046) ($16,956) ($12,960) Building Capex (1,419) (2,613) (3,669)
+
+
+(3,652) (13,137) (10,861) Redevelopment Capex - - - - - - Total Capex ($7,747) ($7,909) ($34,196) ($11,698) ($30,093) ($23,821) Cash Flow Before G&A and Debt Service $56,676 $55,883 $29,898 $64,013 $45,679 $52,428 (1.5%) % Change Property
+
+Revenue NM (0.5%) 1.6% 11.8% 1.2% 1.5% % Change Cash Basis NOI NM (1.0%) 0.5% 18.1% 0.1% 0.6% Cash Basis NOI Margin 56.7% 56.4% 55.8% 58.9% 58.3% 57.8% Capex as % of Cash Basis NOI 12.0% 12.4% 53.4% 15.5% 39.7% 31.2%
+NOT FINANCIAL GUIDANCE. PROVIDED TO LENDERS FOR DUE DILIGENCE PURPOSES. PRELIMINARY DRAFT. SUBJECT TO SIGNIFICANT CHANGE 17 OFFICE PROPERTIES INCOME TRUST CREDIT AGREEMENT COLLATERAL
+
+
+OPERATING CASH FLOWS (TOP 6 PROPERTIES / 64.0% OF 2026 CASH BASIS NOI) Operating Cash Flows (dollars in thousands) CAGR 2025 2026 2027 2028 2029 2030 ('25-'30) Property Revenue $76,445 $76,758 $74,796 $87,500 $88,688 $91,384
+
+3.6% Property Operating Expenses (35,762) (35,929) (36,945) (38,366) (39,538) (40,689) Cash Basis NOI $40,683 $40,829 $37,851 $49,134 $49,150 $50,695 4.5% Leasing Capex ($2,969) ($5,153) ($29,549) ($8,046) ($16,772) ($7,024) Building Capex
+
+
+(1,109) (1,520) (698) (1,635) (10,004) (8,801) Redevelopment Capex - - - - - - Total Capex ($4,078) ($6,673) ($30,247) ($9,681) ($26,776) ($15,825) Cash Flow Before G&A and Debt Service $36,605 $34,156 $7,604 $39,453 $22,374 $34,870 (1.0%) %
+
+Change Property Revenue NM 0.4% (2.6%) 17.0% 1.4% 3.0% % Change Cash Basis NOI NM 0.4% (7.3%) 29.8% 0.0% 3.1% Cash Basis NOI Margin 53.2% 53.2% 50.6% 56.2% 55.4% 55.5% Capex as % of Cash Basis NOI 10.0% 16.3% 79.9% 19.7%
+
+
+54.5% 31.2%
+NOT FINANCIAL GUIDANCE. PROVIDED TO LENDERS FOR DUE DILIGENCE PURPOSES. PRELIMINARY DRAFT. SUBJECT TO SIGNIFICANT CHANGE 18 OFFICE PROPERTIES INCOME TRUST $300M SENIOR NOTES DUE 2029 COLLATERAL
+
+PROPERTIES PORTFOLIO Portfolio Statistics Portfolio Locations - Geographic Breakdown Number of Properties 17 Rentable sq. ft. (Millions) 2.1 Average Property Size (sq. ft.) 125,065 Average Property Age (Years) 18.0 Occupancy % 98% WALT by
+
+
+Revenue (Years) 8.9 Trailing Twelve Months Cash Basis NOI $39.5M Gross Book Value (GBV) $624.9M Contract Leasing Capex $4.6M Portfolio Highlights(1) Tenancy Profile Urban / Suburban Mix Tenant Credit Profile Tenant Industry Multitenant Single
+
+Tenant rban Suburban Investment Grade on Investment Grade ot Rated .S. Government Real Estate Financial Legal Professional Services Technology Comms. Manuf. Transportation Gov. Contractors Other Government Other Top MSAs . . . .0 . . . . . . . .
+
+
+Atlanta Silicon alley Provo Sacramento South Florida Boise San Antonio Austin San Diego Phoenix Richmond Burlington Note: All information is as of or for the trailing twelve months ended March 31, 2025. (1) Represents percentage of annualized rental
+
+income.
+NOT FINANCIAL GUIDANCE. PROVIDED TO LENDERS FOR DUE DILIGENCE PURPOSES. PRELIMINARY DRAFT. SUBJECT TO SIGNIFICANT CHANGE 19 OFFICE PROPERTIES INCOME TRUST $300M SENIOR NOTES DUE 2029 COLLATERAL
+
+
+OPERATING CASH FLOWS Operating Cash Flows (dollars and sq. ft. in thousands) CAGR 2025 2026 2027 2028 2029 2030 ('25-'30) Number of Properties 17 17 17 17 17 17 Rentable sq. ft. 2,126 2,126 2,126 2,126 2,126 2,126 Property Revenue per
+
+Average Leased sq. ft. $31.97 $32.57 $33.32 $34.34 $35.09 $35.84 2.3% Beginning Leased sq. ft. 2,073 2,072 2,096 2,099 2,095 2,004 Lease Expirations sq. ft. (6) (8) (11) (7) (128) (141) Lease Activity sq. ft. 5 32 14 3 37 167 Ending Leased sq. ft. 2,072
+
+
+2,096 2,099 2,095 2,004 2,030 Net Absorption sq. ft. (1) 24 3 (4) (91) 26 Occupancy (at period end) 97.5% 98.6% 98.7% 98.5% 94.3% 95.5% Property Revenue $66,258 $67,866 $69,893 $72,018 $71,913 $72,299 1.8% Property Operating Expenses (24,230)
+
+(24,856) (25,462) (26,254) (27,025) (27,743) Cash Basis NOI $42,028 $43,010 $44,431 $45,764 $44,888 $44,556 1.2% Leasing Capex ($5,868) ($1,635) ($617) ($143) ($1,854) ($6,524) Building Capex (3,238) (1,251) (4,186) (4,424) (826) (630)
+
+
+Redevelopment Capex - - - - - - Total Capex ($9,106) ($2,886) ($4,803) ($4,567) ($2,680) ($7,154) Cash Flow Before G&A and Debt Service $32,922 $40,124 $39,628 $41,197 $42,208 $37,402 2.6% % Change Property Revenue NM 2.4% 3.0% 3.0% (0.1%)
+
+0.5% % Change Cash Basis NOI NM 2.3% 3.3% 3.0% (1.9%) (0.7%) Cash Basis NOI Margin 63.4% 63.4% 63.6% 63.5% 62.4% 61.6% Capex as % of Cash Basis NOI 21.7% 6.7% 10.8% 10.0% 6.0% 16.1%
+NOT FINANCIAL GUIDANCE. PROVIDED TO LENDERS FOR DUE DILIGENCE PURPOSES. PRELIMINARY DRAFT. SUBJECT TO SIGNIFICANT CHANGE 20 OFFICE PROPERTIES INCOME TRUST $300M SENIOR NOTES DUE 2029 COLLATERAL
+
+
+OPERATING CASH FLOWS (TOP 5 PROPERTIES / 63.4% of 2026 CASH BASIS NOI) CAGR 2025 2026 2027 2028 2029 2030 ('25-'30) Property Revenue $42,053 $43,551 $45,027 $46,457 $47,604 $48,024 2.7% Property Operating Expenses (15,851)
+
+
+(16,294) (16,731) (17,256) (17,792) (18,355) Cash Basis NOI $26,202 $27,257 $28,296 $29,201 $29,812 $29,669 2.5% Leasing Capex ($1,526) ($1,456) ($617) ($143) ($395) ($2,687) Building Capex (1,225) (986) (2,822) (2,517) (179) (358) Redevelopment
+
+
+Capex - - - - - - Total Capex ($2,751) ($2,442) ($3,439) ($2,660) ($574) ($3,045) Cash Flow Before G&A and Debt Service $23,451 $24,815 $24,857 $26,541 $29,238 $26,624 2.6% % Change Property Revenue NM 3.6% 3.4% 3.2% 2.5% 0.9% % Change
+
+Cash Basis NOI NM 4.0% 3.8% 3.2% 2.1% (0.5%) Cash Basis NOI Margin 62.3% 62.6% 62.8% 62.9% 62.6% 61.8% Capex as % of Cash Basis NOI 10.5% 9.0% 12.2% 9.1% 1.9% 10.3% Operating Cash Flows (dollars in thousands)
+NOT FINANCIAL GUIDANCE. PROVIDED TO LENDERS FOR DUE DILIGENCE PURPOSES. PRELIMINARY DRAFT. SUBJECT TO SIGNIFICANT CHANGE 21 OFFICE PROPERTIES INCOME TRUST $610M SENIOR NOTES DUE 2029 COLLATERAL
+
+
+PROPERTIES PORTFOLIO Portfolio Statistics Portfolio Locations - Geographic Breakdown Number of Properties 19 Rentable sq. ft. (Millions) 3.2 Average Property Size (sq. ft.) 169,389 Average Property Age (Years) 17.3 Occupancy % 83% WALT by
+
+
+Revenue (Years) 7.5 Trailing Twelve Months Cash Basis NOI $29.3M Gross Book Value (GBV) $721.3M Contract Leasing Capex $31.9M Portfolio Highlights(2) Tenancy Profile Urban / Suburban Mix Tenant Credit Profile Tenant Industry Multitenant Single
+
+
+Tenant rban Suburban 0 Investment Grade on Investment Grade ot Rated .S. Government Real Estate Financial Legal Professional Services Technology Comms. Manuf. Transportation Gov. Contractors Other Government Life Sciences Medical Other Top
+
+MSAs . . . . . . . . . . . Dallas Ft. Worth Chicago Seattle A Beach ouston Atlanta South Florida Washington D.C. Omaha Minneapolis St. Paul Other (1) Note: All information is as of or for the trailing twelve months ended March 31, 2025. (1) Includes the District of
+
+
+Columbia, Northern Virginia and Maryland. (2) Represents percentage of annualized rental income.
+NOT FINANCIAL GUIDANCE. PROVIDED TO LENDERS FOR DUE DILIGENCE PURPOSES. PRELIMINARY DRAFT. SUBJECT TO SIGNIFICANT CHANGE 22 OFFICE PROPERTIES INCOME TRUST $610M SENIOR NOTES DUE 2029 COLLATERAL
+
+
+OPERATING CASH FLOWS (1) 554K sq. ft. Bank of America lease free rent rolls off. Operating Cash Flows (dollars and sq. ft. in thousands) CAGR 2025 2026 2027 2028 2029 2030 ('25-'30) Number of Properties 19 19 19 19 19 19 Rentable sq. ft. 3,218
+
+
+3,218 3,218 3,218 3,218 3,218 Property Revenue per Average Leased sq. ft. $21.38 $26.46 $27.05 $26.87 $26.23 $26.78 4.6% Beginning Leased sq. ft. 2,665 2,593 2,600 2,383 2,537 2,757 Lease Expirations sq. ft. (126) (5) (297) (163) (156) (207) Lease
+
+Activity sq. ft. 54 12 80 317 376 283 Ending Leased sq. ft. 2,593 2,600 2,383 2,537 2,757 2,833 Net Absorption sq. ft. (72) 7 (217) 154 220 76 Occupancy (at period end) 80.6% 80.8% 74.1% 78.8% 85.7% 88.0% Property Revenue $56,218 $68,709 $67,383
+
+
+$66,098 $69,437 $74,864 5.9% Property Operating Expenses (28,270) (28,491) (29,068) (29,719) (30,942) (31,970) Cash Basis NOI $27,948 $40,218 $38,315 $36,379 $38,495 $42,894 8.9% Leasing Capex ($12,771) ($13,594) ($17,045) ($27,270) ($21,193)
+
+
+($19,276) Building Capex (1,039) (1,339) (1,319) (5,197) (2,165) (5,938) Redevelopment Capex - - - - - - Total Capex ($13,810) ($14,933) ($18,364) ($32,467) ($23,358) ($25,214) Cash Flow Before G&A and Debt Service $14,138 $25,285 $19,951 $3,912
+
+
+$15,137 $17,680 4.6% % Change Property Revenue NM 22.2% (1.9%) (1.9%) 5.1% 7.8% % Change Cash Basis NOI NM 43.9% (4.7%) (5.1%) 5.8% 11.4% Cash Basis NOI Margin 49.7% 58.5% 56.9% 55.0% 55.4% 57.3% Capex as % of Cash Basis NOI
+
+49.4% 37.1% 47.9% 89.2% 60.7% 58.8% (1)
+NOT FINANCIAL GUIDANCE. PROVIDED TO LENDERS FOR DUE DILIGENCE PURPOSES. PRELIMINARY DRAFT. SUBJECT TO SIGNIFICANT CHANGE 23 OFFICE PROPERTIES INCOME TRUST $610M SENIOR NOTES DUE 2029 COLLATERAL
+
+OPERATING CASH FLOWS (TOP 5 PROPERTIES / 65.3% of 2026 CASH BASIS NOI) CAGR 2025 2026 2027 2028 2029 2030 ('25-'30) Property Revenue $33,813 $43,940 $42,146 $41,553 $45,610 $52,697 9.3% Property Operating Expenses (17,275)
+
+
+(17,686) (17,957) (18,224) (19,228) (19,810) Cash Basis NOI $16,538 $26,254 $24,189 $23,329 $26,382 $32,887 14.7% Leasing Capex ($9,087) ($11,425) ($15,547) ($24,840) ($21,172) ($11,559) Building Capex (882) (614) (641) (4,001) (564) (3,808)
+
+
+Redevelopment Capex - - - - - - Total Capex ($9,969) ($12,039) ($16,188) ($28,841) ($21,736) ($15,367) Cash Flow Before G&A and Debt Service $6,569 $14,215 $8,001 ($5,512) $4,646 $17,520 21.7% % Change Property Revenue NM 30.0% (4.1%)
+
+
+(1.4%) 9.8% 15.5% % Change Cash Basis NOI NM 58.7% (7.9%) (3.6%) 13.1% 24.7% Cash Basis NOI Margin 48.9% 59.7% 57.4% 56.1% 57.8% 62.4% Capex as % of Cash Basis NOI 60.3% 45.9% 66.9% 123.6% 82.4% 46.7% (1) 554K sq. ft. Bank of
+
+America lease free rent rolls off. (1) Operating Cash Flows (dollars in thousands)
+NOT FINANCIAL GUIDANCE. PROVIDED TO LENDERS FOR DUE DILIGENCE PURPOSES. PRELIMINARY DRAFT. SUBJECT TO SIGNIFICANT CHANGE 24 OFFICE PROPERTIES INCOME TRUST $445M SENIOR NOTES DUE 2027 COLLATERAL
+
+
+PROPERTIES PORTFOLIO Portfolio Statistics Portfolio Locations - Geographic Breakdown Number of Properties 35 Rentable sq. ft. (Millions) 4.1 Average Property Size (sq. ft.) 117,851 Average Property Age (Years) 16.8 Occupancy % 70% WALT by
+
+
+Revenue (Years) 4.7 Trailing Twelve Months Cash Basis NOI $47.4M Gross Book Value (GBV) $1,240.7M Contract Leasing Capex $12.2M Portfolio Highlights(2) Tenancy Profile Urban / Suburban Mix Tenant Credit Profile Tenant Industry Multitenant Single
+
+
+Tenant rban Suburban 0 Investment Grade on Investment Grade ot Rated 0 .S. Government Real Estate Financial Legal Professional Services Technology Comms. Manuf. Transportation Gov. Contractors Other Government Life Sciences Medical Other Top
+
+MSAs . 0. . . . . . . . . .0 Washington D.C. Baltimore Silicon alley Dallas Ft. Worth Boston Richmond Charlotte ansas City Tampa San Diego Other (1) Note: All information is as of or for the trailing twelve months ended March 31, 2025. Information excludes
+
+
+active dispositions (11411 E. Jefferson Avenue). Any disposition proceeds will be used to reduce the $445 million senior notes due 2027 principal balance. (1) Includes the District of Columbia, Northern Virginia and Maryland. (2) Represents percentage of
+
+
+annualized rental income.
+NOT FINANCIAL GUIDANCE. PROVIDED TO LENDERS FOR DUE DILIGENCE PURPOSES. PRELIMINARY DRAFT. SUBJECT TO SIGNIFICANT CHANGE 25 OFFICE PROPERTIES INCOME TRUST $445M SENIOR NOTES DUE 2027 COLLATERAL
+
+
+OPERATING CASH FLOWS Note: Information excludes active dispositions (11411 E. Jefferson Avenue). 11411 E. Jefferson Avenue is part of $445 million senior notes due 2027 collateral portfolio, and any disposition proceeds will be used to reduce the
+
+
+principal balance. CAGR 2025 2026 2027 2028 2029 2030 ('25-'30) Number of Properties 35 35 35 35 35 35 Rentable sq. ft. 4,125 4,125 4,125 4,125 4,125 4,125 Property Revenue per Average Leased sq. ft. $41.48 $44.29 $45.92 $47.35 $48.69 $49.25
+
+
+3.5% Beginning Leased sq. ft. 2,891 2,293 2,076 2,357 2,352 2,444 Lease Expirations sq. ft. (836) (503) (235) (109) (197) (287) Lease Activity sq. ft. 238 286 516 104 289 269 Ending Leased sq. ft. 2,293 2,076 2,357 2,352 2,444 2,426 Net Absorption sq. ft.
+
+(598) (217) 281 (5) 92 (18) Occupancy (at period end) 55.6% 50.3% 57.1% 57.0% 59.2% 58.8% Property Revenue $107,523 $96,744 $101,790 $111,494 $116,766 $119,924 2.2% Property Operating Expenses (71,082) (70,692) (72,177) (73,833) (75,400)
+
+
+(77,335) Cash Basis NOI $36,441 $26,052 $29,613 $37,661 $41,366 $42,589 3.2% Leasing Capex ($18,485) ($24,308) ($23,915) ($12,573) ($15,352) ($15,681) Building Capex (2,620) (1,902) (3,149) (2,632) (1,531) (1,169) Redevelopment Capex (1,758)
+
+
+(1,380) - - - - Total Capex ($22,863) ($27,590) ($27,064) ($15,205) ($16,883) ($16,850) Cash Flow Before G&A and Debt Service $13,578 ($1,538) $2,549 $22,456 $24,483 $25,739 13.6% % Change Property Revenue NM (10.0%) 5.2% 9.5% 4.7% 2.7% %
+
+
+Change Cash Basis NOI NM (28.5%) 13.7% 27.2% 9.8% 3.0% Cash Basis NOI Margin 33.9% 26.9% 29.1% 33.8% 35.4% 35.5% Capex as % of Cash Basis NOI 62.7% 105.9% 91.4% 40.4% 40.8% 39.6% Operating Cash Flows (dollars and sq. ft. in
+
+thousands)
+NOT FINANCIAL GUIDANCE. PROVIDED TO LENDERS FOR DUE DILIGENCE PURPOSES. PRELIMINARY DRAFT. SUBJECT TO SIGNIFICANT CHANGE 26 OFFICE PROPERTIES INCOME TRUST $445M SENIOR NOTES DUE 2027 COLLATERAL
+
+OPERATING CASH FLOWS (TOP 6 PROPERTIES / 65.0% of 2026 CASH BASIS NOI) CAGR 2025 2026 2027 2028 2029 2030 ('25-'30) Property Revenue $54,137 $59,619 $60,726 $64,585 $65,761 $67,961 4.7% Property Operating Expenses (34,937)
+
+
+(42,687) (43,436) (44,094) (44,685) (45,713) Cash Basis NOI $19,200 $16,932 $17,290 $20,491 $21,076 $22,248 3.0% Leasing Capex ($1,619) ($6,199) ($10,821) ($6,844) ($6,742) ($5,442) Building Capex (733) (389) (112) (531) (1,121) (326)
+
+
+Redevelopment Capex 164 - - - - - Total Capex ($2,188) ($6,588) ($10,933) ($7,375) ($7,863) ($5,768) Cash Flow Before G&A and Debt Service $17,012 $10,344 $6,357 $13,116 $13,213 $16,480 (0.6%) % Change Property Revenue NM 10.1% 1.9% 6.4%
+
+
+1.8% 3.3% % Change Cash Basis NOI NM (11.8%) 2.1% 18.5% 2.9% 5.6% Cash Basis NOI Margin 35.5% 28.4% 28.5% 31.7% 32.0% 32.7% Capex as % of Cash Basis NOI 11.4% 38.9% 63.2% 36.0% 37.3% 25.9% Operating Cash Flows (dollars in
+
+thousands)
+NOT FINANCIAL GUIDANCE. PROVIDED TO LENDERS FOR DUE DILIGENCE PURPOSES. PRELIMINARY DRAFT. SUBJECT TO SIGNIFICANT CHANGE 27 OFFICE PROPERTIES INCOME TRUST $445M SENIOR NOTES DUE 2027 COLLATERAL
+
+OPERATING CASH FLOWS (PRO FORMA FOR THE SALE OF 12 PROPERTIES) Note: Information excludes active dispositions (11411 E. Jefferson Avenue), and 12 of the 26 properties identified for potential dispositions on page 10. 11411 E. Jefferson
+
+
+Avenue is part of $445 million senior notes due 2027 collateral portfolio, and any disposition proceeds will be used to reduce the principal balance. CAGR 2025 2026 2027 2028 2029 2030 ('25-'30) Number of Properties 23 23 23 23 23 23 Rentable sq. ft. 2,604
+
+
+2,604 2,604 2,604 2,604 2,604 Property Revenue per Average Leased sq. ft. $38.79 $35.33 $37.31 $40.97 $42.57 $43.55 2.3% Beginning Leased sq. ft. 2,137 2,027 1,903 2,182 2,176 2,245 Lease Expirations sq. ft. (219) (397) (209) (88) (176) (266) Lease
+
+
+Activity sq. ft. 109 273 488 82 245 236 Ending Leased sq. ft. 2,027 1,903 2,182 2,176 2,245 2,215 Net Absorption sq. ft. (110) (124) 279 (6) 69 (30) Occupancy (at period end) 77.8% 73.1% 83.8% 83.6% 86.2% 85.1% Property Revenue $101,004 $92,000
+
+$97,151 $106,683 $110,842 $113,396 2.3% Property Operating Expenses (64,411) (61,700) (62,966) (64,361) (65,618) (67,218) Cash Basis NOI $36,593 $30,300 $34,185 $42,322 $45,224 $46,178 4.8% Leasing Capex ($16,585) ($23,581) ($23,426)
+
+
+($10,843) ($15,029) ($14,308) Building Capex (2,421) (1,655) (2,821) (2,533) (1,411) (747) Redevelopment Capex (275) - - - - - Total Capex ($19,281) ($25,236) ($26,247) ($13,376) ($16,440) ($15,055) Cash Flow Before G&A and Debt Service $17,312
+
+
+$5,064 $7,938 $28,946 $28,784 $31,123 12.4% % Change Property Revenue NM (8.9%) 5.6% 9.8% 3.9% 2.3% % Change Cash Basis NOI NM (17.2%) 12.8% 23.8% 6.9% 2.1% Cash Basis NOI Margin 36.2% 32.9% 35.2% 39.7% 40.8% 40.7% Capex as %
+
+
+of Cash Basis NOI 52.7% 83.3% 76.8% 31.6% 36.4% 32.6% Operating Cash Flows (dollars and sq. ft. in thousands)
+NOT FINANCIAL GUIDANCE. PROVIDED TO LENDERS FOR DUE DILIGENCE PURPOSES. PRELIMINARY DRAFT. SUBJECT TO SIGNIFICANT CHANGE 28 OFFICE PROPERTIES INCOME TRUST UNENCUMBERED PROPERTIES PORTFOLIO
+
+
+Portfolio Statistics Portfolio Locations - Geographic Breakdown Number of Properties 25 Rentable sq. ft. (Millions) 2.7 Average Property Size (sq. ft.) 108,469 Average Property Age (Years) 21.3 Occupancy % 64% WALT by Revenue (Years) 3.4 Trailing
+
+Twelve Months Cash Basis NOI $25.7M Gross Book Value (GBV) $650.6M Contract Leasing Capex $9.3M Portfolio Highlights(2) Tenancy Profile Urban / Suburban Mix Tenant Credit Profile Tenant Industry Multitenant Single Tenant rban Suburban
+
+
+Investment Grade on Investment Grade ot Rated .S. Government Real Estate Financial Legal Professional Services Technology Comms. Manuf. Transportation Gov. Contractors Other Government Other Top MSAs . . . . . . . . . . . . .0 . Washington D.C.
+
+
+Indianapolis Sacramento Dallas Ft. Worth San Francisco Montgomery Des Moines Silicon alley Detroit Baltimore Richmond Safford Stockton Other (1) Note: All information is as of or for the trailing twelve months ended March 31, 2025. Information excludes
+
+
+active dispositions (1920/1930 W University Drive). (1) Includes the District of Columbia, Northern Virginia and Maryland. (2) Represents percentage of annualized rental income.
+NOT FINANCIAL GUIDANCE. PROVIDED TO LENDERS FOR DUE DILIGENCE PURPOSES. PRELIMINARY DRAFT. SUBJECT TO SIGNIFICANT CHANGE 29 OFFICE PROPERTIES INCOME TRUST UNENCUMBERED PROPERTIES OPERATING
+
+
+CASH FLOWS Operating Cash Flows (dollars and sq. ft. in thousands) Note: Information excludes active dispositions (1920/1930 W University Drive). CAGR 2025 2026 2027 2028 2029 2030 ('25-'30) Number of Properties 25 25 25 25 25 25 Rentable sq. ft.
+
+2,711 2,711 2,711 2,711 2,711 2,711 Property Revenue per Average Leased sq. ft. $28.07 $23.14 $25.09 $25.80 $27.85 $27.21 (0.6%) Beginning Leased sq. ft. 1,727 1,579 1,598 1,246 1,418 1,443 Lease Expirations sq. ft. (227) (129) (800) (50) (55) (153)
+
+
+Lease Activity sq. ft. 79 148 448 222 80 192 Ending Leased sq. ft. 1,579 1,598 1,246 1,418 1,443 1,482 Net Absorption sq. ft. (148) 19 (352) 172 25 39 Occupancy (at period end) 58.2% 58.9% 46.0% 52.3% 53.2% 54.7% Property Revenue $46,407 $36,796
+
+
+$35,729 $34,412 $39,877 $39,822 (3.0%) Property Operating Expenses (23,925) (22,972) (23,343) (23,646) (24,496) (25,063) Cash Basis NOI $22,482 $13,824 $12,386 $10,766 $15,381 $14,759 (8.1%) Leasing Capex ($11,334) ($12,104) ($12,795)
+
+
+($12,502) ($5,852) ($8,638) Building Capex (6,205) (1,102) (1,484) (1,625) (3,246) (3,097) Redevelopment Capex (159) (525) - - - - Total Capex ($17,698) ($13,731) ($14,279) ($14,127) ($9,098) ($11,735) Cash Flow Before G&A and Debt Service $4,784 $93
+
+($1,893) ($3,361) $6,283 $3,024 (8.8%) % Change Property Revenue NM (20.7%) (2.9%) (3.7%) 15.9% (0.1%) % Change Cash Basis NOI NM (38.5%) (10.4%) (13.1%) 42.9% (4.0%) Cash Basis NOI Margin 48.4% 37.6% 34.7% 31.3% 38.6% 37.1% Capex
+
+
+as % of Cash Basis NOI 78.7% 99.3% 115.3% 131.2% 59.2% 79.5%
+NOT FINANCIAL GUIDANCE. PROVIDED TO LENDERS FOR DUE DILIGENCE PURPOSES. PRELIMINARY DRAFT. SUBJECT TO SIGNIFICANT CHANGE 30 OFFICE PROPERTIES INCOME TRUST UNENCUMBERED PROPERTIES OPERATING
+
+
+CASH FLOWS (TOP 5 PROPERTIES / 78.2% of 2026 CASH BASIS NOI) CAGR 2025 2026 2027 2028 2029 2030 ('25-'30) Property Revenue $13,630 $14,628 $12,265 $10,633 $12,390 $12,111 (2.3%) Property Operating Expenses (3,744) (3,718) (3,555)
+
+
+(3,338) (3,431) (3,505) Cash Basis NOI $9,886 $10,910 $8,710 $7,295 $8,959 $8,606 (2.7%) Leasing Capex ($5,478) ($2,348) ($1,359) ($3,860) ($3,387) ($3,330) Building Capex (2,009) - (708) (660) (319) (74) Redevelopment Capex - - - - - - Total Capex
+
+($7,487) ($2,348) ($2,067) ($4,520) ($3,706) ($3,404) Cash Flow Before G&A and Debt Service $2,399 $8,562 $6,643 $2,775 $5,253 $5,202 16.7% % Change Property Revenue NM 7.3% (16.2%) (13.3%) 16.5% (2.3%) % Change Cash Basis NOI NM 10.4%
+
+
+(20.2%) (16.2%) 22.8% (3.9%) Cash Basis NOI Margin 72.5% 74.6% 71.0% 68.6% 72.3% 71.1% Capex as % of Cash Basis NOI 75.7% 21.5% 23.7% 62.0% 41.4% 39.6% Operating Cash Flows (dollars in thousands)
+NOT FINANCIAL GUIDANCE. PROVIDED TO LENDERS FOR DUE DILIGENCE PURPOSES. PRELIMINARY DRAFT. SUBJECT TO SIGNIFICANT CHANGE 31 OFFICE PROPERTIES INCOME TRUST UNENCUMBERED PROPERTIES OPERATING
+
+
+CASH FLOWS (PRO FORMA FOR THE SALE OF 14 PROPERTIES) Operating Cash Flows (dollars and sq. ft. in thousands) Note: Information excludes active dispositions (1920/1930 W University Drive), and 14 of the 26 properties identified for potential
+
+
+dispositions on page 10. CAGR 2025 2026 2027 2028 2029 2030 ('25-'30) Number of Properties 11 11 11 11 11 11 Rentable sq. ft. 932 932 932 932 932 932 Property Revenue per Average Leased sq. ft. $23.81 $16.16 $18.84 $21.55 $24.19 $24.24 0.4%
+
+Beginning Leased sq. ft. 671 606 726 746 861 861 Lease Expirations sq. ft. (130) (2) (176) - (51) (62) Lease Activity sq. ft. 65 122 196 115 51 132 Ending Leased sq. ft. 606 726 746 861 861 931 Net Absorption sq. ft. (65) 120 18 115 - 70 Occupancy (at period
+
+
+end) 65.0% 78.1% 80.0% 92.4% 92.4% 99.9% Property Revenue $22,189 $15,059 $17,556 $20,087 $22,545 $22,588 0.4% Property Operating Expenses (10,728) (8,325) (8,635) (9,014) (9,417) (9,591) Cash Basis NOI $11,461 $6,734 $8,921 $11,073
+
+
+$13,128 $12,997 2.5% Leasing Capex ($10,664) ($8,392) ($9,044) ($6,024) ($2,408) ($6,233) Building Capex (6,098) (817) (930) (766) (1,440) (2,176) Redevelopment Capex (397) (525) - - - - Total Capex ($16,365) ($9,734) ($9,974) ($6,790) ($3,848)
+
+
+($8,409) Cash Flow Before G&A and Debt Service ($4,904) ($3,000) ($1,053) $4,283 $9,280 $4,588 N.M. % Change Property Revenue NM (32.1%) 16.6% 14.4% 12.2% 0.2% % Change Cash Basis NOI NM (41.2%) 32.5% 24.1% 18.6% (1.0%) Cash Basis
+
+NOI Margin 51.7% 44.7% 50.8% 55.1% 58.2% 57.5% Capex as % of Cash Basis NOI 142.8% 144.6% 111.8% 61.3% 29.3% 64.7%
+NOT FINANCIAL GUIDANCE. PROVIDED TO LENDERS FOR DUE DILIGENCE PURPOSES. PRELIMINARY DRAFT. SUBJECT TO SIGNIFICANT CHANGE 32 OFFICE PROPERTIES INCOME TRUST NON-GAAP FINANCIAL MEASURES AND
+
+
+CERTAIN DEFINITIONS Non-GAAP Financial Measures OPI presents certain "non-GAAP financial measures" within the meaning of the applicable rules of the Securities and Exchange Commission, or the SEC, including Cash Flow, Cash Basis NOI. These
+
+
+measures do not represent cash generated by operating activities in accordance with GAAP and should not be considered alternatives to net (loss) income as indicators of OPI's operating performance or as measures of OPI's liquidity. These measures should
+
+be considered in conjunction with net (loss) income as presented in OPI's condensed consolidated statements of income (loss). OPI considers these non-GAAP measures to be appropriate supplemental measures of operating performance for a REIT, along
+
+
+with net (loss) income. OPI believes these measures provide useful information to investors because by excluding the effects of certain historical amounts, such as depreciation and amortization expense, they may facilitate a comparison of OPI's operating
+
+
+performance between periods and with other REITs and, in the case of Cash Basis NOI reflecting only those income and expense items that are generated and incurred at the property level may help both investors and management to understand the
+
+
+operations of OPI's properties. Cash Basis NOI The calculations of Cash Basis NOI exclude certain components of net (loss) income in order to provide results that are more closely related to OPI's property level results of operations. OPI calculates Cash
+
+Basis NOI. OPI defines Cash Basis NOI as NOI excluding non-cash straight line rent adjustments, lease value amortization, lease termination fees, if any, and non-cash amortization included in other operating expenses. OPI uses Cash Basis NOI, to evaluate
+
+
+individual and company-wide property level performance. Other real estate companies and REITs may calculate Cash Basis NOI differently than OPI does. Cash Flow Before G&A and Debt Service OPI calculates Cash Flow Before G&A and Debt Service as
+
+
+Cash Basis NOI less total Building Capex, Leasing Capex and Redevelopment Capex. Annualized Rental Income is calculated using the annualized contractual base rents from OPI's tenants pursuant to its lease agreements as of June 30, 2024, plus straight
+
+
+line rent adjustments and estimated recurring expense reimbursements to be paid to OPI and excluding lease value amortization. Building Capex generally include expenditures to replace obsolete building components and expenditures that extend the useful
+
+life of existing assets. GAAP is U.S. generally accepted accounting principles. Gross Book Value (GBV) is real estate properties at cost, plus certain acquisition costs, if any, before depreciation and purchase price allocations, less impairment writedowns, if
+
+
+any. Investment grade tenants s include: (a) investment grade rated tenants; (b) tenants with investment grade rated parent entities that guarantee the tenant's lease obligations; and/or (c) tenants with investment grade rated parent entities that do not
+
+
+guarantee the tenant's lease obligations. Tenants contributing 52.2% of annualized rental income as of March 31, 2025 were investment grade rated (or their payment obligations were guaranteed by an investment grade rated parent) and tenants contributing
+
+
+an additional 7.7% of annualized rental income as of March 31, 2025 were subsidiaries of an investment grade rated parent (although these parent entities are not liable for the payment of rents). Leasing Capex generally include capital expenditures used to
+
+improve tenants' space or amounts paid directly to tenants to improve their space and leasing related costs, such as brokerage commissions and tenant inducements. MSA is metropolitan statistical area. Rentable sq. ft. represents total square feet available for
+
+
+lease as of the measurement date. Square footage measurements are subject to changes when space is remeasured or reconfigured for new tenants. WALT by Revenue is the average remaining lease term in years weighted based on annualized rental
+
+
+income.
+NOT FINANCIAL GUIDANCE. PROVIDED TO LENDERS FOR DUE DILIGENCE PURPOSES. PRELIMINARY DRAFT. SUBJECT TO SIGNIFICANT CHANGE 33 OFFICE PROPERTIES INCOME TRUST BUSINESS PLAN PRESENTATION August 2025
+
+Chicago, IL Two Newton Place 255 Washington Street, Suite 300 Newton, MA 02458 OPIREIT.COM
+Content must not go below this line Glacier Blue 090, 130, 175 Winter Green 105, 135, 130 Mid Slate 115, 120, 135 Purple 080, 075, 155 PRIMARY PALETTE Oxford Blue 030, 040, 070 ACCENT PALETTE Maroon 160, 065, 090 Sandstone 220, 185, 110
+
+Turquoise 080, 175, 140 BACKGROUND Blue Grey 210, 220, 230 CHART LINES Off White 225, 230, 235 October 2025 2027s Cleansing Materials Restructuring Term Sheet Not Financial Guidance. Subject to FRE 408 and All Equivalents. Non-Binding /
+
+
+Non-Final / Non-Enforceable Draft. Subject to Material Change.
+CONFIDENTIAL SUBJECT TO FRE 408 DRAFT 10/25/2025 For Discussion Purposes Only $90-125 MILLION SUPER-PRIORITY DEBTOR-IN-POSSESSION CREDIT FACILITY TERM SHEET SUMMARY OF PRINCIPAL TERMS AND CONDITIONS The
+
+following describes the terms of a debtor-in-possession financing ("DIP Facility") for certain direct and indirect subsidiaries of Office Properties Income Trust ("OPI") set forth in Schedule 1 attached hereto (each, a "Debtor" and, collectively, the "Debtors"). This
+
+
+term sheet ("Term Sheet") is non-binding and is intended for discussion purposes only and does not constitute a commitment to lend. The Lenders' commitment and other obligations hereunder are subject to: (i) the preparation, execution and delivery of
+
+
+mutually acceptable loan documentation incorporating substantially the terms and conditions outlined in this Term Sheet ("DIP Loan Documents"); (ii) the accuracy and completeness of all representations that each Credit Party makes to the Lender and all
+
+
+information that such Credit Party furnishes to the Lender; (iii) the Borrower's compliance with the terms of this Term Sheet, including, without limitation, the payment in full of all fees, expenses and other amounts payable hereunder; and (iv) the other
+
+conditions set forth in this Term Sheet or referred to herein or in any attachments, schedules or appendices attached hereto. The terms and conditions set forth herein are mutually dependent on each other, and the Lenders shall not be obligated to extend
+
+
+credit unless agreement with the Debtors and approval by the Bankruptcy Court is obtained with respect to such terms and conditions as a whole. [Transaction Description The Ad-Hoc Group of 2027 Notes (the "Ad Hoc Group") will backstop a $90 million DIP
+
+
+Facility (the loans thereunder, the "DIP Loans") to be used to provide funding for the cases of the Debtors set forth in Schedule 1, subject to the conditions herein. The DIP Facility will be a superpriority obligation of each Credit Party (as defined below) and
+
+
+secured by a security interest on all assets of such Credit Party as set forth below. To the extent the Company desires, the Ad Hoc Group would also backstop an upsized DIP loan in the total amount of $125 million (the "Upsized DIP Loan Option") which
+
+would also include junior mortgages on properties constituting collateral under the prepetition March 2029 Notes (the "March 2029 Notes Collateral"). Borrower OPI 25 Exchange LLC (the "Borrower"). Guarantors Each entity set forth on Schedule 1 other than
+
+
+the Borrower shall guaranty the DIP Facility (the "Guarantors"). If the Borrower exercises the Upsized DIP Loan Option, the existing guarantors under the prepetition March 2029 Notes that provided an unsecured guarantee under the 2027 Notes (the "March
+
+
+2029 Notes Guarantors"), which are listed on Schedule 1A, shall also become Guarantors. For purposes of the DIP Loans, the term "Credit Parties" shall refer to the Borrower and the applicable Guarantors, collectively. For the avoidance of doubt, neither OPI
+
+
+nor any direct or indirect subsidiaries of OPI that are guarantors under the $610 million in aggregate principal amount of the September 2029 Notes (the "September 2029 Notes Guarantors") shall be a Credit Party. DIP Agent [TBD], as administrative and
+
+collateral agent (in such capacity, the "Agent"). Lenders The Ad Hoc Group will backstop (in such capacity, the "Backstop Parties") the DIP Facility in full; provided that the other 2027 Noteholders will be offered the opportunity to participate on a pro rata basis
+
+
+in the DIP Facility (all such participating 2027 Noteholders, in each case, together with the Ad Hoc Group (in their capacity as lenders, the "Ad Hoc Group Lenders"), the "Lenders" and each, a "Lender"). Procedures to effectuate such participation TBD,
+
+
+including timing for the syndication, to be after the entry of the Interim DIP Order and prior to the entry of the Final DIP Order.
+2 "Required Backstop Parties" shall mean Ad Hoc Group Lenders holding at least 50.1% of the Commitments. "Required Lenders" shall mean Lenders holding at least 50.1% of the outstanding unused commitments and term loans under the DIP Facility.
+
+Amount The DIP Facility shall be comprised of a multi-draw term loan facility in an aggregate amount of up to $90 million (or $125 million in the event of the Upsized DIP Loan Option). An initial amount of $[15]1 million (or [$25] million in the event of the
+
+
+Upsized DIP Loan Option) will be made available (subject to the conditions to borrowing set forth below) upon entry of an interim order of the Bankruptcy Court, in form and substance satisfactory to the Required Backstop Parties in their sole discretion,
+
+
+approving the financing (the "Interim DIP Order" and the date the Bankruptcy Court enters the Interim DIP Order, the "Interim DIP Order Entry Date") and may be drawn upon satisfaction of the other conditions to borrowing contained in the DIP Facility (such
+
+
+DIP Loans, the "Interim Loans"). The remainder of the facility will be made available subject to entry of an order of the Bankruptcy Court, in form and substance satisfactory to the Required Lenders in their sole discretion, approving the DIP Facility on a final
+
+basis (the "Final DIP Order", together with the Interim DIP Order, the "DIP Orders" and the date the Bankruptcy Court enters the Final DIP Order, the "Final DIP Order Entry Date"), and shall be funded on one or more borrowing dates in amounts not less than
+
+
+$[30] for each borrowing on and after the Final DIP Order Entry Date upon satisfaction of the other conditions to borrowing set forth below (such DIP Loans, the "Final Loans"); provided that DIP Loans shall be funded by the Lenders into an account maintained
+
+
+by the Agent (the "DIP Funding Account"), which the DIP Orders will provide is not property of the estate, and maintained on deposit therein until the Borrower is permitted to draw such funds in accordance with the Budget. Any drawn but unused funds will be
+
+
+held by the Debtors in a segregated, blocked account which is subject to a first priority security interest in favor of the Agent. Interest; Premiums; Fees Interest: All amounts outstanding under the DIP Facility will bear interest at 10.5% payable in cash. Upfront
+
+Premium: 1.0% payable in kind (PIK). Default Interest: During the continuance of an Event of Default, the DIP Loans and all other outstanding obligations under the DIP Facility will bear interest at an additional 3.00% per annum above the interest rate
+
+
+otherwise applicable. Backstop Premium: 4.0% payable to the Backstop Parties, earned and payable upon execution of the DIP Facility [in cash or in kind (at the election of the Required Lenders). 1 Draw schedule TBD.
+3 Exit Premium: 4% payable on the full principal commitment of the DIP Facility. Maturity The DIP Loans shall be repaid in full, and the Commitments shall terminate, on the earliest to occur (the "Maturity Date") of (i) the date that is 12 months from the Closing
+
+
+date, (ii) the Final DIP Order has not been entered by the Bankruptcy Court on or before the applicable Milestone (as defined below); (iii) the date of acceleration of the DIP Loans and the termination of the Commitments pursuant to the terms of the DIP
+
+
+Facility; (iv) the date the Bankruptcy Court orders a conversion of the Chapter 11 Cases to a chapter 7 liquidation or the dismissal of the chapter 11 case of any Debtor; (v) the consummation of a sale or other disposition of all or substantially all of the assets of
+
+
+the Debtors under section 363 of the Bankruptcy Code; (vi) the date that is 40 calendar days after the Interim DIP Order Entry Date if the Final DIP Order shall not have been entered by such date; (vii) the substantial consummation (as defined in 11 U.S.C. §
+
+1101(2)) of a plan of reorganization of one or more Debtor (a "Plan"), which has been confirmed by an order entered by the Bankruptcy Court (the "Confirmation Order") or (viii) additional maturity events to be determined. Exit Treatment Upon exit, the DIP
+
+
+Loans will be: (i) repaid in cash in full, or (ii) all, or a portion, of the DIP Loans will be repaid in equity of the reorganized Debtors at a 30% discount to the agreed upon plan value, at the mutual agreement of the Debtors and the Required Lenders,. Budget The
+
+
+13-week statement of receipts and disbursements for the next 13 weeks of the Credit Parties, broken down by week, including the anticipated uses of the DIP Facility for such period ("Budget"), and thereafter at the end of every fourth week an updated 13-
+
+
+week projection for the subsequent 13-week period (which in each case must be satisfactory to the sole discretion of the Required Lenders). Priority and Liens All obligations under the DIP Facility shall at all times: (i) pursuant to Section 364(c)(1) of the
+
+Bankruptcy Code, be entitled to superpriority claim status in the case of each Credit Party, having priority over any and all other claims, including, without limitation, the super-priority adequate protection claims granted under the Interim Order and the Final
+
+
+Order, and the administrative expenses of the kinds specified in or ordered pursuant to Bankruptcy Code sections 105, 326, 327, 328, 330, 331, 361, 362, 363, 364, 365, 503, 506 (subject to the entry of the Final Order), 507(a), 507(b), 546, 552 (subject to the
+
+
+entry of the Final Order), 726, 1113 and 1114, and any other provision of the Bankruptcy Code, subject only to the Carve-Out; (ii) pursuant to Section 364(c)(2) of the Bankruptcy Code, be secured by a perfected first priority lien on unencumbered property now
+
+
+owned or after acquired assets of the Credit Parties that are not otherwise subject to any lien (the "Prepetition Unencumbered Collateral"), including any real property not subject to a mortgage and assignments of rents thereon; (iii) pursuant to Section 364(d)
+
+of the Bankruptcy Code, be secured by a perfected first priority priming lien on all now owned or after acquired
+4 assets of the Credit Parties constituting collateral of the 2027 Notes, including the assignments of rents thereon (including the proceeds of any causes of action under Bankruptcy Code sections 502(d), 544, 545, 547, 548, 549, 550 or 553 or any other
+
+
+avoidance actions under the Bankruptcy Code or applicable non-bankruptcy law ("Avoidance Actions") but excluding such Avoidance Actions themselves); and (iv) pursuant to Section 364(c)(3) of the Bankruptcy Code, be secured by a perfected junior lien on
+
+
+all now owned or after acquired assets of the Credit Parties that are subject to (x) any valid, perfected and non-avoidable lien in existence on the petition date or (y) any valid lien in existence on the petition date that is perfected subsequent to the petition date
+
+by Section 564(b) of the Bankruptcy Code, in each case other than the encumbrances under the 2027 Notes. The assets described above, collectively, the "Collateral". All of the liens described herein with respect to the assets of the Credit Parties shall be
+
+
+effective and perfected by the DIP Orders and without the necessity of the execution of mortgages, security agreements, pledge agreements, financing statements or other agreements. Carve Out Customary carve-out to be included in the DIP Orders,
+
+
+including, but not limited to, (a) fees to be paid to the Clerk of the Bankruptcy Court (b) fees to be paid to the U.S. Trustee (c) fees and expenses for a Chapter 7 trustee under section 726(b) of the Bankruptcy Code up to $50,000, (d) all accrued and unpaid
+
+
+fees and expenses of the Credit Parties' (and, if applicable, official committee's and, in the Upsized DIP Loan Option, the Other Debtors') professionals (excluding any success fees, transaction fees, completion fees, or similar one time fees) (collectively the
+
+"Professional Fees") incurred at any time on or prior to the delivery of written notice by the DIP Agent to the Borrowers, their lead counsel, the U.S. Trustee and lead counsel for any statutory committee appointed in the Cases describing the DIP Event of
+
+
+Default that is alleged to have occurred and be continuing under the DIP Documents (a "Trigger Notice"), and approved at any time by the Bankruptcy Court (the "Pre Trigger Amount") plus (e) Professional Fees incurred after the delivery of a Trigger Notice
+
+
+and approved at any time by the Bankruptcy Court in an aggregate amount not to exceed $[1,000,000] (the "Post Trigger Cap") (collectively (a)-(e), the "Carve-Out"). The Carve-Out shall be allocated, based on the appropriate Allocation Methodology set forth
+
+
+in Schedule 2. Closing Date The date on or after the entry of the Interim DIP Order on which customary conditions precedent have been satisfied, including (i) payment of premiums, fees and expenses, and (ii) receipt of a 13-week cash forecast in form and
+
+substance satisfactory to the Required Backstop Parties (the date of such closing, the "Closing Date").
+5 Use of Proceeds In accordance with and subject to the Budget (as defined below) and (if applicable) the DIP Orders, the proceeds of the DIP Facility: may be used only for the other following purposes: (A) to pay reasonable and documented costs, fees and
+
+
+expenses that are incurred in connection with the restructuring and/or Chapter 11 Cases appropriately allocable to and for the benefit of the Credit Parties, (B) to pay (directly or through OPI), the reasonable and documented costs, fees and expenses that are
+
+
+incurred by OPI in connection with the restructuring and/or Chapter 11 Cases that are allocable to the Credit Parties pursuant to the Allocation Methodology set forth in Schedule 2 attached hereto, (C) for working capital and general corporate purposes of the
+
+Credit Parties and, subject to the Budget and other limitations to be agreed consistent with the operating needs of such subsidiaries, their direct and indirect subsidiaries, (D) to pay premiums, fees, interest, and expenses associated with the DIP Facility, (E) to
+
+
+make adequate protection payments as set forth in the sections below entitled "Adequate Protection", (F) fund the Carve-Out (as defined herein), and (G) [in the Upsized DIP Election Option, up to $30 million which may be on-lent to non-Credit Party Debtors
+
+
+(the "Other Debtors") and used for costs incurred by or allocated to such Other Debtors. With respect to any funds on-lent to Other Debtors, the Lenders shall have superpriority administrative expense claims on a joint and several basis against OPI and each
+
+
+OPI subsidiary contained in such applicable Obligor Group on account of all funds on-lent to an Other Debtor and allocable to such Obligor Groups.] Notwithstanding the foregoing, no portion or proceeds of the DIP Loans, the Carve-Out or the Collateral may
+
+be used (i) for any purpose that is prohibited under the Bankruptcy Code or the DIP Orders; (ii) to finance or reimburse for expenses incurred or to be incurred, directly or directly in connection with the investigation (including discovery proceedings), initiation or
+
+
+prosecution of any claims, causes of action, adversary proceedings or other litigation, adverse to the interests of any or all of the 2027 Noteholders, or their respective rights and remedies under the 2027 Notes Indenture, including, without limitation, (x) any
+
+
+proceeding to determine the amount, validity, perfection or priority of any security interest in favor of the 2027 Noteholders, and (y) the amount, validity or enforceability of the obligations of the Credit Parties under the 2027 Notes Indenture or any guarantees
+
+
+thereof, (iii) any other action, which with the giving of notice or passing of time, would result in an Event of Default under the DIP Facility; and (iv) to make any distribution under a plan of reorganization in the Chapter 11 Cases (a "Plan") that does not provide
+
+for the indefeasible payment of the DIP Facility in full and in cash (or as otherwise permitted pursuant to the DIP Facility. The use of proceeds of the DIP Facility shall in all cases be in accordance with the Budget (including any permitted variances). No portion
+
+
+of the Company's cash collateral and other cash (collectively, the "Cash Collateral"), the DIP Loans or the Collateral may be used to investigate, commence or prosecute any action, proceeding or objection with respect to or related to (1) the claims, liens or
+
+
+security interests of the Agent or the Lenders, (2) any claims, demands, liabilities, responsibilities, disputes, remedies, causes of action, indebtedness or obligations that are subjects of the Release (as defined below) or (3) certain stipulations to be made by the
+
+
+Credit Parties and approved by the Interim DIP Order; [provided that, notwithstanding (ii) above, (x) up to $500,000.00 may be used by any statutorily appointed unsecured creditors committee in connection with the investigation of any claims or causes of
+
+action
+6 adverse to the interests of any or all of the 2027 Noteholders, or their respective rights and remedies under the 2027 Notes Indenture and (y) OPI or its subsidiaries who are not Credit Parties shall not be prohibited from obtaining additional funding which may
+
+be utilized in connection with the foregoing so long as such funding is not secured by liens on any assets of, or an obligation of, the Credit Parties or the March 2029 Notes Guarantors.] Allocation All fees, costs, and expenses allocated to the Credit Parties
+
+
+shall be allocated as set forth in Schedule 2 attached hereto. Mandatory Prepayments The DIP Loans will be subject to customary mandatory prepayments to be included in the definitive DIP Loan Documents (including, without limitation, asset sales, tax
+
+
+refunds and casualty events). Payment of the Exit Premium shall be waived with respect to any prepayments with the proceeds of asset sales of any of the Prepetition Unencumbered Collateral. Voluntary Prepayments The DIP Loans may be permanently
+
+
+prepaid in full by the Borrower at any time, without any additional premium or penalty other than the fees and costs otherwise set forth herein. Representations Those representations and warranties as are customary or appropriate in the context of the
+
+proposed DIP Facility (including, without limitation, organization and good standing, due authorization, all governmental approvals, ERISA, taxes, all permits, insurance, compliance with regulation, etc.) or as otherwise required by the Agent and the Lenders.
+7 Affirmative Covenants The DIP Facility shall contain affirmative covenants customary or appropriate in the context of the proposed DIP Facility or as otherwise required by the Agent and the Lenders, including, without limitation: (i) delivery of financial
+
+
+statements and reports, budgets and variance reports, projections, officers' certificates, monthly reporting packages and other information requested by Agent, (ii) payment of all post-petition taxes and other obligations, (iii) continuation of business and
+
+
+maintenance of existence and material rights and privileges, (iv) compliance with licenses, permits and material contractual obligations, (v) maintenance of property and insurance, (vi) maintenance of books and records, (vii) right of the Agent and the Lenders
+
+
+to inspect property and books and records, (viii) notices of defaults, litigation and other material events, (ix) compliance with laws and (x) further assurances as the Agent may require. Reporting to include: • Bi-weekly lender calls with management and
+
+
+advisors; • Monthly income statement, balance sheets, and to be agreed "KPI Reports"; • Weekly variance report (with satisfactory detail and reasonable explanation for individual line items to be agreed). Negative Covenants The DIP Facility shall contain
+
+negative covenants customary or appropriate in the context of the proposed DIP Facility or as otherwise required by the Agent and the Lenders, including, without limitation, regarding: (i) liens, (ii) indebtedness, (iii) mergers and acquisitions and sales of assets,
+
+
+(iv) restricted payments (including, but not limited to restrictions on payments to affiliates of any kind and disallowance of any deferred bonus or other type of payments to management), (v) leases, (vi) investments, (vii) guaranties, (viii) capital expenditures, (ix)
+
+
+transactions with affiliates, (x) creation or acquisition of subsidiaries, (xi) amendment, modification, or waiver of conditions or provisions contained in the prepetition debt agreements, (xii) payment of debt, (xiii) change in business, (xiv) material contracts; (xv)
+
+
+restrictions on disbursements in excess of a de minimis amount to be agreed (shall not be permitted without the consent of the Ad Hoc Group (such consent to be deemed given if Ad Hoc Group have not objected to the making of any such disbursement in
+
+
+accordance with the Budget within one business day of receiving notice thereof). Financial Covenants Permitted Variance Testing tested weekly for variance testing on actual individual disbursement line items (excluding professional fees to be agreed), total
+
+
+operating disbursements and net operating cash flow less capex with a 10% variation (such deviations, "Permitted Deviation"), conducted on a 4-week rolling basis starting the first full week after the Petition Date. The Credit Parties shall allow the Agent and
+
+
+the Lenders (and its representatives, professionals and consultants) access to the Debtors' premises, representatives and books and records during regular business hours in order to monitor financial performance, Budget compliance and Collateral.
+8 Conditions to All Borrowings The conditions to the obligation of the Lenders to make the DIP Loans shall be customary or appropriate in the context of the proposed DIP Facility or as otherwise required by the Agent and the Lenders, including, without
+
+
+limitation, (i) the Interim DIP Order and the Final DIP Order shall not have been reversed, modified, amended, stayed or vacated, (ii) the Credit Parties shall be in compliance in all respects with the Interim DIP Order and the Final DIP Order, (iii) not later than
+
+
+[40] days following the Interim DIP Order Entry Date, the Final DIP Order, in form and substance satisfactory to the Lenders in their sole discretion, is entered, (iv) the Lenders shall have received the Budget, any required periodic updates pursuant to the
+
+
+Budget and any variance reports, each in form and substance satisfactory to the Lenders, and the Credit Parties shall be in compliance with the Budget and (v) the absence of any default or Event of Default. Events of Default The DIP Facility shall contain
+
+
+events of default customary or appropriate in the context of the proposed DIP Facility or as otherwise required by the Agent and the Lenders (the "Events of Default"), including, without limitation: (i) the filing by any party of a plan of reorganization that does not
+
+propose to repay all obligations under the DIP Facility in full, in cash immediately upon its effectiveness which is not withdrawn, dismissed or denied within five business days after such filing; (ii) the entry of an order approving any disclosure statement in
+
+
+support of a plan of reorganization that does not propose to repay all obligations under the DIP Facility in full, in cash immediately upon its effectiveness; (iii) the violation of any term, provision or condition in the Interim DIP Order or Final DIP Order; (iv) the
+
+
+making of any payment or disbursement that is not set forth as a line item on the Budget; (v) any deviation of more than the Permitted Deviation from the amount set forth for any line item expenditure or the total expenditures under the Budget for any Budget
+
+
+Period; (vi) appointment of a trustee or examiner; (vii) dismissal of the Chapter 11 Cases; (viii) invalidation or impairment of liens or security interests of the Agent; (ix) failure to satisfy the milestones set out in accordance with Appendix I (the "Milestones"); (x)
+
+
+the entry of an order by the Bankruptcy Court terminating or modifying the exclusive right of any Credit Party to file a Plan pursuant to Section 1121 of the Bankruptcy Code, without the prior written consent of the Required Lenders, other than an order entered
+
+
+pursuant to a motion filed by or with the consent of the Required Lenders; and (xiii) any Credit Party seeks approval of a sale of any Collateral or approval of bidding procedures for such a sale (whether implemented through a plan of reorganization or
+
+
+otherwise) that would be inconsistent with the terms of the DIP Facility without the prior written consent of the Required Lenders. Remedies Immediately upon the occurrence and during the continuation of an Event of Default, the Agent may, and at the
+
+
+direction of the Lenders shall, (i)(1) declare all obligations to be immediately due and payable, (2) declare the termination, reduction or restriction of any further Commitment, to the extent any such Commitment remains, and (3) terminate the DIP Facility as to
+
+any future liability or obligation of the Agent and the Lenders, but without affecting any of the obligations under the DIP Facility, the liens under the DIP Facility, or post-petition administrative superpriority claim status; (ii) declare a termination, reduction or
+
+
+restriction on the ability of the Credit Parties to use any cash collateral derived from the proceeds of Collateral (any such declaration shall be
+9 made to the Credit Parties, the official committee of creditors of the Credit Parties (if applicable) and the United States Trustee (if applicable); and (iii) take such other actions authorized under the DIP Orders. Adequate Protection 2027 Notes Adequate
+
+
+Protection: In exchange for the consent of the 2027 Noteholders to the (a) subordination of their respective interests in the 2027 Notes Collateral, (b) the use of cash collateral during the Chapter 11 Cases, (c) the use, sale, lease or other disposition of any
+
+2027 Notes Collateral, (d) the imposition of the automatic stay pursuant to section 362(a) of the Bankruptcy Code and/or (e) any other reason for which adequate protection may be granted under the Bankruptcy Code, the 2027 Notes Agent shall, to the extent
+
+
+of any diminution in value, during the pendency of the Chapter 11 Cases: i. be granted (a) additional and replacement liens on, except as set forth herein, all property of the Debtors' estates that constitutes Collateral (the "2027 Notes Adequate Protection
+
+
+Liens"), which shall be junior and subordinate to the Carve-Out, DIP liens on the Collateral and the preexisting liens, and (b) superpriority administrative expense claims against each of the Credit Parties pursuant to section 507(b) of the Bankruptcy Code,
+
+
+which claims shall be junior and subordinate only to the Carve Out and the DIP Superpriority Claims; ii. receive payments in cash on a current basis of all reasonable and documented fees, costs and expenses of professionals retained by the Ad Hoc Group,
+
+
+which professionals shall include, but may not be limited to, (a) Milbank LLP, as lead restructuring counsel, (b) Porter Hedges LLP, as Texas counsel, and (c) Evercore. iii. current payment of interest due on account of the 2027 Notes on account of all
+
+
+outstanding principal amounts at 7.5%. March 2029 Notes Adequate Protection: If the Upsized DIP Loan Option is taken, in exchange for the consent of the March 2029 Noteholders to (a) the use of cash collateral during the Chapter 11 Cases, (b) the
+
+
+imposition of the automatic stay pursuant to section 362(a) of the Bankruptcy Code and/or (c) any other reason for which adequate protection may be granted under the Bankruptcy Code, the March 2029 Notes Agent shall, to the extent of any diminution in
+
+
+value, during the pendency of the Chapter 11 Cases: i. be granted (a) additional and replacement liens on, except as set forth herein, all property of the Debtors' estates that constitutes Collateral (the "March 2029 Notes Adequate Protection Liens"), which
+
+shall be junior and subordinate to the Carve-Out, DIP liens on the Collateral and the preexisting liens, and (b) superpriority administrative expense claims against each of the Credit Parties pursuant to section 507(b) of the Bankruptcy Code, which claims shall
+
+
+be junior and subordinate only to the Carve Out and the DIP Superpriority Claims; ii. receive payments in cash on a current basis of all reasonable and documented fees, costs and expenses of professionals retained by the March 2029 Notes Agent; and iii.
+
+
+current payment of interest due on account of the March 2029 Notes on account of all outstanding principal amounts at 9.0%.
+10 Right to Credit Bid Subject to entry of the Final Order, the Agent shall have the right to credit bid (either vehicles) as part of any asset sale process or plan sponsorship process directly or through one or more acquisition and shall have the right to credit bid
+
+(either directly or through one or more acquisition vehicles) the full amount of their claims during any sale of Debtors' assets (in whole or in part), including without limitation, sales occurring pursuant to section 363 of the Bankruptcy Code or included as part of
+
+
+any restructuring plan subject to confirmation under section 1129(b)(2)(A)(ii)-(iii) of the Bankruptcy Code, by a chapter 7 trustee under section 725 of the Bankruptcy Code, or otherwise, without need for further court order authorizing the same. The Agent, upon
+
+
+the instruction of the Required Lenders, shall have the right and authority to credit bid up to the full amount of the obligations outstanding under the DIP Facility. Waivers:2 Debtors will seek entry of a Final Order that provides (i) a waiver of the "equities of the
+
+
+case" exception to section 552(b) of the Bankruptcy Code, (ii) a waiver of the ability to surcharge, including under section 506(c) of the Bankruptcy Code, and (iii) a waiver of the equitable doctrine of "marshaling" (a "Marshaling Waiver"), in each case, with
+
+
+respect to the Collateral or the 2027 Notes Collateral. Release The Credit Parties will provide customary releases for any claims, demands, liabilities, responsibilities, disputes, remedies, causes of action, indebtedness or obligations related to or arising out of
+
+
+the DIP Loans (the "Release"). Indemnity The Credit Parties shall, jointly and severally, be obligated to indemnify and hold harmless the Agent, each of the Lenders, and each of their respective affiliates, officers, directors, fiduciaries, employees, agents,
+
+
+advisors, attorneys and representatives from and against all losses, claims, liabilities, damages, and expenses (including, without limitation, out-of-pocket fees and disbursements of counsel) in connection with any investigation, litigation or proceeding, or the
+
+
+preparation of any defense with respect thereto, arising out of or relating to the DIP Facility or the transactions contemplated in this Term Sheet. Governing Law The DIP Loan Documents will provide that the Credit Parties will submit to the non-exclusive
+
+jurisdiction and venue of the Bankruptcy Court, or in the event that the Bankruptcy Court does not have or does not exercise jurisdiction, then in any state or federal court of competent jurisdiction in the State of New York; and shall waive any right to trial by
+
+
+jury. New York law shall govern the DIP Loan Documents except to the extent preempted by federal bankruptcy laws. The preceding summary of proposed terms and conditions is not intended to be all-inclusive. Any terms and conditions that are not
+
+
+specifically addressed above would be subject to future negotiations with the Agent and Lenders and comprehensive documentation of the transaction that is acceptable to the Agent and the Lenders will have to be prepared. 2 Subject to ongoing discussion
+
+
+regarding waivers and any desired stipulations or proof of claim provision.
+11
+12 Appendix I Milestone / Date3 i. Commence the chapter 11 cases by no later than ________, 2025 (the date of such commencement, the "Petition Date"); ii. File a motion to seek approval of the DIP Facility by no later than [2 Business Days] following the
+
+Petition Date; iii. Obtain the interim order approving DIP Facility by no later than [5 Business Days] after the Petition Date; iv. Obtain final order approving DIP Facility by no later than [40 days] after the Petition Date; 3 NTD: Milestones TBD and updated.
+Appendix II ADDITIONAL DEFINITIONS i. "March 2029 Notes" means the $300 million in aggregate principal amount of those certain 9.00% Secured Notes due 2029 and issued by OPI pursuant to that certain Indenture dated as of February 12, 2024, by and
+
+
+among OPI as the issuer and U.S. Bank Trust Company, National Association, as trustee and collateral agent (in such collective capacities, the "March 2029 Notes Agent"), fully and unconditionally guaranteed on a joint, several and senior secured basis by
+
+
+certain OPI subsidiaries and secured by a pledge of all of the respective equity interests of the subsidiary guarantors and first mortgage liens on 17 properties and the holders of such March 2029 Notes (in such capacity, the "March 2029 Noteholders"). ii.
+
+"2027 Notes" means the $445 million in aggregate principal amount of those certain 3.250% Secured Notes due 2027 issued pursuant to that certain Indenture (the "2027 Notes Indenture") dated as of December 11, 2024, by and among OPI as the issuer and
+
+
+U.S. Bank Trust Company, National Association, as trustee and collateral agent (in such collective capacities, the "2027 Notes Agent"), fully and unconditionally guaranteed on a joint, several and senior secured basis by the Credit Parties, and the holders of
+
+
+such 2027 Notes (in such capacity, the "2027 Noteholders"). iii. "September 2029 Notes" means the $610 million in aggregate principal amount of those certain 9.00% Secured Notes due 2029 and issued by OPI pursuant to those certain Indentures dated as
+
+
+of June 20, 2024 and October 8, 2024, respectively, by and among OPI as the issuer and U.S. Bank Trust Company, National Association, as trustee and collateral agent (in such collective capacities, the "September 2029 Notes Agent"), fully and
+
+
+unconditionally guaranteed on a joint, several and senior secured basis by certain of subsidiaries and secured by first mortgage liens on 19 properties and second mortgage liens on the 19 properties securing OPI's credit agreement and the holders of such
+
+
+September 2029 Notes (in such capacity, the "September 2029 Noteholders").
+Schedule 1 Schedule 1 Credit Parties 20 MASS AVE TRS INC. ACP EAST LLC BAYSIDE PKWY FREMONT 2 LLC FP 11 DUPONT CIRCLE, LLC FP 1401 K, LLC FP 540 GAITHER, LLC FP 6315 HILLSIDE CENTER, LLC FP ATLANTIC CORPORATE
+
+
+PARK, LLC FP PATUXENT PARKWAY, LLC FP REDLAND TECHNOLOGY CENTER LLC GOVERNMENT PROPERTIES INCOME TRUST LLC GPT PROPERTIES LLC GPT PROPERTIES TRUST GRAND OAK CIRCLE TAMPA LLC OPI 25 EXCHANGE
+
+
+LLC SIR CAMPBELL PLACE INC. SIR IRVING (FREEPORT) LLC SIR PARSIPPANY (JEFFERSON) LLC SIR PHILADELPHIA LLC SIR REIT NEW BRAUNFELS LLC SIR SAN JOSE LLC CLAY HOLDCO LLC CRI SIR LLC EWING HOLDCO LLC FIRST
+
+
+POTOMAC DC HOLDINGS, LLC FP 1211 CONNECTICUT AVENUE, LLC FP 1775 WIEHLE AVENUE, LLC FP 6310 HILLSIDE CENTER, LLC FP 840 FIRST STREET, LLC FP STERLING PARK LAND, LLC GOV LAKE FAIRFAX INC. GOV LAKEWOOD
+
+
+PROPERTIES TRUST GOV NEW OPPTY LP REIT GOV NEW OPPTY REIT OPI AL PROPERTIES LLC OPI TRS INC. PRIMERICA HOLDCO LLC SC MERGER SUB LLC SIR CENTENNIAL LLC SIR FORT MILL LLC SIR GP REDWOOD CITY LLC
+Schedule 1 15 SIR HOLDINGS CORPORATION SIR JOHNSTON LLC SIR OMAHA LLC SIR PROPERTIES REIT LLC SIR PROPERTIES TRUST SIR REIT PLANO LLC Schedule 1A In the event of the Upsized DIP Loan Option, Credit Parties shall include:
+
+
+OPI BND HOLDINGS TRUST OPI BND PROPERTIES LLC TWELVE24 ATLANTA LLC WEST JAVA SUNNYVALE LLC SANTA CLARA (WALSH) LLC
+Schedule 1 Schedule 2 Allocation Methodology • Chapter 11 Costs, Fees, and Expenses (including cost of litigation): Parties to agree on equitable allocation methodology, which: o To the fullest extent practicable, parties shall be required to specifically
+
+
+allocate actual costs based on costs directly attributable to an Obligor Group; o Only in the event that such costs, fees, and expenses are not directly attributable to a specific Obligor Group, the Debtors and Lenders shall allocate such costs as follows: $ in
+
+
+Thousands Debt Silos Principal Obligor Group Excluding Mortgages Outstanding % of Total 2027 Notes 417,994 1 18.6% Unencumbered 14,439 1 0.6% March 2029 Notes 300,000 1 13.4% Credit Parties Total 732,433 1 32.6% September 2029 Notes
+
+
+609,999 2 27.2% Credit Facility $425,000 3 18.9% OPI Parent 476,637 4 21.2% Total Debt $2,244,069 100.0% • Corporate G&A and Business Management Costs shall be allocated based upon an agreed upon methodology that fairly allocates costs and
+
+
+benefits to Obligor Groups. • The Obligor Groups include: o Obligor Group #1: the DIP Loan Credit Parties o Obligor Group #2: OPI's direct and indirect subsidiaries that own the properties pledged as first lien collateral for the September 2029 Notes as well as
+
+
+any OPI subsidiaries who own equity interests in such entities. o Obligor Group #3: OPI's direct and indirect subsidiaries who are obligors or guarantors under the Second Amendment and Restated Credit Agreement dated as of January 29, 2024 (the "Credit
+
+Agreement"). o Obligor Group #4: OPI o Obligor Group#5: Subsidiaries that own seven properties which are subject to non-recourse mortgage notes.
+Confidential | Content must not go below this line Glacier Blue 090, 130, 1l Winter Green 105, 135, 130 Mid Slate 115, 120, 135 Purple 080, 075, 155 PRIMARY PALETTE Oxford Blue 030, 040, 070 ACCENT PALETTE Maroon 160, 065, 090 Sandstone 220,
+
+
+185, 110 Turquoise 080, 175, 140 BACKGROUND Blue Grey 210, 220, 230 CHART LINES Off White 225, 230, 235 Not Financial Guidance. Subject to FRE 408 and All Equivalents. Non-Binding / Non-Final / Non-Enforceable Draft. Subject to Material
+
+
+Change. 2027 Notes AHG DIP Term Sheet 1 Company Counter (10/28) Borrower OPI 25 Exchange LLC (the "Borrower") Guarantors March 2027 Notes properties Unencumbered properties and entities; CMBS properties not to be obligors or guarantors If the
+
+
+Borrower exercises the Upsized DIP Loan Option, the prepetition March 2029 Notes subsidiaries properties shall become Guarantors Lenders Fully backstopped by the Ad Hoc Group, provided the 2027 Noteholders will be offered the opportunity to participate
+
+
+on a pro rata basis in the DIP Facility Amount $90mm (or $125mm in the event of the Upsized DIP Loan Option) o Initial amount of up to $[15]mm1 (or $[25]mm in the event of the Upsized DIP Loan Option) Interest 10.5% payable in cash Default Interest: 3.0%
+
+
+above the interest rate otherwise applicable Fees Upfront Fee: 1.0% PIK Backstop Fee: 4.0% paid in cash or in kind at the election of Required Lenders Exit Premium: 4.0% Maturity 12 months Exit Treatment Paid in cash May be equitized at [30]% discount to
+
+plan equity value at the Company's option o Plan Value of $1.7bn2 Priority & Liens 1L on unencumbered and priming 1L on March 2027 properties Superpriority claims of each DIP Loan Party; for avoidance of doubt, no superpriority claims at any other
+
+
+encumbered entities DIP superpriority claims are subordinate to any adequate protection claims on the encumbered entities 1. Draw schedule TBD 2. Plan Value of $1.7bn excludes the 2027 Notes collateral
+Confidential | Content must not go below this line Glacier Blue 090, 130, 1l Winter Green 105, 135, 130 Mid Slate 115, 120, 135 Purple 080, 075, 155 PRIMARY PALETTE Oxford Blue 030, 040, 070 ACCENT PALETTE Maroon 160, 065, 090 Sandstone 220,
+
+
+185, 110 Turquoise 080, 175, 140 BACKGROUND Blue Grey 210, 220, 230 CHART LINES Off White 225, 230, 235 Not Financial Guidance. Subject to FRE 408 and All Equivalents. Non-Binding / Non-Final / Non-Enforceable Draft. Subject to Material
+
+
+Change. 2027 Notes AHG DIP Term Sheet 2 Company Counter (10/28) Use of Proceeds Working capital and other general corporate purposes Costs, fees and expenses associated with the Chapter 11 Cases Premiums, fees, interest and expenses
+
+
+associated with the DIP Facility Adequate protection payments Fund the Carve-Out; mechanics to be discussed separately (see below) No limitations to what may be lent to non-Credit Party Debtors Restrictions on Use of Proceeds Proceeds may be used for
+
+
+funding of full OPI case Carve Out To be discussed separately Allocation All fees, costs and expenses to be allocated according to budget Adequate Protection 2027 Notes Adequate Protection: o Adequate Protection liens on prepetition March 2027 Notes
+
+collateral o All reasonable and documented fees, costs and expenses of professionals retained by the group o Current payment of post-petition interest due on account of the 2027 Notes on account of all outstanding principal amounts at 3.25% March 2029
+
+
+Notes Adequate Protection (Upsized DIP Loan Option): o To be discussed whether Adequate Protection is provided to March 2029 Notes if Upsized DIP Loan Option not exercised o Adequate Protection liens on prepetition March 2029 Notes collateral o All
+
+
+reasonable and documented fees, costs and expenses of professionals retained by the group o Current payment of interest due on account of the March 2029 Notes on account of all outstanding principal amounts at 9.0% Adequate protection for other silos to
+
+
+be discussed
+Confidential | Content must not go below this line Glacier Blue 090, 130, 1l Winter Green 105, 135, 130 Mid Slate 115, 120, 135 Purple 080, 075, 155 PRIMARY PALETTE Oxford Blue 030, 040, 070 ACCENT PALETTE Maroon 160, 065, 090 Sandstone 220,
+
+
+185, 110 Turquoise 080, 175, 140 BACKGROUND Blue Grey 210, 220, 230 CHART LINES Off White 225, 230, 235 Not Financial Guidance. Subject to FRE 408 and All Equivalents. Non-Binding / Non-Final / Non-Enforceable Draft. Subject to Material
+
+
+Change. 2027 Notes AHG Plan Term Sheet 3 Company Proposal (10/28)1 Plan Treatment Mortgages To be reinstated, refinanced, or otherwise unimpaired Credit Facility To be reinstated, refinanced or otherwise unimpaired Mar-29 SSNs To be reinstated,
+
+refinanced or otherwise unimpaired 2027 SSNs (Secured Claim) To receive properties, takeback debt, cash, or a combination 2027 SSNs (Unsecured Claim) To recover ratably (with PGNs) PF equity remaining after DIP, ERO, and Sep-29 SSNs' Secured
+
+
+Claim treatments Sep-29 SSNs (Secured Claim) $420mm takeback Exit Notes $98mm in PF equity at Plan Value PGNs To recover ratably (with 2027 SSNs' Unsecured Claim) PF equity remaining after DIP, ERO, and Sep-29 SSNs' Secured Claim treatments
+
+
+Unsecured Notes and Deficiency Claim To receive pro rata share of PF equity remaining after DIP, ERO, Sep-29 SSNs' Secured Claim, PGNs, and 2027 SSNs' Unsecured Claim treatments To additionally receive rights to participate in the ERO Unsecured
+
+
+claims include unsecured notes, Sep-29 SSNs' Unsecured Claim, and any other deficiency claims Existing Equity Extinguished Plan Value $1.7bn2 1. All PF equity being issued/distributed in the restructuring is subject to dilution from the MIP unless otherwise
+
+
+specified 2. Plan Value of $1.7bn excludes the 2027 Notes collateral
+Confidential | Content must not go below this line Glacier Blue 090, 130, 1l Winter Green 105, 135, 130 Mid Slate 115, 120, 135 Purple 080, 075, 155 PRIMARY PALETTE Oxford Blue 030, 040, 070 ACCENT PALETTE Maroon 160, 065, 090 Sandstone 220,
+
+185, 110 Turquoise 080, 175, 140 BACKGROUND Blue Grey 210, 220, 230 CHART LINES Off White 225, 230, 235 Not Financial Guidance. Subject to FRE 408 and All Equivalents. Non-Binding / Non-Final / Non-Enforceable Draft. Subject to Material
+
+
+Change. 2027 Notes AHG Plan Term Sheet 4 Company Proposal (10/28) Exit Capital Structure $902mm of reinstated existing debt $420mm takeback Exit Note Potential for 2027 SSNs to receive takeback debt Equity Rights Offering ("ERO") The ERO is
+
+
+comprised of two components: ERO A: o Proceeds used to pay exit costs o $[TBD]mm at Plan Value o Offered ratably to all unsecured claims (unsecured debt and deficiency claims) o Transferable with underlying claims1 o Includes oversubscription rights but
+
+
+no more than $[TBD]mm in total1 , subject to further discussion on exit need ERO B: o Proceeds used to paydown DIP in cash, subject to limit of $25mm o $25mm at Plan Value o Offered ratably to unsecured debtholders (excluding deficiency claims) o
+
+
+Transferable with underlying claims1 o No oversubscription rights1 1. Subject to legal review
+Content must not go below this line Glacier Blue 090, 130, 175 Winter Green 105, 135, 130 Mid Slate 115, 120, 135 Purple 080, 075, 155 PRIMARY PALETTE Oxford Blue 030, 040, 070 ACCENT PALETTE Maroon 160, 065, 090 Sandstone 220, 185, 110
+
+
+Turquoise 080, 175, 140 BACKGROUND Blue Grey 210, 220, 230 CHART LINES Off White 225, 230, 235 Not Financial Guidance. Subject to FRE 408 and All Equivalents. Non-Binding / Non-Final / Non-Enforceable Draft. Subject to Material Change.
+
+
+October 2025 2027s Cleansing Materials Settlement Term Sheet
+Confidential | Content must not go below this line Glacier Blue 090, 130, 1l Winter Green 105, 135, 130 Mid Slate 115, 120, 135 Purple 080, 075, 155 PRIMARY PALETTE Oxford Blue 030, 040, 070 ACCENT PALETTE Maroon 160, 065, 090 Sandstone 220,
+
+
+185, 110 Turquoise 080, 175, 140 BACKGROUND Blue Grey 210, 220, 230 CHART LINES Off White 225, 230, 235 Not Financial Guidance. Subject to FRE 408 and All Equivalents. Non-Binding / Non-Final / Non-Enforceable Draft. Subject to Material
+
+
+Change. 2027 Notes AHG Settlement 1 Company Counter (10/17) 2027 Notes AHG Counter (10/21) Treatment of Existing Claim Size / Type $380mm in secured notes, in full and final satisfaction of claim/no deficiency claim related to the 2027 1L collateral
+
+
+$395mm in secured takeback notes plus any such accrued post-petition interest during the course of the case, in secured takeback notes Maturity Three years after emergence March 2029 Interest Rate First 6 months: 5.0% PIK; Next 12 months: 7.0% PIK;
+
+
+Next 6 months: 5.0% Cash + 5.0% PIK; Thereafter: 12.0% Cash 10.5% cash or 12.0% PIK interest at the Company's election Security / Guarantees Security: First lien on existing Senior Secured Notes due 2027 1L collateral Guarantees: None First lien on
+
+
+existing Senior Secured Notes due 2027 1L collateral plus second lien on B. Riley Notes collateral (the "2027 Notes Credit Group") Liquidation of Collateral Asset sale proceeds swept to pay down secured notes at par and no amortization Agreed, except [TBD]
+
+
+amortization schedule based on sell-down plan Other No dividends allowed Post-emergence, 2027 1L collateral properties charged for their pro rata portion of corporate G&A (including the RMR management fee), subject to new RMR management agreement
+
+
+Agreed Agreed Post-Petition Interest Accrual 5.0% interest (interest accrual beginning 3 months after petition date) Such post-petition interest shall accrue on a cashless basis and be additive to the total claim amount If 2027 Notes receive less than the
+
+$380mm plus pre-petition unpaid accrued interest in takeback debt under a plan, all such accrued post-petition interest shall be paid in cash; for avoidance of doubt, any such accrued post-petition interest shall not count for purposes of consideration on
+
+
+account of the $380mm plus pre-petition unpaid accrued interest Months 1-3: 0.0% interest, Months 3-6: 5.0% interest, 12.0% thereafter Agreed Agreed, except $395mm
+Confidential | Content must not go below this line Glacier Blue 090, 130, 1l Winter Green 105, 135, 130 Mid Slate 115, 120, 135 Purple 080, 075, 155 PRIMARY PALETTE Oxford Blue 030, 040, 070 ACCENT PALETTE Maroon 160, 065, 090 Sandstone 220,
+
+
+185, 110 Turquoise 080, 175, 140 BACKGROUND Blue Grey 210, 220, 230 CHART LINES Off White 225, 230, 235 Not Financial Guidance. Subject to FRE 408 and All Equivalents. Non-Binding / Non-Final / Non-Enforceable Draft. Subject to Material
+
+
+Change. 2027 Notes AHG Settlement 2 Company Counter (10/17) 2027 Notes AHG Counter (10/21) Equity No equity ownership by 2027 Noteholders in 1L collateral or ParentCo Agreed Adequate Protection Adequate protection replacement liens on the
+
+
+2027 prepetition 1L and 2L collateral and payment of reasonable and documented professional fees Adequate protection replacement liens on the 2027 Notes Credit Group, superpriority claims, and payment of reasonable and documented professional fees
+
+
+ParentCo General Structure Capital structure of ParentCo: o Credit facility, March 2029s, Mortgages to be refinanced or otherwise unimpaired (~$902mm) o ~$420mm1 of takeback debt (inclusive of ParentCo DIP rolling to exit other than equity conversion
+
+
+portion) Equity of ParentCo split between ParentCo DIP conversion, September 2029's partial conversion to equity and Unsecured Debt equitization (with Equity Rights Offering)2 Capital structure of ParentCo: o Agreed, subject to further diligence on pro forma
+
+
+capital structure including, but not limited to rates, maturities, etc. of pro forma debt o Agreed, subject to further diligence on pro forma capital structure per the above4 Agreed Other Terms / covenants of 2027 Notes takeback debt will incentivize and govern
+
+sales of assets (including consent rights) New RMR management agreement to be agreed between RMR and the AHG prior to the petition date, will be structured to incentivize the sale of assets Customary releases3 Support Premium: $5mm paid in cash to
+
+
+the 2027 Notes AHG holdings o Paid prepetition upon the signing of an RSA Agreed Agreed Agreed Support Premium: 4.0%, payable in cash, calculated on the balance of the 2027 Notes AHG holdings o Paid prepetition upon the signing of an RSA 2027
+
+
+Notes to receive pro rata share of DIP allocation Any DIP liens on 2027 Notes Credit Group collateral extinguished at exit and no refinancing with exit debt 1. Excludes any takeback debt or DIP exit for the 2027 Notes AHG 2. Subject to dilution from the MIP 3.
+
+
+Subject to completion of independent investigation 4. $420mm of takeback debt for $610mm Notes
+Confidential | Content must not go below this line Glacier Blue 090, 130, 1l Winter Green 105, 135, 130 Mid Slate 115, 120, 135 Purple 080, 075, 155 PRIMARY PALETTE Oxford Blue 030, 040, 070 ACCENT PALETTE Maroon 160, 065, 090 Sandstone 220,
+
+185, 110 Turquoise 080, 175, 140 BACKGROUND Blue Grey 210, 220, 230 CHART LINES Off White 225, 230, 235 Not Financial Guidance. Subject to FRE 408 and All Equivalents. Non-Binding / Non-Final / Non-Enforceable Draft. Subject to Material
+
+
+Change. Disclaimer This presentation has been prepared by Moelis & Company LLC ("Moelis") solely for the information and assistance of Office Properties Income Trust (the "Company") in considering the matters referred to in these materials. This
+
+
+presentation is confidential and may not be disclosed (in whole or in part) or utilized for other purposes without the express prior written consent of Moelis. This presentation has been prepared based on information provided by the Company and/or from third
+
+
+party sources. Moelis assumed such information is complete and accurate in all material respects. Moelis has not independently verified such information (or assumed responsibility for the independent verification of such information). To the extent this
+
+
+presentation includes projections, forecasts or other forward-looking statements, Moelis has assumed that such information was reasonably prepared based on the best currently available estimates and judgments of the Company and/or other parties as to the
+
+
+future performance of the Company and/or such other parties. Moelis expresses no views as to the reasonableness of any such projections, forecasts or other forward-looking statements or the assumptions on which they are based. Moelis has not made any
+
+
+independent evaluation or appraisal of any of the assets or liabilities (contingent, derivative, off-balance-sheet, or otherwise) of the Company or any other party. Moelis' participation in any due diligence review is solely for purposes of supporting its advice and
+
+
+analysis. This presentation is based on economic, monetary, market and other conditions as in effect on, and the information made available to us as of, the date hereof, and Moelis assumes no obligation to update this presentation or correct any information
+
+herein. No company or transaction used in this presentation is identical to the Company or any potential transaction. The analyses set forth in this presentation do not purport to be appraisals and such analyses do not reflect Moelis' views of the prices at which
+
+
+businesses or securities actually may be sold. Because the analyses described in these materials (including the information used in such analyses) are inherently subject to uncertainty, Moelis does not assume responsibility if future results are materially
+
+
+different from those forecast. This presentation was designed for use by certain persons familiar with the business of the Company. This presentation is not intended to provide the sole basis for any decision on any transaction or strategic alternative and is not
+
+
+a recommendation with respect to any transaction or strategic alternative. This presentation does not address the Company's underlying business decision to engage in any transaction or strategic alternative or the relative merits of any transaction or strategic
+
+
+alternative as compared to any alternative business strategies or transactions that might be available to the Company. Nothing contained in this presentation should be construed as legal, regulatory, tax or accounting advice. Moelis and its affiliates are
+
+
+engaged globally in a wide range of investment banking and other activities for their own account and otherwise. Moelis and its affiliates may have advised, may seek to advise and may in the future advise companies referred to in this presentation. Personnel
+
+
+of Moelis or such affiliates may make statements or provide advice that is contrary to information included in this presentation. The proprietary interests of Moelis or its affiliates may conflict with your interests. In addition, Moelis and its affiliates and their
+
+
+personnel may from time to time have positions in or effect transactions in securities referred to in this material (or derivatives of such securities), or serve as a director of companies referred to in this presentation. 3
+
+
+
+
+Confidential | Content must not go below this line Glacier Blue 090, 130, 1l Winter Green 105, 135, 130 Mid Slate 115, 120, 135 Purple 080, 075, 155 PRIMARY PALETTE Oxford Blue 030, 040, 070 ACCENT PALETTE Maroon 160, 065, 090 Sandstone 220,
+
+
+185, 110 Turquoise 080, 175, 140 BACKGROUND Blue Grey 210, 220, 230 CHART LINES Off White 225, 230, 235 Credit Facility DIP Side by Side 1 Credit Facility Proposal (10/23) Company Counter (10/28) Facility Size $125mm - $150mm o Up to
+
+
+$[35]mm under interim order Agreed o Agreed Use of Proceeds General corporate purposes, working capital, adequate protection payments, fees and expenses Agreed Borrower & Guarantors Borrower TBD Guarantees from all wholly and non-wholly owned
+
+
+subsidiaries Borrower TBD Guarantees on encumbered boxes TBD, subject to legal review o Guarantees from Debtors only Lenders Fully backstopped by JPMorgan, Schonfeld, and Wells Fargo, with participation option provided to all Credit Facility lenders
+
+
+Agreed Collateral Non-priming pari passu first lien on Credit Facility collateral, with support from majority of Credit Facility lenders Superpriority lien on unencumbered assets, subject to customary exclusions No lien on prepetition encumbered assets other than
+
+
+Credit Facility collateral Superpriority claims against all boxes 1L on unencumbered properties plus 2L on March 2029 Notes collateral Agreed; however, DIP claims subordinate to AP claims on the encumbered boxes Roll-Up None Agreed Maturity 364 days
+
+Agreed Interest Rate SOFR+[750] Agreed Fees Backstop Fee: [3.0]% Upfront Fee: [2.0]% Exit Fee1 : [2.0]% Undrawn Commitment Fee: [0.75]% Early Repayment / Break Fee1 : [2.0]% Agreed Agreed Agreed Agreed Agreed Exit Financing Cash payment or
+
+
+refinancing of DIP at exit to be determined Paid in cash or equitized at Company's option Conversion Option None May be equitized at [TBD]% discount to plan equity value at Company's option Adequate Protection for Credit Facility Customary adequate
+
+
+protection stipulations for Credit Facility Interest paid in cash at the default rate applicable for Base Rate Loans Agreed Default rate to be discussed and rights reserved for both parties on October interest calculation 1. Only one of Upfront Fee and Early
+
+
+Repayment / Break Fee earned, not both Not Financial Guidance. Subject to FRE 408 and All Equivalents. Non-Binding / Non-Final / Non-Enforceable Draft. Subject to Material Change.
+Confidential | Content must not go below this line Glacier Blue 090, 130, 1l Winter Green 105, 135, 130 Mid Slate 115, 120, 135 Purple 080, 075, 155 PRIMARY PALETTE Oxford Blue 030, 040, 070 ACCENT PALETTE Maroon 160, 065, 090 Sandstone 220,
+
+
+185, 110 Turquoise 080, 175, 140 BACKGROUND Blue Grey 210, 220, 230 CHART LINES Off White 225, 230, 235 Credit Facility DIP Side by Side 2 Credit Facility Proposal (10/23) Company Counter (10/28) Covenants Maximum budget variance of 15% or
+
+$[ ], whichever is greater (excluding professional fees and expenses), tested weekly on a rolling 4-week basis New budget issued every 4 weeks; if a new budget is not approved, company can carry forward favorable variances from prior periods $[ ] minimum
+
+
+liquidity covenant, tested daily Customary DIP covenants and consents To be discussed Reporting Monthly financial reporting, with semi-monthly for variances Customary information rights and access to information, including periodic calls with management
+
+
+and company financial advisors Agreed Agreed Other Payment of DIP lender fees and expenses Indemnification and exculpation of DIP lenders Agreed Agreed Milestones To be discussed To be discussed Not Financial Guidance. Subject to FRE 408 and All
+
+
+Equivalents. Non-Binding / Non-Final / Non-Enforceable Draft. Subject to Material Change.
+Confidential | Content must not go below this line Glacier Blue 090, 130, 1l Winter Green 105, 135, 130 Mid Slate 115, 120, 135 Purple 080, 075, 155 PRIMARY PALETTE Oxford Blue 030, 040, 070 ACCENT PALETTE Maroon 160, 065, 090 Sandstone 220,
+
+
+185, 110 Turquoise 080, 175, 140 BACKGROUND Blue Grey 210, 220, 230 CHART LINES Off White 225, 230, 235 Disclaimer This presentation has been prepared by Moelis & Company LLC ("Moelis") solely for the information and assistance of Office
+
+
+Properties Income Trust (the "Company") in considering the matters referred to in these materials. This presentation is confidential and may not be disclosed (in whole or in part) or utilized for other purposes without the express prior written consent of Moelis.
+
+
+This presentation has been prepared based on information provided by the Company and/or from third party sources. Moelis assumed such information is complete and accurate in all material respects. Moelis has not independently verified such information
+
+
+(or assumed responsibility for the independent verification of such information). To the extent this presentation includes projections, forecasts or other forward-looking statements, Moelis has assumed that such information was reasonably prepared based on
+
+
+the best currently available estimates and judgments of the Company and/or other parties as to the future performance of the Company and/or such other parties. Moelis expresses no views as to the reasonableness of any such projections, forecasts or other
+
+forward-looking statements or the assumptions on which they are based. Moelis has not made any independent evaluation or appraisal of any of the assets or liabilities (contingent, derivative, off-balance-sheet, or otherwise) of the Company or any other party.
+
+
+Moelis' participation in any due diligence review is solely for purposes of supporting its advice and analysis. This presentation is based on economic, monetary, market and other conditions as in effect on, and the information made available to us as of, the date
+
+
+hereof, and Moelis assumes no obligation to update this presentation or correct any information herein. No company or transaction used in this presentation is identical to the Company or any potential transaction. The analyses set forth in this presentation do
+
+
+not purport to be appraisals and such analyses do not reflect Moelis' views of the prices at which businesses or securities actually may be sold. Because the analyses described in these materials (including the information used in such analyses) are inherently
+
+
+subject to uncertainty, Moelis does not assume responsibility if future results are materially different from those forecast. This presentation was designed for use by certain persons familiar with the business of the Company. This presentation is not intended to
+
+
+provide the sole basis for any decision on any transaction or strategic alternative and is not a recommendation with respect to any transaction or strategic alternative. This presentation does not address the Company's underlying business decision to engage in
+
+
+any transaction or strategic alternative or the relative merits of any transaction or strategic alternative as compared to any alternative business strategies or transactions that might be available to the Company. Nothing contained in this presentation should be
+
+
+construed as legal, regulatory, tax or accounting advice. Moelis and its affiliates are engaged globally in a wide range of investment banking and other activities for their own account and otherwise. Moelis and its affiliates may have advised, may seek to advise
+
+and may in the future advise companies referred to in this presentation. Personnel of Moelis or such affiliates may make statements or provide advice that is contrary to information included in this presentation. The proprietary interests of Moelis or its affiliates
+
+
+may conflict with your interests. In addition, Moelis and its affiliates and their personnel may from time to time have positions in or effect transactions in securities referred to in this material (or derivatives of such securities), or serve as a director of companies
+
+
+referred to in this presentation. 3
+1 INITIAL PROPOSED BUDGET - CONSOLIDATED DEBTORS' FORECAST SUBJECT TO FRE 408 AND APPLICABLE STATE EQUIVALENTS - NO ADMISSIONS OR WAIVERS Subject to Cleansing $ in 000s Week # Wk 1(1) Wk 2 Wk 3 Wk 4 Wk 5 Wk
+
+
+6 Wk 7 Wk 8 Wk 9 Wk 10 Wk 11 Wk 12 Wk 13 13 Week Week Ending 7-Nov 14-Nov 21-Nov 28-Nov 5-Dec 12-Dec 19-Dec 26-Dec 2-Jan 9-Jan 16-Jan 23-Jan 30-Jan Total Status Fsct Fsct Fsct Fsct Fsct Fsct Fsct Fsct Fsct Fsct Fsct Fsct Fsct Fsct Rent and
+
+Other Receipts $ 13,267 $ 2,467 $ 2,030 $ 2,892 $ 14,293 $ 8,055 $ 3,022 $ 2,239 $ 14,508 $ 8,439 $ 2,887 $ 2,299 $ 5,852 $ 82,249 Operating Disbursements Payroll & Benefits $ - $ (85) $ (85) $ (85) $ (89) $ (89) $ (86) $ (1,520) $ - $ (93) $ (93) $ (93) $
+
+
+(1,475) $ (3,793) Property and Other Taxes (57) (10) (427) (749) (858) (8) (347) (114) (12) (12) (12) (1,059) (10) (3,675) Property Management Fees - - - - - - - - (949) - - - (979) (1,928) Business Management Fee - - - - - - - - (1,021) - - - (1,021) (2,042)
+
+
+Insurance - - - - - - - - (259) - - - - (259) Utilities - (67) (76) (67) (313) (346) (365) (380) (563) (581) (581) (581) (589) (4,508) Maintenance & Other Expenses - (86) (217) (315) (420) (498) (841) (854) (744) (764) (764) (764) (1,346) (7,614) Corporate G&A - (18)
+
+
+(37) (79) (18) (66) (18) (24) (147) (81) (39) (39) (100) (665) Total Operating Disbursements $ (57) $ (265) $ (841) $ (1,294) $ (1,699) $ (1,007) $ (1,657) $ (2,893) $ (3,695) $ (1,531) $ (1,489) $ (2,537) $ (5,521) $ (24,484) Total Capex $ - $ - $ (220) $ (292) $
+
+
+(996) $ (1,390) $ (1,180) $ (2,310) $ (2,454) $ (2,222) $ (2,362) $ (2,370) $ (2,474) $ (18,271) Net Cash Flow From Operations $ 13,211 $ 2,201 $ 969 $ 1,306 $ 11,598 $ 5,658 $ 184 $ (2,964) $ 8,359 $ 4,686 $ (965) $ (2,608) $ (2,142) $ 39,493 Non-
+
+
+Operating Disbursements Debt Service $ (2,855) $ - $ - $ - $ (4,257) $ - $ - $ - $ (5,347) $ - $ - $ - $ - $ (12,458) Professional Fees (325) (2,946) (1,771) (2,746) (2,596) (4,600) (1,930) (2,080) (1,930) (2,275) (4,020) (1,960) (2,710) (31,890) Utility Deposits -
+
+
+(914) - - - - - - - - - - - (914) First Day Motions - Taxes (2,667) - (1,998) (1,211) (1,618) (326) (1,851) (325) - - - (4,004) - (14,001) First Day Motions - Vendors 0 (603) (1,100) (1,939) (1,805) (1,815) (1,763) (706) (510) (457) (491) (493) (917) (12,599) First Day
+
+
+Motions - Return of Tenant Deposits - (25) - (1,049) - - - - - - - - (27) (1,101) Total Non-Operating Disbursements (5,847) (4,489) (4,870) (6,946) (10,277) (6,741) (5,544) (3,111) (7,786) (2,732) (4,511) (6,456) (3,654) (72,964) (+/-) Net Cash Flow from/to CMBS
+
+$ 232 $ (31) $ (30) $ (187) $ 763 $ 42 $ 75 $ 8 $ 666 $ (22) $ 26 $ (841) $ 1,321 $ 2,021 Net Cash Flow $ 7,596 $ (2,318) $ (3,931) $ (5,827) $ 2,084 $ (1,041) $ (5,285) $ (6,068) $ 1,238 $ 1,932 $ (5,449) $ (9,905) $ (4,475) $ (31,449) DIP Proceeds 10,000 -
+
+
+- - - 115,000 - - - - - - - 125,000 Net Cash Flow After Financing 17,596 (2,318) (3,931) (5,827) 2,084 113,959 (5,285) (6,068) 1,238 1,932 (5,449) (9,905) (4,475) 93,551 Beg. Cash Balance $ 28,926 $ 46,523 $ 44,204 $ 40,273 $ 34,447 $ 36,531 $ 150,489 $
+
+
+145,204 $ 139,136 $ 140,375 $ 142,307 $ 136,857 $ 126,952 $ 28,926 (+/-) Net Cash Flow After Financing 17,596 (2,318) (3,931) (5,827) 2,084 113,959 (5,285) (6,068) 1,238 1,932 (5,449) (9,905) (4,475) 93,551 End. Cash Balance $ 46,523 $ 44,204 $
+
+
+40,273 $ 34,447 $ 36,531 $ 150,489 $ 145,204 $ 139,136 $ 140,375 $ 142,307 $ 136,857 $ 126,952 $ 122,477 $ 122,477 Notes: Week 1 covers the period from October 31, 2025 - November 7, 2025
+2 INITIAL PROPOSED BUDGET - DEBTORS' CONSOLIDATING FORECAST 10/31/25 - 1/30/26 TOTAL CASH FLOWS BY SILO ($ in 000s) SUBJECT TO FRE 408 AND APPLICABLE STATE EQUIVALENTS - NO ADMISSIONS OR WAIVERS Subject to
+
+
+Cleansing Collateral Pool Credit Facility March 2029 Notes September 2029 Notes 2027 Notes Unencumbered Corporate Debtors Consolidated Status Fcst Fcst Fcst Fcst Fcst Fcst Fcst Rent and Other Receipts $ 24,500 $ 15,795 $ 13,516 $ 18,327 $ 10,112
+
+
+$ - $ 82,249 Operating Disbursements Payroll & Benefits $ (1,014) $ (455) $ (665) $ (1,035) $ (623) $ - $ (3,793) Property and Other Taxes (780) (833) (726) (802) (535) - (3,675) Property Management Fees (562) (359) (325) (390) (293) - (1,928) Business
+
+
+Management Fee (483) (267) (365) (578) (350) - (2,042) Insurance (59) (48) (44) (67) (41) - (259) Utilities (1,120) (500) (1,070) (1,219) (599) - (4,508) Maintenance & Other Expenses (2,607) (978) (1,246) (1,946) (835) - (7,614) Corporate G&A (158) (87)
+
+
+(119) (188) (114) - (665) Total Operating Disbursements $ (6,783) $ (3,528) $ (4,560) $ (6,224) $ (3,389) $ - $ (24,484) Total Capex $ (2,184) $ (620) $ (5,081) $ (2,978) $ (7,409) $ - $ (18,271) Net Cash Flow From Operations $ 15,534 $ 11,647 $ 3,875 $
+
+
+9,125 $ (686) $ - $ 39,493 Non-Operating Disbursements Debt Service $ (11,317) $ - $ - $ - $ - $ (1,142) $ (12,458) Professional Fees (2,853) (2,469) (6,591) (6,323) - (13,654) (31,890) Utility Deposits (222) (99) (209) (251) (133) - (914) First Day Motions -
+
+Taxes (5,138) (2,955) (2,600) (1,914) (1,393) - (14,001) First Day Motions - Vendors (2,312) (1,014) (3,954) (2,878) (2,442) - (12,599) First Day Motions - Return of Tenant Deposits - (10) - (38) (1,053) - (1,101) Total Non-Operating Disbursements $ (21,842) $
+
+
+(6,547) $ (13,355) $ (11,404) $ (5,021) $ (14,796) $ (72,964) (+/-) Net Cash Flow from/to CMBS - - - - - 2,021 2,021 Net Cash Flow $ (6,308) $ 5,100 $ (9,480) $ (2,279) $ (5,707) $ (12,775) $ (31,449)
+
