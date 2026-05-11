@@ -1,0 +1,220 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>OPI — Q1 Claim Classification &amp; Voting</title>
+<style>
+  :root{
+    --maroon:#7C0A02;
+    --maroon-dark:#5C0701;
+    --ink:#1a1a1a;
+    --muted:#555;
+    --rule:#cfcfcf;
+    --green:#E2EFDA;
+    --green-dk:#548235;
+    --yellow:#FFF2CC;
+    --yellow-dk:#BF8F00;
+    --orange:#FCE4D6;
+    --orange-dk:#C65911;
+    --grey:#F2F2F2;
+    --grey-dk:#7F7F7F;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;padding:0;background:#e8e8e8;font-family:"EB Garamond","Garamond","Adobe Garamond Pro",Georgia,serif;color:var(--ink)}
+
+  /* 16:9 slide canvas */
+  .slide{
+    width:1280px;height:720px;background:#fff;margin:20px auto;position:relative;
+    box-shadow:0 4px 20px rgba(0,0,0,.15);
+    overflow:hidden;
+  }
+
+  .top-band{position:absolute;top:0;left:0;right:0;height:22px;background:var(--maroon)}
+  .title{position:absolute;top:34px;left:48px;font-size:32px;color:var(--maroon);font-weight:400;letter-spacing:-.5px}
+  .subtitle{position:absolute;top:74px;left:48px;font-size:13px;color:var(--muted);font-style:italic}
+
+  .footer-rule{position:absolute;left:48px;right:48px;bottom:60px;border-top:1px solid var(--rule)}
+  .booth{position:absolute;left:48px;bottom:18px;font-family:Arial,Helvetica,sans-serif;font-size:10px;color:#333;line-height:1.2}
+  .booth .big{font-size:18px;font-weight:900;letter-spacing:-.5px}
+  .booth .big .red{color:var(--maroon)}
+  .booth .small{font-size:7px;color:#555;margin-top:2px;letter-spacing:.5px}
+  .opi-logo{position:absolute;right:48px;bottom:24px;font-family:Arial,Helvetica,sans-serif;text-align:right}
+  .opi-logo .name{font-size:10px;font-weight:700;letter-spacing:1px;color:#222}
+  .opi-logo .sub{font-size:7px;letter-spacing:3px;color:#666;margin-top:1px}
+  .source{position:absolute;right:48px;bottom:48px;font-size:9px;color:#888;font-style:italic;font-family:Arial,Helvetica,sans-serif}
+
+  /* Body grid: left = classification table, right = summary panel */
+  .body{position:absolute;top:108px;left:48px;right:48px;bottom:80px;display:grid;
+        grid-template-columns: 1fr 290px;gap:14px}
+
+  /* Classification table */
+  table.cls{width:100%;border-collapse:collapse;font-family:Arial,Helvetica,sans-serif;font-size:9.5px;table-layout:fixed}
+  table.cls thead th{background:var(--maroon);color:#fff;padding:5px 6px;font-weight:700;font-size:9.5px;text-align:left;border:1px solid var(--maroon-dark)}
+  table.cls tbody td{padding:4px 6px;border:1px solid #d8d8d8;vertical-align:middle;line-height:1.25}
+  table.cls tbody tr.unimp td.status{background:var(--green);color:var(--green-dk);font-weight:700}
+  table.cls tbody tr.vote td.status{background:var(--yellow);color:var(--yellow-dk);font-weight:700}
+  table.cls tbody tr.reject td.status{background:var(--orange);color:var(--orange-dk);font-weight:700}
+  table.cls tbody tr.toggle td.status{background:var(--grey);color:var(--grey-dk);font-weight:700}
+  td.cls-num{text-align:center;font-weight:700;color:var(--maroon);width:24px}
+  td.designation{font-weight:600}
+  td.size{text-align:right;font-variant-numeric:tabular-nums;width:62px}
+  td.imp{width:60px;text-align:center;font-size:9px}
+  td.status{width:78px;text-align:center;font-size:9px}
+  .recovery{color:#222;text-align:center;width:78px;font-variant-numeric:tabular-nums;font-size:9.5px}
+
+  /* Summary panel */
+  .summary{display:flex;flex-direction:column;gap:8px}
+  .stat-card{border:1px solid #ddd;border-radius:8px;padding:10px 12px;background:#fafafa}
+  .stat-card .label{font-size:10px;color:var(--muted);text-transform:uppercase;letter-spacing:.6px;font-family:Arial,Helvetica,sans-serif}
+  .stat-card .num{font-size:32px;font-weight:300;color:var(--maroon);font-family:"EB Garamond",Georgia,serif;line-height:1}
+  .stat-card .desc{font-size:11px;color:var(--ink);margin-top:2px}
+  .stat-card.green{border-color:var(--green-dk);background:#F1F8EC}
+  .stat-card.green .num{color:var(--green-dk)}
+  .stat-card.yellow{border-color:var(--yellow-dk);background:#FFFBE6}
+  .stat-card.yellow .num{color:var(--yellow-dk)}
+  .stat-card.orange{border-color:var(--orange-dk);background:#FFF1E8}
+  .stat-card.orange .num{color:var(--orange-dk)}
+  .stat-card.grey{border-color:var(--grey-dk);background:var(--grey)}
+  .stat-card.grey .num{color:var(--grey-dk)}
+
+  .takeaway{border-left:3px solid var(--maroon);padding:6px 10px;background:#fff;font-size:10.5px;line-height:1.35;color:var(--ink)}
+  .takeaway b{color:var(--maroon)}
+</style>
+</head>
+<body>
+
+<div class="slide">
+  <div class="top-band"></div>
+  <div class="title">Q1 — Claim Classification &amp; Voting</div>
+  <div class="subtitle">16 Classes under the Third Amended Plan; 7 vote, 5 presumed to accept, 2 deemed to reject, 2 toggle</div>
+
+  <div class="body">
+    <!-- Left: Classification table -->
+    <div>
+      <table class="cls">
+        <colgroup>
+          <col style="width:24px"><col style="width:25%"><col style="width:62px">
+          <col style="width:24%"><col style="width:60px"><col style="width:88px"><col style="width:72px">
+        </colgroup>
+        <thead>
+          <tr>
+            <th>#</th><th>Designation</th><th>Claim ($M)</th><th>Treatment Summary</th>
+            <th>Impair-ment</th><th>Voting Status</th><th>Plan Recovery</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr class="unimp">
+            <td class="cls-num">1</td><td class="designation">Other Secured Claims</td><td class="size">de min.</td>
+            <td>Reinstate / pay in cash / return collateral</td>
+            <td class="imp">Unimpaired</td><td class="status">Presumed Accept</td><td class="recovery">100%</td>
+          </tr>
+          <tr class="unimp">
+            <td class="cls-num">2</td><td class="designation">Other Priority Claims</td><td class="size">de min.</td>
+            <td>Treated per §1129(a)(9) — paid in full</td>
+            <td class="imp">Unimpaired</td><td class="status">Presumed Accept</td><td class="recovery">100%</td>
+          </tr>
+          <tr class="unimp">
+            <td class="cls-num">3</td><td class="designation">Mortgage Debt Guarantee Claims</td><td class="size">$177.3</td>
+            <td>Mortgage Debt repaid from New Mortgage Debt; guarantee extinguished</td>
+            <td class="imp">Unimpaired</td><td class="status">Presumed Accept</td><td class="recovery">100%</td>
+          </tr>
+          <tr class="unimp">
+            <td class="cls-num">4</td><td class="designation">Secured Credit Facility Claims</td><td class="size">$425.0</td>
+            <td>Paid in full from New Secured Credit Facility, or reinstated</td>
+            <td class="imp">Unimpaired</td><td class="status">Presumed Accept</td><td class="recovery">100%</td>
+          </tr>
+          <tr class="unimp">
+            <td class="cls-num">5</td><td class="designation">March 2029 Senior Secured Notes</td><td class="size">$300.0</td>
+            <td>Reinstated at $300M on original terms (per March 2029 settlement)</td>
+            <td class="imp">Unimpaired</td><td class="status">Presumed Accept</td><td class="recovery">100%</td>
+          </tr>
+          <tr class="vote">
+            <td class="cls-num">6</td><td class="designation">2027 Senior Secured Notes</td><td class="size">$418.0</td>
+            <td>$385M New 2027 Notes (8.375%) in SPV + $50M cash paydown + $10M support fee</td>
+            <td class="imp">Impaired</td><td class="status">YES — Vote</td><td class="recovery">100%</td>
+          </tr>
+          <tr class="vote">
+            <td class="cls-num">7</td><td class="designation">Sept 2029 Senior Secured Notes</td><td class="size">$610.0</td>
+            <td>Pro rata $300M Secured Exit Notes + Recovery Election ($120M Notes / $98M Equity @ $20/sh); deficiency = 5.3% of Reorg Equity</td>
+            <td class="imp">Impaired</td><td class="status">YES — Vote</td><td class="recovery">84.1–93.3%</td>
+          </tr>
+          <tr class="vote">
+            <td class="cls-num">8</td><td class="designation">DIP Claims</td><td class="size">$125.0</td>
+            <td>Equitized per 4/5 Notice — DIP Equity + Commitment/Exit Fee Equity + Upfront Fee Equity</td>
+            <td class="imp">Impaired</td><td class="status">YES — Vote</td><td class="recovery">100%</td>
+          </tr>
+          <tr class="vote">
+            <td class="cls-num">9</td><td class="designation">Priority Guaranteed Unsec. Notes</td><td class="size">$14.4</td>
+            <td>100% recovery in Reorg Common Equity from Unsec Equity Pool Waterfall</td>
+            <td class="imp">Impaired</td><td class="status">YES — Vote</td><td class="recovery">80.1–100%</td>
+          </tr>
+          <tr class="vote">
+            <td class="cls-num">10</td><td class="designation">Unsecured Notes Claims</td><td class="size">$476.6</td>
+            <td>6.3% of Reorg Common Equity + New Warrants + ERO Subscription Rights</td>
+            <td class="imp">Impaired</td><td class="status">YES — Vote</td><td class="recovery">4.4–7.0%*</td>
+          </tr>
+          <tr class="vote">
+            <td class="cls-num">11</td><td class="designation">Trade and Vendor Claims</td><td class="size">TBD</td>
+            <td>Paid in full in cash (technically Impaired b/c paid post-Effective Date)</td>
+            <td class="imp">Impaired</td><td class="status">YES — Vote</td><td class="recovery">100%</td>
+          </tr>
+          <tr class="vote">
+            <td class="cls-num">12</td><td class="designation">Other GUCs</td><td class="size">TBD</td>
+            <td>Convenience-style: ≤$25K paid 100%; &gt;$25K capped at $25K cash</td>
+            <td class="imp">Impaired</td><td class="status">YES — Vote</td><td class="recovery">16.7–100%</td>
+          </tr>
+          <tr class="toggle">
+            <td class="cls-num">13</td><td class="designation">Intercompany Claims</td><td class="size">N/A</td>
+            <td>At Debtors' option: Reinstate or cancel</td>
+            <td class="imp">Toggle</td><td class="status">No — Not Solicited</td><td class="recovery">N/A</td>
+          </tr>
+          <tr class="toggle">
+            <td class="cls-num">14</td><td class="designation">Intercompany Interests</td><td class="size">N/A</td>
+            <td>At Debtors' option: Reinstate or cancel</td>
+            <td class="imp">Toggle</td><td class="status">No — Not Solicited</td><td class="recovery">N/A</td>
+          </tr>
+          <tr class="reject">
+            <td class="cls-num">15</td><td class="designation">510(b) Claims</td><td class="size">N/A</td>
+            <td>Cancelled, released, discharged — no distribution</td>
+            <td class="imp">Impaired</td><td class="status">Deemed Reject</td><td class="recovery">0%</td>
+          </tr>
+          <tr class="reject">
+            <td class="cls-num">16</td><td class="designation">Existing Common Equity</td><td class="size">$0</td>
+            <td>Cancelled, released, discharged — wiped out</td>
+            <td class="imp">Impaired</td><td class="status">Deemed Reject</td><td class="recovery">0%</td>
+          </tr>
+        </tbody>
+      </table>
+      <div style="margin-top:4px;font-size:8.5px;color:var(--muted);font-family:Arial,Helvetica,sans-serif">
+        * Class 10 recovery is primary equity only; excludes upside from New Warrants and ERO Subscription Rights, which can take Class 10 ownership over 20% of Reorg Common Equity.
+      </div>
+    </div>
+
+    <!-- Right: Summary stats -->
+    <div class="summary">
+      <div class="stat-card"><div class="label">Total Classes</div><div class="num">16</div></div>
+      <div class="stat-card green"><div class="label">Unimpaired – Presumed Accept</div><div class="num">5</div><div class="desc">Classes 1, 2, 3, 4, 5 — not solicited</div></div>
+      <div class="stat-card yellow"><div class="label">Impaired – Entitled to Vote</div><div class="num">7</div><div class="desc">Classes 6, 7, 8, 9, 10, 11, 12</div></div>
+      <div class="stat-card orange"><div class="label">Impaired – Deemed Reject</div><div class="num">2</div><div class="desc">Classes 15, 16 — cramdown required</div></div>
+      <div class="stat-card grey"><div class="label">Toggle (Unimpaired or Impaired)</div><div class="num">2</div><div class="desc">Classes 13, 14 — Intercompany; not solicited</div></div>
+
+      <div class="takeaway">
+        <b>Key takeaway:</b> Plan must satisfy <b>§1129(a)(8)</b> for accepting classes and <b>§1129(b) cramdown</b> ("fair &amp; equitable") for Classes 15 &amp; 16 — easy to satisfy because no junior class receives anything on account of pre-existing interest (absolute priority preserved).
+      </div>
+    </div>
+  </div>
+
+  <div class="footer-rule"></div>
+  <div class="booth">
+    <div class="big">Chicago<span class="red">Booth</span></div>
+    <div class="small">DISTRESSED DEBT INVESTING · CLASS 8</div>
+  </div>
+  <div class="source">Source: Third Amended Plan (Doc 9, 4/8/26) Art. III §3.3; Disclosure Statement (Doc 6, 3/16/26) §I.B</div>
+  <div class="opi-logo">
+    <div class="name">OFFICE PROPERTIES INCOME TRUST</div>
+    <div class="sub">CASE NO. 25-90530 (CML)</div>
+  </div>
+</div>
+
+</body>
+</html>
